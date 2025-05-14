@@ -1,0 +1,251 @@
+id,question,targets,output_type
+004_tg_norba_24.txt,Quando è stato lanciato il TG Norba 24?,"['2010-10-25', 'venticinque ottobre duemiladieci', '25 ottobre 2010', '25/10/2010']",una data
+0499_regno_ditalia_1861-1946.txt,"In che anno si tenne in Italia il referendum istituzionale del 2 e 3 giugno, che sancì la nascita della Repubblica Italiana?","['1946', 'millenovecentoquarantasei', 'mille novecento quarantasei']",una data
+0821_gué_pequeno.txt,In quale anno è uscito il singolo di Gué Pequeno Non lo spegnere (Reloaded)?,"['2011', 'duemilaundici', 'duemila e undici']",una data
+1036_strage_di_capaci.txt,In quale data morì l'agente di scorta Antonio Montinaro?,"['23-05-1992', '1992-05-23', '23 maggio 1992', '23/05/1992', '05/23/1992']",una data
+1628_alessandra_amoroso.txt,In che data Alessandra Amoroso partecipa alla Notte della Taranta a Melpignano nel 2009?,"['22', 'ventidue giugno duemilanove', '6', 'ventidue giugno 2009', '09', '06', '2009', '22 giugno duemilanove', '22/06/2009', '22 giugno 2009']",una data
+2251_elio_germano.txt,In che anno Elio Germano fonda il gruppo 'Bestierare'?,"['millenovecentonovantasette', '1997', 'mille novecento novantasette']",una data
+236_don_matteo.txt,Quando è stata trasmessa la prima puntata di Don Matteo?,"['7 gennaio 2000', '7/1/2000', '07/01/2000', '2000-01-07', 'sette gennaio duemila']",una data
+011_iris_rete_televisiva.txt,"Quanti anni sono trascorsi dall'uscita del quiz ""Parole crociate"" condotto da Daniele Bossari nel 2011 a quando il canale Iris è diventato disponibile sulla piattaforma Sky Italia il 2 gennaio 2019?","['8', 'otto', '8 anni', 'otto anni']",un periodo di tempo
+047_matteo_salvini.txt,"Considerando i mandati tra il 1990 e il 2020, per quanti anni in totale Matteo Salvini è stato consigliere comunale di Milano?","['diciannove', '19', 'diciannove anni', '19 anni']",un periodo di tempo
+085_mario_balotelli.txt,"Quanti anni dopo l'esordio di Mario Balotelli nella nazionale italiana, egli fu inserito per la prima volta nella classifica del Pallone d'oro FIFA?","['2', '2 anni', 'due anni', 'due']",un periodo di tempo
+128_ezio_bosso.txt,Quanti anni trascorsero fra l'avvicinamento alla musica di Ezio Bosso e il suo esordio come solista?,"['12', 'dodici anni', '12 anni', 'dodici']",un periodo di tempo
+132_società_sportiva_calcio_napoli.txt,Quanti anni sono passati tra la prima vittoria del Napoli nella Supercoppa Italiana e la sua seconda?,"['ventiquattro anni', '24', '24 anni', 'ventiquattro']",un periodo di tempo
+190_premium_cinema.txt,Per quanti anni è attivo il canale Premium Cinema Energy su Mediaset Premium prima della fusione con il canale Premium Cinema?,"['undici', 'undici anni', '11 anni', '11']",un periodo di tempo
+215_michelle_hunziker.txt,Dopo quanti anni dal suo debutto sulla tv italiana ha iniziato Michelle Hunziker a prendere parte ai programmi della Mediaset?,"['3 anni', 'tre', 'tre anni', '3']",un periodo di tempo
+233_alessandro_manzoni.txt,Quanti anni visse Alessandro Manzoni?,"['88 anni', 'ottantotto anni', 'ottantotto', '88']",un periodo di tempo
+237_manuel_agnelli.txt,Quanti anni sono passati tra la pubblicazione del primo libro di Manuel Agnelli e la terza edizione del Tora! Tora! Festival?,"['quattro anni', '4', 'quattro', '4 anni']",un periodo di tempo
+014_canale_5.txt,In che anno Antonio Melchiorre diede le dimissioni da amministratore unico di Canale 5 Music S.r.l.?,"['millenovecentoottanta', '1980', 'millenovecentottanta']",un anno
+231_presidente_della_repubblica_italiana.txt,In che anno è finito naturalmente il primo mandato da Presidente della Repubblica di Sergio Mattarella?,"['2022', 'duemila e ventidue', 'duemilaventidue']",un anno
+037_gomorra_-_la_serie.txt,Quanti anni sono trascorsi tra il primo ciak della prima stagione di Gomorra e la fine delle riprese dell'ultima stagione?,"['8', 'otto', '8 anni', 'otto anni']",un numero
+066_mia_martini.txt,Quanti anni passano tra la prima vittoria al Festivalbar di Mia Martini e il suo quarto posto all'Eurovision?,"['20 anni', 'venti', '20', 'venti anni']",un numero
+0673_daniele_de_rossi.txt,Quante volte Daniele De Rossi è stato campione del mondo con la nazionale italiana di calcio come giocatore?,"['1 volta', 'una', 'una volta', '1']",un numero
+1244_antonella_elia.txt,Quante volte Antonella Elia ha partecipato come valletta a La Corrida - Dilettanti allo sbaraglio fino al 2024?,"['4', 'Quattro']",un numero
+125_adriano_celentano.txt,Quanti anni aveva la madre di Adriano Celentano quando suo figlio vinse Sanremo?,"['settantaquattro anni', '74', 'settantaquattro', '74 anni']",un numero
+133_rai_movie.txt,"Quante volte il canale RaiMovie ha cambiato nome, fino a diventare RaiMovie nel 2010?","['3 volte', 'tre', 'tre volte', '3']",un numero
+136_totò.txt,"Quanti anni aveva Anna Clemente quando dette alla luce suo figlio, il famoso Totò?","['diciassette anni', 'diciassette', '17 anni', '17']",un numero
+141_antonino_cannavacciuolo.txt,Quanti anni aveva Cannavacciuolo quando ha ottenuto la sua prima stella Michelin?,"['28 anni', 'ventotto anni', '28', 'ventotto']",un numero
+159_beatrice_vio.txt,A che età Bebe Vio ha disputato la sua prima gara ufficiale?,"['tredici anni', '13', 'tredici', '13 anni']",un numero
+1854_mino_raiola.txt,Quanti giocatori Mino Raiola riuscì a cedere a squadre italiane da direttore sportivo dell'Haarlem?,"['0', 'Nessuno', 'Zero']",un numero
+192_achille_lauro_rapper.txt,Quanti anni aveva Achille Lauro quando ha partecipato per la prima volta a Pechino Express?,"['27 anni', 'ventisette', 'ventisette anni', '27']",un numero
+195_ermal_meta.txt,Quante volte Ermal Meta ha partecipato al Festival di Sanremo prima di intraprendere la carriera solista?,"['2', 'due', '2 volte', 'due volte']",un numero
+238_sergio_mattarella.txt,A che età Sergio Mattarella è diventato Presidente della Repubblica?,"['settantatré anni', '73 anni', '73', 'settantatre', 'settantatre anni', 'settantatré']",un numero
+240_pier_paolo_pasolini.txt,Quanti trasferimenti di città ha dovuto subire Pier Paolo Pasolini dal 1925 fino al 1935?,"['sette trasferimenti di città', 'sette trasferimenti', '7 trasferimenti', 'sette', '7 trasferimenti di città', '7']",un numero
+241_mostro_di_firenze.txt,Quante vittime si attribuiscono al Mostro di Firenze?,"['sedici vittime', '16', '16 vittime', 'sedici']",un numero
+254_anniversario_della_liberazione_ditalia.txt,Quanti anni sono passati dalla liberazione d'Italia a quando questa è stata istituita stabilmente come giorno festivo in Italia?,"['quattro anni', '4', 'quattro', '4 anni']",un numero
+255_tommaso_buscetta.txt,Quante mogli ebbe in tutto Tommaso Buscetta?,"['3 mogli', 'tre', 'tre mogli', '3']",un numero
+040_fabrizio_de_andré.txt,A quanti anni Fabrizio De André vinse il premio Lunezia per il valor musical-letterario del brano Smisurata preghiera?,"['cinquantasette anni', '57', 'cinquantasette', ""Per quale brano Fabrizio Cristiano De André vinse un premio all'età di cinquantasette anni?"", '57 anni']",un'età
+060_chiara_ferragni.txt,Quanti anni aveva Francesca Ferragni quando sua sorella Chiara Ferragni è diventata global ambassador di Pantene?,"['27 anni', 'ventisette', 'ventisette anni', '27']",un'età
+061_luigi_di_maio.txt,Quanti anni aveva Luigi Di Maio quando diventò il più giovane vicepresidente della Camera nella storia d'Italia fino a quel momento?,"['27 anni', 'ventisette', 'ventisette anni', '27']",un'età
+081_fedez.txt,Quanti anni ha Fedez quando ottiene 4 nomination agli MTV Hip Hop Awards 2012?,"['23 anni', 'ventitré', '23', 'ventitré anni']",un'età
+101_lucio_battisti.txt,Quanti anni aveva Lucio Battisti al momento del conseguimento del titolo di perito elettrotecnico?,"['diciannove', '19', 'diciannove anni', '19 anni']",un'età
+208_elettra_lamborghini.txt,"Quanti anni aveva Elettra Lamborghini quando ha pubblicato il suo singolo ""Pistolero""?","['27 anni', 'ventisette', 'ventisette anni', '27']",un'età
+253_claudio_baglioni.txt,"Quanti anni aveva Claudio Baglioni quando ha prodotto il suo album ""La vita è adesso""?","['trentaquattro', '34 anni', '34', 'trentaquattro anni']",un'età
+278_maria_de_filippi.txt,A che età ha pubblicato il suo primo libro Maria De Filippi?,"['35 anni', 'trentacinque anni', 'trentacinque', '35']",un'età
+0454_emma_marrone.txt,Quale è la candidatura di riconoscimento mondiale che Emma Marrone ha ricevuto durante la sua carriera musicale?,"['World Music Award', 'World Music Award (World Music Awards)', 'World Music Awards']",una parola
+0767_gradi_e_qualifiche_dellarma_dei_carabinieri.txt,"Quale corso del concorso per divenire vicebrigadiere riservato sia agli appuntati scelti e quello aperto a tutto il ruolo degli appuntati e carabinieri con almeno quattro anni di servizio è più lungo, il primo o il secondo?","['secondo', 'il secondo']",una parola
+1124_strage_di_bologna.txt,"Federico Umberto D'Amato è stato individuato dalla Procura di Bologna tra i mandanti, finanziatori  della strage di Bologna del 1980?",['Sì'],una parola
+1457_cassa_integrazione_guadagni.txt,È possibile attivare la CIGO in caso di pandemia?,['Sì'],una parola
+1546_attilio_fontana_politico.txt,"Prima di ricoprire la carica di sindaco di Induno Olona, quale altra carica ha ricoperto Attilio Fontana per la stessa città?",['Conciliatore'],una parola
+1588_leonardo_spinazzola.txt,In quale posizione di campo è stato impiegato principalmente Leonardo Spinazzola durante la sua carriera?,"['terzino', 'terzino sinistro']",una parola
+186_bruno_barbieri_chef.txt,Quale figura genitoriale nella vita di Barbieri non risulta essere stata presente durante la sua scalata al successo?,"['Il padre', 'padre']",una parola
+2004_ivan_cattaneo.txt,Quale aspetto della sua identità Ivan Cattaneo finse di aver superato per uscire da una clinica psichiatrica?,['omosessualità'],una parola
+2275_mantova.txt,Quale evento naturale ha reso necessario prosciugare il lago Paiolo che bagna Mantova nel XVII?,['inondazione'],una parola
+2342_ferruccio_lamborghini.txt,Qual era il mestiere del nonno paterno di Tonino Lamborghini?,['Agricoltore'],una parola
+2763_sulla_mia_pelle_film_2018.txt,Di quale patologia soffriva Stefano Cucchi quando è stato portato in caserma?,['epilessia'],una parola
+2848_angelo_pintus.txt,"Angelo Pintus debutta nel cinema con il film ""Ma tu di che segno sei?"" ?",['No'],una parola
+0462_paolo_gentiloni.txt,Chi era la più alta carica dello stato italiano nel 2016?,"['Mattarella', 'Sergio Mattarella']",un nome
+0490_levante_cantante.txt,"Di quale album fa parte il singolo di Levante ""Abbi cura di te""?",['Abbi cura di te'],un nome
+0492_massacri_delle_foibe.txt,Chi guidò l'Esercito Popolare di Liberazione jugoslavo che annesse i territori italiani tramite i trattati di pace di Parigi del 1947?,"['Broz Tito', 'Tito', 'Josip Broz Tito']",un nome
+0542_episodi_de_il_commissario_montalbano.txt,"Nella puntata ""il ladro di merendine"" di ""il commissiario Montalbano"", qual è il cognome dell'uomo che ospitava in casa propria il piccolo Francois quando quest'ultimo riconosce alla televisione un uomo che era stato ammazzato?",['Montalbano'],un nome
+0570_lucio_dalla.txt,"Qual era il nome della cognata di Ariodante Dalla, cantante neomelodico noto negli anni quaranta e cinquanta?","['Jole Melotti', 'Melotti']",un nome
+0595_lo_chiamavano_jeeg_robot.txt,Come si chiama il secondo personaggio che ottiene poteri soprannaturali nel film Lo Chiamavano Jeeg Robot?,"['Lo Zingaro', 'Zingaro']",un nome
+0606_perfetti_sconosciuti.txt,"In Perfetti sconosciuti, la madre di chi Carlotta sta cercando di sistemare in una casa di riposo?",['Lele'],un nome
+0661_raz_degan.txt,Di quale trasmissione televisiva è co-conduttore Raz Degan nello stesso anno in cui partecipa come concorrente a Ballando con le stelle?,['Mistero'],un nome
+0697_lallieva_serie_televisiva.txt,"Come si chiama il Magistrato di cui Alice, la protagonista della serie televisiva L'Allieva, si innamora per un breve periodo?","['Sergio Einardi', 'Einardi Sergio', 'Sergio']",un nome
+0763_lory_del_santo.txt,Quale è il nome della rivista per cui Lory Del Santo posa che ha un nome fortemente correlato e molto simile alla sua passione adolescenziale?,['Il fotografo'],un nome
+0796_paola_turci.txt,Qual è il titolo della canzone di Paola Turci che vinse il Premio della Critica tra le nuove proposte nel 1988?,['Sarò bellissima'],un nome
+0813_federico_bernardeschi.txt,Qual è stata la seconda squadra in cui Bernardeschi ha giocato dagli inizi della sua carriera calcistica?,['Ponzano'],un nome
+0864_simone_zaza.txt,Qual è il nome della seconda squadra dove Simone Zaza viene ceduto in prestito?,['Viareggio'],un nome
+0924_vincenzo_de_luca_politico_1949.txt,Come si chiama il figlio di Vincenzo De Luca che è deputato del PD dal 2018?,"['Piero', 'P. De Luca', 'Piero De Luca']",un nome
+0939_campania.txt,"Quale popolo causò l' abbandono quasi completo del coronimo ""Campania""?",['Longobardi'],un nome
+1031_stefano_dorazio.txt,Qual è l'ultimo gruppo di cui Stefano D'Orazio fece parte prima di unirsi ai Pooh?,['Il Punto'],un nome
+1042_francesco_nuti.txt,Per quale film Francesco Nuti riceve un premio come attore protagonista?,"['Io, Chiara e lo Scuro']",un nome
+1056_ricchi_e_poveri.txt,Qual è la prima band di cui facevano parte Franco Gatti e Angelo Sotgiu prima di entrare nei Ricchi e Poveri?,"['Jets', 'Dei Jets', 'I Jets']",un nome
+1083_statistiche_della_serie_a.txt,Quale squadra milanese ha giocato solo in Serie A dal 1929 al 2024?,"['Football Club Internazionale Milano', 'FC Internazionale Milano', 'Inter', 'Internazionale']",un nome
+1099_sparizione_di_emanuela_orlandi.txt,Come si chiamava la scuola dalla quale Emanuela Orlandi telefonò a casa il giorno della sua scomparsa?,"['Accademia di Musica ""Tommaso Ludovico da Victoria', 'Tommaso Ludovico da Victoria']",un nome
+1110_alitalia.txt,Qual è la società con la minor partecipazione nel capitale sociale di Alitalia dopo l'assorbimento della LAI?,['SIAI-Marchetti'],un nome
+1157_incidente_di_vermicino.txt,Nei confronti di chi fu il processo che sensibilizzò l'opinione pubblica sulla nascita del Dipartimento della protezione civile?,"['Pisegna', 'Amedeo Pisegna']",un nome
+1181_ilenia_pastorelli.txt,In quale film ha recitato Ilenia Pastorelli l'anno successivo al conseguimento del premio David di Donatello?,['Niente di serio'],un nome
+1342_città_del_vaticano.txt,"Chi fu il pontefice sovrano quando nel 1870 lo Stato della Chiesa fu annesso dal Regno d'Italia quando i bersaglieri (il 20 settembre) penetrarono a Roma attraverso la breccia di Porta Pia, astenendosi dall'occupare militarmente il solo rione Borgo ?","['Pio IX', 'Papa Pio IX', 'Pio Nono', 'Papa Pio Nono']",un nome
+1367_rosy_abate.txt,La morte di quale personaggio porta Rosy Abate ad avere una relazione con Domenico Calcaterra?,['Claudia Mares'],un nome
+1448_alex_baroni.txt,Chi ha presieduto nel 1997 la giuria di qualità del programma nella cui edizione Giovani Alex Baroni aveva cantato il brano Ce La Farò?,"['Pavarotti', 'Luciano Pavarotti']",un nome
+1472_éder_calciatore_1986.txt,In quale squadra Éder giocava quando realizzò il suo centesimo gol in Serie A?,['Sampdoria'],un nome
+1619_plinio_fernando.txt,In quale ruolo Plinio Fernando ha interpretato un personaggio del sesso opposto?,"['Mariangela Fantozzi', 'Mariangela']",un nome
+1753_napoli_velata.txt,Nel film Napoli Velata chi è il secondo uomo che vuole avere un rapporto d'amore con la protagonista Adriana?,['Luca'],un nome
+1810_clarice_orsini.txt,Il matrimonio tra Lorenzo il Magnifico e Clarice avvenne nella città d'origine di quale delle due famiglie?,"['Orsini', 'degli Orsini', 'Famiglia Orsini']",un nome
+1827_caso_aldrovandi.txt,Chi effettuò la telefonata al 112 a seguito della quale vennero inviati Pontani e Pollastri nel caso dell'omicidio di Federico Aldovrandi?,['Cristina Chiarelli'],un nome
+183_suburra_-_la_serie.txt,Quale personaggio è segnato più da un conflitto interno morale?,"['Amedeo Cinaglia', 'Cinaglia', 'Il personaggio Amedeo Cinaglia']",un nome
+1843_francesca_chillemi.txt,"Nelle serie ""Vita da paparazzo"" e ""Squadra antimafia"" i due personaggi interpretati da Francesca Chillemi hanno lo stesso nome di battesimo. Qual è?",['Michela'],un nome
+1848_episodi_di_don_matteo_undicesima_stagione.txt,Nell'undicesima stagione della serie Don Matteo chi è il personaggio che lascia la serie dopo essere stato trasferito a Roma per diventare Maggiore?,"['Giulio Tommasi', 'Tommasi', 'Giulio']",un nome
+1910_rai_5.txt,Quale semifinale di una manifestazione canora trasmesso su rai5 nel 2013 raggiunge 150.000 spettatori?,"['Eurovision Song Contest', 'Eurovision']",un nome
+2009_lucrezia_lante_della_rovere.txt,Chi è stato il compagno di Lucrezia Lante della Rovere dopo la fine della sua relazione con Giovanni Malagò?,"['Barbareschi', 'Luca Barbareschi']",un nome
+2025_pietro_pellegri.txt,"Chi deteneva il primato di essere il più giovane calciatore ad aver realizzato una doppietta in Serie A, prima di Pellegri?","['Piola', 'Silvio Piola']",un nome
+2094_gianni_boncompagni.txt,"Quale conduttrice, grazie ai programmi televisivi ideati da Gianni Boncompagni nella prima metà degli anni ottanta, riuscì a ottenere un successo anche fuori dall'Italia?","['Raffaella Carrà', 'Carrà Raffaella', 'Raffaella Maria Roberta Pelloni', 'Raffaella', 'La Carrà']",un nome
+2098_valentina_lodovini.txt,Qual è il nome della band del secondo videoclip in ordine di tempo in cui compare Valentina Lodovini?,['Baustelle'],un nome
+2187_carlo_conti_conduttore_televisivo.txt,Quale attore esordisce nella trasmissione Succo d'arancia creata da Carlo Conti e Leonardo Pieraccioni?,"['Panariello', 'Giorgio Panariello']",un nome
+2252_max_gazzè.txt,con chi ha collaborato Max Gazzè per scrivere i testi del suo quarto album?,['Francesco Gazzè'],un nome
+2265_gaetano_castrovilli.txt,"Chi si classificò primo come Miglior Giovane della Serie B, quattro anni dopo l'esordio di Gaetano Castrovillo in prima squadra con il Bari?","['Tonali Sandro', 'Sandro Tonali']",un nome
+227_un_medico_in_famiglia.txt,"Nella prima stagione di ""un medico in famiglia"", quale relazione vorrebbe intrattenere Lele?",['Alice'],un nome
+2302_roberto_gualtieri.txt,Qual è il nome della figura a cui è dedicata l'associazione di cui è stato vicedirettore il politico che ha ricoperto il ruolo di ministro dell'economia e delle finanze fino al 13 febbraio 2021?,"['Antonio Gramsci', 'Gramsci', 'Antonio Sebastiano Francesco Gramsci']",un nome
+2311_personaggi_di_un_medico_in_famiglia.txt,Con quale nome viene chiamato il personaggio di Gabriele nella serie Un Medico In Famiglia?,['Lele'],un nome
+2394_limmortale_film_2019.txt,"Quale tragico evento portò alla perdita della famiglia del personaggio di Ciro di Marzio, detto l'Immortale?","[""Terremoto dell'Irpinia"", ""Terremoto dell'Irpinia del 1980"", 'Terremoto']",un nome
+2396_virna_lisi.txt,Quale è il nome di battesimo del padre della prima attrice non francese della storia ad aver vinto un Premio César come migliore attrice non protagonista?,['Dario'],un nome
+2421_giorgio_panariello.txt,"Chi ha scoperto artisticamente Giorgio Panariello, garantendogli l'esordio sul piccolo schermo?","['Conti', 'Carlo Conti']",un nome
+2507_riforma_delle_pensioni_fornero.txt,Chi era il presidente del Consiglio all'epoca della riforma delle pensioni Fornero?,"['Monti', 'Mario Monti']",un nome
+0484_virginia_raffaele.txt,Chi era la campionessa olimpica imitata da Virginia Raffaele?,"['Federica Pellegrini', 'Pellegrini']",un nome
+0567_monica_vitti.txt,Qual è il cognome da nubile della madre di Giorgio Ceciarelli?,['Vittiglia'],un nome
+0633_luciano_ligabue.txt,Con quale gruppo musicale amatoriale Ligabue vinse il concorso musicale Terremoto Rock?,"['Gli Orazero', 'Orazero']",un nome
+0634_pooh.txt,"Come si chiama il locale di Milano nel quale i Pooh incontrano Riccardo Fogli, loro futuro cantante?",['Piper'],un nome
+0730_lisola_dei_famosi.txt,Chi è la terza persona ad aver condotto L'isola dei famosi?,"['Alessia Marcuzzi', 'Marcuzzi']",un nome
+0839_adua_del_vesco.txt,Con quale regista Rosalinda Cannavò ha lavorato di più dal suo debutto nel 2012 fino al 2016?,"['Inturri', 'Alessio Inturri']",un nome
+0859_luca_marinelli.txt,Con quale film Luca Marinelli ha vinto il suo primo premio David di Donatello?,['Lo chiamavano Jeeg Robot'],un nome
+0863_fiorello.txt,Qual è il nome completo di Fiorello?,['Rosario Tindaro Fiorello'],un nome
+0872_peppino_impastato.txt,Chi era il predecessore del capomafia che commissionò l'assassinio di Giuseppe Impastato?,"['Manzella', 'Cesare Manzella']",un nome
+0899_cristiana_capotondi.txt,Insieme a chi ha recitato Cristiana Capotondi nel film La peggior settimana della mia vita l'anno in cui è stata madrina del Giro d'Italia?,"['Fabio De Luigi', 'De Luigi']",un nome
+0977_luigi_tenco.txt,Come si chiamava il fratello maggiore di Luigi Tenco?,"['Valentino Tenco', 'Valentino']",un nome
+1201_teresa_bellanova.txt,In quale circoscrizione Teresa Bellanova viene rieletta alla Camera nel 2008 e poi nel 2013?,"['Puglia', 'Circoscrizione Puglia']",un nome
+1209_la_porta_rossa.txt,"Quale collega della moglie di Leonardo Cagliostro, è da sempre innamorato di lei?","['Antonio Piras', 'Piras']",un nome
+1214_bernardo_provenzano.txt,"Durante la cosiddetta «strage di viale Lazio» (10 dicembre 1969), il Boss Bernardo Provenzano a chi si avvicinò, ritenendolo ormai morto e colpendolo più volte con il calcio della mitraglietta alla testa, per poi finirlo con un colpo di pistola?","['Cavatajo', 'Il Cobra', 'Boss di Cosa Nostra Michele Cavataio', 'Boss Michele Cavataio', 'Michele Cavataio', 'Cavataio Michele']",un nome
+1282_renato_pozzetto.txt,Quale genere cinematografico ha reso famoso Renato Pozzetto come attore?,"['Commedia', ""Commedia all'Italiana""]",un nome
+1381_pago_cantante.txt,Dopo quale reality show Pago pubblica il suo primo album?,['Music Farm'],un nome
+1404_donatella_gruppo_musicale.txt,"In che anno esce il brano ""Mal de amores"" di Le Donatella e Juan Magán?","['duemila e tredici', 'duemila tredici', '2013', 'Duemilatredici']",un nome
+1407_mario_giordano.txt,Quale quotidiano ha la sede in via Negri nel 2007?,['il Giornale'],un nome
+1415_stefano_sensi.txt,Contro quale squadra Stefano Sensi realizzò il suo primo gol da professionista durante il prestito al San Marino nella stagione 2013-2014?,"['Como', 'Como 1907', 'A.C. Como']",un nome
+1523_cecilia_capriotti.txt,Qual è stato il primo reality show a cui ha partecipato Cecilia Capriotti?,"['Jump!', 'Jump! Stasera mi tuffo.']",un nome
+1585_paolo_sorrentino.txt,Quale film di Paolo Sorrentino ha vinto più premi compreso quello come miglior film in lingua straniera?,"['il film la grande bellezza', 'la grande bellezza']",un nome
+1601_the_place.txt,"Nel film ""The Place"", chi è, fra gli otto visitatori, l'autore della rapina di cui Ettore cerca la refurtiva?",['Alex'],un nome
+1627_dolcenera.txt,"Qual è il vero nome di Dolcenera, la cantautrice italiana famosa per brani come ""Il mio amore"" e ""Siamo tutti là fuori""?","['Trane', 'EMANUELA TRANE', 'E.Trane', 'Emanuela Trane']",un nome
+1630_1992_serie_televisiva.txt,"Nella serie televisiva 1992, come si chiama la madre di Viola?",['Marina'],un nome
+1633_nek.txt,"Quale casa discografica ha pubblicato il singolo di Nek ""Laura non c'è""?","['Warner Music Italy', 'Warner Music', 'Warner Music Italia', 'Warner']",un nome
+1681_library_genesis.txt,Quale entità ha accusato Library Genesis di fornire accesso pirata ad articoli e libri nel 2015?,"['Elsevier', 'Elsevier NV']",un nome
+1722_fausto_brizzi.txt,Come si intitola il secondo film girato da Fausto Brizzi?,['Notte prima degli esami - Oggi'],un nome
+1727_antonio_zequila.txt,Nell'opera teatrale ispirata a quale importante scrittore ha recitato nel 1991 Antonio Zequila?,"['Pirandello', 'Luigi Pirandello']",un nome
+1769_nazionale_di_pallavolo_femminile_dellitalia.txt,Chi era l'allenatore della squadra nazionale italiana di pallavolo femminile nel 2004?,"['Bonitta', 'Marco Bonitta']",un nome
+1772_massimo_boldi.txt,Chi diventò batterista della band italiana anni Atlas nel 1964?,"['Longo', 'Franco Longo']",un nome
+1791_tina_cipollari.txt,Come si chiama il figlio più giovane fino al 2024 di Kikò e Tina Cipollari ?,['Gianluca'],un nome
+1797_toto_cutugno.txt,Quale concorso musicale vinse Toto Cutugno nell'anno in cui morì suo padre?,"['Festival della canzone italiana', 'Festival di Sanremo', 'Sanremo']",un nome
+1816_giuseppe_di_vittorio.txt,"A giugno 1955, chi era il segretario generale della CGIL?","['Giuseppe Di Vittorio', 'Di Vittorio']",un nome
+189_associazione_sportiva_roma.txt,Chi era il presidente dei Giallorossi nel 1932?,"['Renato Sacerdoti', 'Sacerdoti']",un nome
+1901_gian_piero_ventura.txt,Quale squadra calcistica allenata da Gian Piero Ventura ha ottenuto la promozione in Serie C2 nella stagione 1990-1991?,['Pistoiese'],un nome
+1904_episodi_di_doc_-_nelle_tue_mani.txt,"Nella serie televisiva Doc, Nelle tue mani, come si chiama la persona a cui era destinato il farmaco Satonal, dato per errore a Giovanni Pavesi dall'équipe medica e che poi ne ha causato il decesso nel reparto di medicina del Policlinico Ambrosiano di Milano?","['Pavesi Giovanni', 'Giovanni Pavesi', 'Pavesi']",un nome
+1917_michele_morrone.txt,Come si chiama l'azienda di Michele Morrone gestita dalla società Spazio Arcò?,['AurumRoma'],un nome
+1934_boris_giuliano.txt,"In occasione della sua prima indagine importante, presso quale istituto Boris Giuliano conseguì una specializzazione?","['FBI National Academy', 'FBI National Academy Associates', 'FBI Academy', 'FBINAA']",un nome
+1955_leonardo_pavoletti.txt,Per quale squadra Leonardo Pavoletti ha segnato 24 gol nel campionato di Serie A 2013-2014?,"['Città di Varese SSD a RL', 'Città di Varese', 'Varese', 'Varese Calcio']",un nome
+1982_grande_fratello_vip_quinta_edizione.txt,Da quale città è stata trasmessa la quinta edizione del Grande Fratello VIP?,['Roma'],un nome
+1994_volturara_appula.txt,"Quale vescovo spostò, nel 1497, la sede vescovile dalla città di Volturara a San Bartolomeo in Galdo?","['Vescovo Guglielmo', 'Guglielmo']",un nome
+2186_giacomo_ferrara.txt,Chi è il regista teatrale con cui Giacomo Ferrara ha collaborato più spesso?,"['Prete', 'Alessandro Prete']",un nome
+2218_il_cacciatore_serie_televisiva_2018.txt,"Chi ha scritto il romanzo ""Il Cacciatore Di Mafiosi""?","['Sabella', 'Sabella Alfonso', 'Alfonso Sabella']",un nome
+2244_falling_skies.txt,"A quale reggimento appartiene il protagonista della serie TV ""Falling Skies""?","['Reggimento 2ª Massachusetts', 'Reggimento II Massachusetts', 'Seconda Massachusetts', 'Reggimento 2 Massachusetts', '2ª Massachusetts', 'Reggimento Seconda Massachusetts', 'II Massachusetts', '2 Massachusetts']",un nome
+2268_la_dea_fortuna.txt,"Nel film ""La dea fortuna"", come si chiama la nonna materna dei fratellini Martina e Sandro?",['Elena'],un nome
+2285_gabriella_pession.txt,Chi è il regista che dirige Gabriella Pession nel ruolo di Stella nel 2004?,"['Carlo Gregorio Verdone', 'Carlo Verdone', 'Verdone']",un nome
+2454_michele_ferrero.txt,Come si chiamava il fratello del padre di Michele Ferrero?,"['Giovanni Ferrero', 'Giovanni', 'Ferrero Giovanni']",un nome
+2552_gregorio_paltrinieri.txt,A quale manifestazione sportiva ha partecipato Gregorio Paltrinieri all'età di 30 anni conquistando due medaglie?,"['Olimpiadi 2024', 'Giochi olimpici di Parigi 2024']",un nome
+2565_brunori_sas.txt,Da quale album di Brunori SAS è tratta la sigla del cartone animato Dixiland?,"['Vol.1', 'Vol. 1', 'Volume 1']",un nome
+2621_enrico_piaggio.txt,"Come si chiama il secondo importante progettista assunto da Enrico Piaggio, negli anni trenta?","['Giovanni Casiraghi', 'Casiraghi']",un nome
+2631_pietro_sermonti.txt,Qual è il cognome della nonna materna di Pietro Sermonti?,['Agnelli'],un nome
+2700_masterchef_italia_settima_edizione.txt,"Nella terza puntata della settima stagione di Masterchef Italia, Gerlando viene eliminato da quale giudice?","['Bastianich', 'Joe Bastianich', 'Joe']",un nome
+279_massimiliano_allegri.txt,Con quale squadra Massimiliano Allegri ha vinto la Supercoppa italiana nell'anno di nascita del suo secondo figlio?,"['AC Milan', 'Milan', 'Associazione Calcio Milan']",un nome
+0486_primo_levi.txt,In che anni nacque l'amore per la montagna di Primo Levi?,"['1934-1935', '1934-35', 'mille novecento trentaquattro e trentacinque']",il periodo
+0750_roberto_speranza.txt,Qual è stata la prima carica amministrativa ricoperta da Roberto Speranza?,['Consigliere comunale'],poche parole
+1553_vittoria_schisano.txt,"Come si chiama il cartone animato a cui Vittoria Schisano partecipa in veste di doppiatrice, 15 anni dopo il suo esordio in televisione?",['Big Mouth'],il nome
+1937_palio_di_siena.txt,"Secondo il più antico documento sul Palio di Siena, qual è la pena pecuniaria inflitta a chi rifiutava il premio derisorio che per regolamento veniva assegnato all'ultimo classificato?","['40 soldi', 'Quaranta soldi']",poche parole
+2451_giulio_berruti.txt,In quale film Giulio Maria Berruti ha interpretato il ruolo del professore Gabriel Emerson?,"[""Gabriel's Inferno""]",un nome
+2706_laura_freddi.txt,Qual è il titolo della canzone cantata da Laura Freddi al Festivalbar 1995?,"['Per Non Volare', 'Per non volare']",un titolo
+3162_andrea_lucchetta.txt,L'anno prima di passare al Gonzaga Milano che trofeo internazionale vince Lucchetta?,"['Coppa CEV', 'campionato europeo', 'un campionato europeo', 'europei', 'il campionato europeo']",un nome
+0533_davide_astori.txt,Quale stagione concluse Davide Astori con 32 presenze in campionato e una in Coppa Italia?,"['duemiladodici-duemilatredici', 'Serie A 2012-2013', '2012-2013', '2012/2013', 'Serie A duemiladodici-duemilatredici']",una data
+0904_ponte_morandi.txt,"Che giorno è stato aperto al traffico il nuovo viadotto Genova San Giorgio, che ha sostituito il ponte Morandi?","['quattro agosto duemilaventi', '04', '08', '08/04/2020', '2020', '04/08/2020', '4 agosto 2020', '04 agosto 2020', '2020-08-04', '04-Aug-2020']",una data
+1009_leoluca_bagarella.txt,In che anno Leoluca Biagio Bagarella si sposò con Vincenzina Marchese?,"['millenovecentonovantuno', '1991']",una data
+1253_eleonora_giorgi.txt,In quale anno Eleonora Giorgi posa integralmente nuda per l'edizione italiana della rivista Playboy?,"['millenovecentosettantaquattro', '1974']",una data
+1497_fabio_fognini.txt,In quale anno Fabio Fognini ha esordito nel circuito ATP?,"['2005', 'duemilacinque', 'duemila e cinque']",una data
+1520_simona_izzo.txt,In quale anno Simona Izzo partecipa alla prima edizione del reality show di Rai 2 Pechino Express?,"['due\xadmila\xaddodici', '2012', 'duemila e dodici', 'duemila dodici', 'duemila e dodici']",una data
+1726_strage_di_piazza_fontana.txt,"Quale data viene considerata come quella in cui si avviò il periodo stragista della ""strategia della tensione""?","['12 dicembre 1969', '12/12/1969', '12-12-69', '12-Dec-1969', '12-12-1969', 'dodici dicembre millenovecentosessantanove', '1969-12-12']",una data
+1883_giovanni_verga.txt,In che hanno Giovanni Verga si trasferì a Milano in seguito alla sua permanenza a Firenze?,"['1872', 'mille ottocento settantadue', 'milleottocentosettantadue']",una data
+1992_valerio_mastandrea.txt,In quale anno Valerio Mastandrea è stato protagonista del film Non pensarci?,"['2007', 'duemila e sette', 'due\xadmila\xadsette']",una data
+2413_giorgio_almirante.txt,Fino a che anno Giorgio Almirante mantenne la carica di deputato?,"['millenovecentottantotto', '1988', 'mille novecento ottantotto']",una data
+2624_giuliano_de_medici.txt,In che anno Giuliano di Piero de' Medici venne e rimase a Milano da maggio a giugno alloggiandosi nella lussuosa sede del banco mediceo?,"['1471', 'millequattrocentosettantuno']",una data
+2710_marco_fassone.txt,In quale anno Marco Fassone è diventato direttore generale del Napoli?,"['duemiladieci', '2010', 'duemila e dieci']",una data
+2951_marcello_fonte.txt,In quale anno Marcello Fonte ha vinto l'European Film Awards per il miglior attore?,"['2018', 'due\xadmila\xaddiciotto']",una data
+2973_francesco_de_gregori.txt,In che anno Francesco De Gregori scrisse il suo primo brano originale?,"['Millenovecentosessantasei', '1966']",una data
+0554_maurizio_costanzo.txt,Qual è il nome della seconda trasmissione radiofonica condotta da Maurizio Costanzo durante la sua carriera?,['Buon pomeriggio'],un titolo
+0610_selvaggia_lucarelli.txt,"Dopo il primo esordio, qual è stato il secondo programma tv al quale ha partecipato Selvaggia Lucarelli?",['Cominciamo bene estate'],un titolo
+0931_alessandra_mussolini.txt,In quale programma partecipò Alessandra Mussolini con due ruoli diversi dopo aver abbandonato la carriera politica?,['Ballando con le stelle'],un titolo
+1023_anna_marchesini.txt,Come si chiamava il programma televisivo condotto dalla Marchesini nello stesso anno in cui ebbe la sua unica performance cinematografica?,['Tastomatto'],un titolo
+1283_michele_bravi.txt,"Dopo la vittoria a X Factor nel 2013, quale canzone di Michele Bravi gli ha fruttato il disco d'oro nel 2014?",['La vita e la felicità'],un titolo
+1320_jane_alexander_attrice_1972.txt,Qual è stato il secondo programma condotto da Jane Alexander su LA7?,['Blind Date'],un titolo
+1370_caterina_balivo.txt,Che Programma conduce Caterina Balivo in seguito al suo primo ritorno su Rai 1?,['Courmayeur on Ice'],un titolo
+1695_caparezza.txt,Qual è il titolo del demo le cui basi sono state composte dal cantante di Vengo dalla Luna nello stesso periodo della realizzazione dei demo Ricomincio da Capa e Zappa?,['Con Caparezza... nella monnezza'],un titolo
+1821_serena_grandi.txt,Come si chiama il film in cui Alberto Sordi è affiancato dall'attrice degli anni ottanta che utilizzava nel nome d'arte il cognome della propria madre da nubile?,['In nome del popolo sovrano'],un titolo
+1979_francesca_cipriani.txt,Qual è il nome del programma le cui concorrenti hanno preso parte a Colorado insieme a Francesca Cipriani nel 2010?,"['La pupa e il secchione', 'La pupa e il secchione - Il ritorno']",un titolo
+2135_gian_piero_gasperini.txt,"Partendo dall'inizio della carriera da allenatore di Gian Piero Gasperini, qual è stata la terza squadra che ha allenato?","['Genoa', 'Genoa Cricket and Football Club']",un titolo
+2267_gaia_cantante.txt,In quale programma televisivo la cantante Gaia è apparsa per la seconda volta come concorrente?,"['Amici di Maria De Filippi', 'Amici']",un titolo
+0577_isola_delle_rose_micronazione.txt,In quale direzione si trovava il punto più vicino dell'Italia rispetto all'Isola delle Rose?,"['Sud-ovest', 'SO']",una parola
+0934_amatrice.txt,Sul lato occidentale del lago di Scandarello i rilievi superano i 2000 m?,['No'],una parola
+1012_matera.txt,In quale direzione si trova il fiume Bradano rispetto a Matera?,['Ovest'],una parola
+1142_marocco.txt,In che direzione dall'Algeria si trova il Sahara Occidentale?,"['Sud Ovest', 'Sudovest', 'SO', 'Sud-Ovest']",una parola
+1221_dark_polo_gang.txt,"Quale ente ha rilasciato nel 2017 il disco di platino al singolo Sportswear, presente nell'album The Dark Album del gruppo musicale Dark Polo Gang?","['F.I.M.I.', 'FIMI', 'Federazione Industria Musicale Italiana', 'Federation of the Italian Music Industry']",una parola
+1336_elezioni_politiche_italiane_del_2013.txt,La legge Calderoli prevedeva la possibilità di unificare più liste?,['Sì'],una parola
+1368_paolo_genovese.txt,"Di quale film di Paolo Genovese è sequel ""Immaturi - Il viaggio""?",['Immaturi'],una parola
+146_sfera_ebbasta.txt,Qual è l'ultimo titolo di studio conseguito dall'artista Sfera Ebbasta?,"['scuola media', 'Licenza Media']",una parola
+1478_matteo_berrettini.txt,qual è la superficie su cui Matteo Berrettini ha vinto il maggior numero di tornei ATP fino a dicembre 2024?,"['Terra rossa', 'La terra rossa']",una parola
+1595_mango_cantante.txt,Mango è più giovane o più vecchio di sua sorella?,"['giovane', 'più giovane']",una parola
+1837_giovanni_simeone.txt,"Nella partita di esordio nella Serie A italiana, Giovanni Simeone ha segnato dei gol?",['no'],una parola
+2177_gianroberto_casaleggio.txt,Davide Casaleggio era maggiorenne quando il padre si sposò in seconde nozze con Elena Sabina Del Monego?,['sì'],una parola
+2194_emis_killa.txt,Qual è la posizione più alta raggiunta nel 2012 dall'album di debutto di Emis Killa nella top 10 dei dischi più venduti?,"['4ª', 'Quarta posizione', 'Quarto posto', 'Quarta', '4', '4°']",una parola
+2307_maria_montessori.txt,"Chi è Renilde Stoppani per Pietro, figlio di Maria Montessori?","['La nonna', 'Nonna']",una parola
+2518_diego_abatantuono.txt,Diego Abatantuono ha iniziato a lavorare prima o dopo il compimento della maggiore età?,['prima'],una parola
+0677_diodato_cantante.txt,Quanti lavori discografici ha fatto Diodato fino al 2014?,"['2', 'due']",un numero
+0753_spal_2013.txt,Quante volte la S.P.A.L. ha vinto il campionato di Serie B fino al 2024?,"['2', 'due']",un numero
+0819_serie_a_2015-2016.txt,"Sulla base dei risultati del Campionato di calcio di serie A 2015-2016, quante squadre in totale hanno avuto il diritto di partecipare alle Coppe europee UEFA (Champions League ed Europa League) del 2016-2017?","['6', 'sei']",un numero
+0921_lispettore_coliandro.txt,In quante stagioni de L'ispettore Coliandro ha recitato Paolo Sassanelli nel ruolo dell'ispettore Gamberini?,"['Sette stagioni.', 'Sette', '7']",un numero
+0996_luca_zaia.txt,Quante volte Luca Zaia è stato eletto presidente della provincia di Treviso dal 1998 al 2005?,"['2', 'due']",un numero
+1119_ornella_vanoni.txt,Qual è stata la più alta posizione in classifica raggiunta da Ornella Vanoni nelle otto edizioni del Festival di Sanremo a cui ha partecipato fino al 2024?,"['2', 'Seconda', 'seconda posizione', 'secondo posto', '2° posto', '2ª', '2ª posizione', '2°']",un numero
+1136_lamica_geniale_serie_televisiva.txt,Quante diverse attrici hanno interpretato il ruolo della protagonista in L'amica Geniale?,"['5', 'Cinque']",un numero
+1189_episodi_di_gomorra_-_la_serie_quarta_stagione.txt,"In quale episodio della quarta stagione di Gomorra, Ferdinando viene ferito dall'esplosione di un'autobomba?","['Primo', 'Uno', '1']",un numero
+1215_benedetta_mazza.txt,Quante trasmissioni su Rai Gulp ha condotto Benedetta Mazza dal 2012 al 2016?,"['2', 'Due']",un numero
+1418_cristiano_de_andré.txt,Fino al 2003 quante volte Cristiano De André ha partecipato al festival di Sanremo?,"['3 volte', 'tre', 'tre volte', '3']",un numero
+142_serie_a.txt,"Quante volte è stato utilizzato lo spareggio per determinare la vincitrice dello scudetto nella storia della Serie A, fino alla stagione 2022-2023?","['una', 'uno', '1']",un numero
+1665_cristina_davena.txt,"In che anno viene trasmesso il cartone animato Pinocchio, in onda su Canale 5, per il quale Cristina D’Avena aveva inciso la sua prima canzone, Bambino Pinocchio?","['ottantadue', 'millenovecentottantadue', '1982', ""'82""]",un numero
+1989_adrian_serie_animata.txt,In quale anno Sky ha rescisso il contratto con il Clan Celentano per la realizzazione di Adrian?,"['2012', 'duemiladodici', 'duemila e dodici', 'Duemiladodici']",un numero
+2406_emigratis.txt,"In quale edizione, il programma televisivo italiano di genere satirico Emigratis, ideato e condotto dal duo comico Pio e Amedeo, è stato spostato in prima serata?","['3ª', 'III', 'Terza', '3']",un numero
+2418_partiti_politici_italiani.txt,"Con quale legge fu introdotto il benefit politico a cui hanno accesso tutti i partiti che superano la soglia dell'1% di voti, nel sistema elettorale italiano?","['195/1974', 'Legge 195 del 1974', '195', '1974', '195 del 1974']",un numero
+2531_marco_cecchinato.txt,Qual è stato il miglior ranking ATP raggiunto da Marco Cecchinato nella sua carriera?,"['sedicesimo', '16°', '16', 'sedici']",un numero
+2699_serie_c_2018-2019.txt,Quante squadre di Serie C erano presenti nella stagione 2017-2018 di calcio in Italia?,"['57', 'cinquantasette']",un numero
+0721_lorenzo_amoruso.txt,In quale regione italiana Lorenzo Amoruso ha giocato per più stagioni?,['Puglia'],un luogo
+0955_gabriele_rubini.txt,In quale luogo Chef Rubio affianca la carriera culinaria a quella agonistica?,['Nuova Zelanda'],un luogo
+1487_nino_manfredi.txt,In quale città Nino Manfredi si appassionò alla recitazione?,['Roma'],un luogo
+1715_domenico_modugno.txt,In quale luogo Modugno ha imparato il dialetto con cui compose il suo repertorio per esibirsi al Circolo Artistico di via Margutta?,['San Pietro Vernotico'],un luogo
+2018_carlo_azeglio_ciampi.txt,"Nell'anno in cui si laureò, dove venne inviato Carlo Azeglio Ciampi con il grado di sottonenente nel corpo automobilistico?",['Albania'],un luogo
+2095_mare_fuori.txt,"Nella serie TV Mare fuori, da quale città proviene il detenuto che aiuta il comandante della polizia penitenziaria a superare la sua crisi personale?",['Napoli'],un luogo
+3181_riccardo_schicchi.txt,"Di quale regione italiana era originario il padre di chi ha fondato, nel 1983 insieme a Ilona Staller, l'agenzia dedicata ad erotismo e pornografia ""Diva Futura""?",['Sicilia'],un luogo
+3276_antonio_ligabue.txt,In quale città viveva Antonio Ligabue nel 1918?,['Romanshorn'],un luogo
+0728_codice_fiscale.txt,Qual è stato il primo oggetto fisico su cui era riportato il codice fiscale?,['Tesserino cartaceo'],un oggetto
+0892_studio_universal.txt,"Qual è la forma all'interno della quale è comparso il countdown dei giorni mancanti all'inizio delle trasmissioni di Studio Universal su Mediaset Premium, a meno di un anno dalla sospensione delle trasmissioni su Sky?",['Cuore'],un oggetto
+1084_malika_ayane.txt,Quale premio Malika vinse 2 volte?,['Premio della Critica'],un nome
+1292_smetto_quando_voglio_film.txt,"Quale evento economico globale ha causato una riduzione dei fondi accademici nella storia del film ""Smetto quando voglio"" ?","['recessione economica del 2007', 'recessione economica', 'recessione']",poche parole
+1842_eusebio_di_francesco.txt,"Quale ""livello"" calcistico si intende quando nell'articolo viene detto che il Piacenza era in ""massima serie""?",['serie A'],poche parole
+1938_omicidio_di_giulio_regeni.txt,"Quali evidenze trovate sul corpo di Regeni hanno collegato la sua morte a metodi attribuiti alla polizia egiziana, portando alle accuse contro il regime di al-Sisi?","['alfabeto', 'lettere', 'lettere dell alfabeto']",poche parole
+2096_valeria_fedeli.txt,Quale diploma ha permesso a Valeria Fedeli di iniziare a lavorare come assistente sociale?,"['Assistente sociale', 'diploma di assistente sociale', 'diploma di assistente sociale (triennale)']",poche parole
+1233_franca_valeri.txt,Quale scuola superiore ha frequentato Silvana Mauri?,['Regio Liceo Ginnasio Giuseppe Parini'],un luogo
+148_alessandro_del_piero.txt,In quale Stato si è svolto il campionato del mondo a cui Del Piero ha partecipato l'anno dopo essersi sposato?,['Germania'],un luogo
+1616_emma_bonino.txt,Dove ha vissuto Emma Bonino fino al 1967?,['Bra'],un luogo
+1718_marco_pannella.txt,Come si chiama la via di Teramo dove nacque Marco Pannella?,"['via Giacinto Pannella', 'via Pannella']",un luogo
+1845_domenico_arcuri.txt,"Dove si trova l'ex stabilimento Ilva, di cui Domenico Francesco Arcuri nel 2020 è stato incaricato della trattativa per la sottoscrizione di un nuovo accordo sulla sua governance?",['Taranto'],un luogo
+2347_genova.txt,Quale città oltre Genova e Milano componeva il triangolo industriale negli anni del boom economico?,['Torino'],un luogo
+2498_ralf_rangnick.txt,In quale università studiava Ralf Rangnick quando ha vestito la maglia del Southwick?,"['University of Sussex', 'Università del Sussex']",un luogo
+266_roberto_baggio.txt,In quale continente si è svolto il campionato del mondo a cui Roberto Baggio ha partecipato l'anno dopo essersi sposato con Andreina?,['Europa'],un luogo
+2996_mine_vaganti.txt,"Nel film Mine Vaganti in quale parte d'Italia tornano Marco e gli amici, prima residenti a Roma?","['Salento', 'In Salento', 'Nel Salento']",un luogo
+1389_clan_dei_casamonica.txt,Da quale quartiere di Roma prende il nome la banda che si avvaleva dei Casamonica per la riscossione dei crediti?,['Magliana'],un posto
+2493_battaglia_di_caporetto.txt,Quali territori perse il Regno d'Italia con la disfatta di Caporetto?,"['altopiano di Asiago', 'Trentino', ""l'Altopiano di Asiago e il Trentino"", 'altopiano di Asiago', 'Trentino']",un posto
+1589_simone_verdi.txt,"Nelle tre stagioni tra il 2011 e il 2014, quale è stata quella con un maggior numero di presenze in serie B del calciatore Simone Verdi?","['2013-2014', '2013-14', '14', '2014', '2013']",gli anni della stagione
+3283_gli_orologi_del_diavolo.txt,Cosa regala Aurelio a Merani per ricompensarlo di ogni incarico andato a buon fine?,"['un orologio', 'orologio da polso']",un oggetto

@@ -5,6 +5,7 @@ This source code is licensed under the license found in the
 LICENSE file in the root directory of this source tree.
 """
 #!/usr/bin/env python3
+import glob
 import os
 import json
 import csv
@@ -22,37 +23,37 @@ from difflib import SequenceMatcher
 ##################### Answer normalization code #####################
 
 FA_TOKENS = {
-    "arabic": ("السؤال:", "الإجابة:"),
-    "bengali": ("প্র:", "উ:"),
-    "cantonese": ("問題：", "答案:"),
-    "czech": ("Otázka:", "Odpověď:"),
-    "dutch": ("Vraag:", "Antwoord:"),
-    "english": ("Q:", "A:"),
-    "french": ("Q :", "R :"),
-    "hebrew": ("שאלה", "תשובה"),
-    "hindi": ("सवाल:", "जवाब:"),
+    # "arabic": ("السؤال:", "الإجابة:"),
+    # "bengali": ("প্র:", "উ:"),
+    # "cantonese": ("問題：", "答案:"),
+    # "czech": ("Otázka:", "Odpověď:"),
+    # "dutch": ("Vraag:", "Antwoord:"),
+    # "english": ("Q:", "A:"),
+    # "french": ("Q :", "R :"),
+    # "hebrew": ("שאלה", "תשובה"),
+    # "hindi": ("सवाल:", "जवाब:"),
     "italian": ("D:", "R:"),
-    "indonesian": ("T:", "J:"),
-    "farsi": ("سؤال:", "جواب:"),
-    "german": ("F:", "A:"),
-    "japanese": ("質問：", "回答："),
-    "khmer": ("សំណួរ៖c", "ចម្លើយ៖"),
-    "korean": ("질문:", "답:"),
-    "malay": ("Soalan:", "Jawapan:"),
-    "marathi": ("प्रश्न:", "उत्तर:"),
-    "polish": ("Pytanie:", "Odpowiedź:"),
-    "portuguese": ("Pergunta:", "Resposta:"),
-    "romanian": ("Întrebare:", "Răspuns:"),
-    "russian": ("Вопрос:", "Ответ:"),
-    "simplified_mandarin": ("问题：", "答案："),
-    "spanish": ("Pregunta:", "Respuesta:"),
-    "swedish": ("Fråga:", "Svar:"),
-    "tagalog": ("T:", "S:"),
-    "thai": ("คำถาม:", "คำตอบ:"),
-    "traditional_mandarin": ("問題：", "答案："),
-    "turkish": ("S:", "C:"),
-    "vietnamese": ("H:", "Đ:"),
-    "urdu": ("سوال:", "جواب:"),
+    # "indonesian": ("T:", "J:"),
+    # "farsi": ("سؤال:", "جواب:"),
+    # "german": ("F:", "A:"),
+    # "japanese": ("質問：", "回答："),
+    # "khmer": ("សំណួរ៖c", "ចម្លើយ៖"),
+    # "korean": ("질문:", "답:"),
+    # "malay": ("Soalan:", "Jawapan:"),
+    # "marathi": ("प्रश्न:", "उत्तर:"),
+    # "polish": ("Pytanie:", "Odpowiedź:"),
+    # "portuguese": ("Pergunta:", "Resposta:"),
+    # "romanian": ("Întrebare:", "Răspuns:"),
+    # "russian": ("Вопрос:", "Ответ:"),
+    # "simplified_mandarin": ("问题：", "答案："),
+    # "spanish": ("Pregunta:", "Respuesta:"),
+    # "swedish": ("Fråga:", "Svar:"),
+    # "tagalog": ("T:", "S:"),
+    # "thai": ("คำถาม:", "คำตอบ:"),
+    # "traditional_mandarin": ("問題：", "答案："),
+    # "turkish": ("S:", "C:"),
+    # "vietnamese": ("H:", "Đ:"),
+    # "urdu": ("سوال:", "جواب:"),
 }
 
 

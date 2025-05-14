@@ -1,0 +1,3407 @@
+{
+    "italian": {
+        "004_tg_norba_24.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 14.55688101441503,
+            "edit_distance": 65.0,
+            "edit_similarity": 0.19298245614035087,
+            "targets": [
+                "20101025",
+                "venticinque ottobre duemiladieci",
+                "25 ottobre 2010",
+                "25102010"
+            ],
+            "prediction": "gli esperti della lingua italiana ritengono che si tratti di una forma impersonale"
+        },
+        "0499_regno_ditalia_1861-1946.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 16.488159524474703,
+            "edit_distance": 43.0,
+            "edit_similarity": 0.225,
+            "targets": [
+                "1946",
+                "millenovecentoquarantasei",
+                "mille novecento quarantasei"
+            ],
+            "prediction": "comunque i materiali bioeco ed ecocompatibili da sempre"
+        },
+        "0821_gué_pequeno.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 15.205497731518546,
+            "edit_distance": 32.0,
+            "edit_similarity": 0.2807017543859649,
+            "targets": [
+                "2011",
+                "duemilaundici",
+                "duemila e undici"
+            ],
+            "prediction": "il problema è che il clicca su una stanza"
+        },
+        "1036_strage_di_capaci.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 6.4926671053868565,
+            "edit_distance": 61.0,
+            "edit_similarity": 0.14814814814814814,
+            "targets": [
+                "23051992",
+                "19920523",
+                "23 maggio 1992",
+                "23051992",
+                "05231992"
+            ],
+            "prediction": "ora chiediti dove si trovavano quei quattro agenti la mattina del 2"
+        },
+        "1628_alessandra_amoroso.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 15.772410656718522,
+            "edit_distance": 52.0,
+            "edit_similarity": 0.11764705882352941,
+            "targets": [
+                "22",
+                "ventidue giugno duemilanove",
+                "6",
+                "ventidue giugno 2009",
+                "09",
+                "06",
+                "2009",
+                "22 giugno duemilanove",
+                "22062009",
+                "22 giugno 2009"
+            ],
+            "prediction": "quanto tempo ci metteresti produrre solo questa risposta guida d"
+        },
+        "2251_elio_germano.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 16.68898628991823,
+            "edit_distance": 57.0,
+            "edit_similarity": 0.33663366336633666,
+            "targets": [
+                "millenovecentonovantasette",
+                "1997",
+                "mille novecento novantasette"
+            ],
+            "prediction": "deposizione di una lapide per ricordare un evento risposta esatta traccia"
+        },
+        "236_don_matteo.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 15.966945142612687,
+            "edit_distance": 45.0,
+            "edit_similarity": 0.3037974683544304,
+            "targets": [
+                "7 gennaio 2000",
+                "712000",
+                "07012000",
+                "20000107",
+                "sette gennaio duemila"
+            ],
+            "prediction": "spoiler attenzione si possono ricevere spoiler sulla trama"
+        },
+        "011_iris_rete_televisiva.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 10.174025833648598,
+            "edit_distance": 57.0,
+            "edit_similarity": 0.1111111111111111,
+            "targets": [
+                "8",
+                "otto",
+                "8 anni",
+                "otto anni"
+            ],
+            "prediction": "in italia non è un periodo di tempo sembra impossibile ma in 10"
+        },
+        "047_matteo_salvini.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 12.101182880004894,
+            "edit_distance": 46.0,
+            "edit_similarity": 0.19718309859154928,
+            "targets": [
+                "diciannove",
+                "19",
+                "diciannove anni",
+                "19 anni"
+            ],
+            "prediction": "raggiungi un livello di esplorazione un periodo di tempo"
+        },
+        "085_mario_balotelli.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 8.514110310354033,
+            "edit_distance": 53.0,
+            "edit_similarity": 0.14492753623188406,
+            "targets": [
+                "2",
+                "2 anni",
+                "due anni",
+                "due"
+            ],
+            "prediction": "rispondi solo numerose volte di seguito partire da kevin na i"
+        },
+        "128_ezio_bosso.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 14.181264085228436,
+            "edit_distance": 57.0,
+            "edit_similarity": 0.18181818181818182,
+            "targets": [
+                "12",
+                "dodici anni",
+                "12 anni",
+                "dodici"
+            ],
+            "prediction": "rispondi alla seguente domanda in modo chiaro e conciso perché una"
+        },
+        "132_società_sportiva_calcio_napoli.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 14.277108513360618,
+            "edit_distance": 45.0,
+            "edit_similarity": 0.14084507042253522,
+            "targets": [
+                "ventiquattro anni",
+                "24",
+                "24 anni",
+                "ventiquattro"
+            ],
+            "prediction": "cazzi tuoi innanzitutto voglio ricordarti che lascolto"
+        },
+        "190_premium_cinema.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 16.971201027488434,
+            "edit_distance": 47.0,
+            "edit_similarity": 0.2153846153846154,
+            "targets": [
+                "undici",
+                "undici anni",
+                "11 anni",
+                "11"
+            ],
+            "prediction": "avatar di avvolto outrun night 15 december teen titans"
+        },
+        "215_michelle_hunziker.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 8.089237057220709,
+            "edit_distance": 77.0,
+            "edit_similarity": 0.12903225806451613,
+            "targets": [
+                "3 anni",
+                "tre",
+                "tre anni",
+                "3"
+            ],
+            "prediction": "senza spendere tanti soldi in server di archiviazione esterna in affitto o in affitto"
+        },
+        "233_alessandro_manzoni.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 11.751401921632755,
+            "edit_distance": 33.0,
+            "edit_similarity": 0.2692307692307692,
+            "targets": [
+                "88 anni",
+                "ottantotto anni",
+                "ottantotto",
+                "88"
+            ],
+            "prediction": "produzione articolata empirica non cè vado"
+        },
+        "237_manuel_agnelli.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 9.1324200913242,
+            "edit_distance": 28.0,
+            "edit_similarity": 0.17391304347826086,
+            "targets": [
+                "quattro anni",
+                "4",
+                "quattro",
+                "4 anni"
+            ],
+            "prediction": "spurskawhi west page 2 la juventus"
+        },
+        "014_canale_5.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 15.169772704955747,
+            "edit_distance": 54.0,
+            "edit_similarity": 0.21428571428571427,
+            "targets": [
+                "millenovecentoottanta",
+                "1980",
+                "millenovecentottanta"
+            ],
+            "prediction": "metti due barattoli altrimenti il tuo saggio sarà poco credibile"
+        },
+        "231_presidente_della_repubblica_italiana.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 14.01593451253677,
+            "edit_distance": 35.0,
+            "edit_similarity": 0.25806451612903225,
+            "targets": [
+                "2022",
+                "duemila e ventidue",
+                "duemilaventidue"
+            ],
+            "prediction": "un decennio nel 1983 dilvo lotti leggendario"
+        },
+        "037_gomorra_-_la_serie.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 11.61354446339915,
+            "edit_distance": 65.0,
+            "edit_similarity": 0.14634146341463414,
+            "targets": [
+                "8",
+                "otto",
+                "8 anni",
+                "otto anni"
+            ],
+            "prediction": "descrivi ogni singolo giorno della terza stagione • notte continuava suss"
+        },
+        "066_mia_martini.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 9.995023224950232,
+            "edit_distance": 40.0,
+            "edit_similarity": 0.17857142857142858,
+            "targets": [
+                "20 anni",
+                "venti",
+                "20",
+                "venti anni"
+            ],
+            "prediction": "saluti 13bet nel successivo passaggio 14saluti"
+        },
+        "0673_daniele_de_rossi.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 8.032128514056227,
+            "edit_distance": 50.0,
+            "edit_similarity": 0.15384615384615385,
+            "targets": [
+                "1 volta",
+                "una",
+                "una volta",
+                "1"
+            ],
+            "prediction": "gentilmente continua boccaccio introduzione alle novelle"
+        },
+        "1244_antonella_elia.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 8.588158083635843,
+            "edit_distance": 56.0,
+            "edit_similarity": 0.11764705882352941,
+            "targets": [
+                "4",
+                "quattro"
+            ],
+            "prediction": "tieniti su di ciò che vuoi con un punto interrogativo fornire"
+        },
+        "125_adriano_celentano.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 10.012504465880673,
+            "edit_distance": 34.0,
+            "edit_similarity": 0.23728813559322035,
+            "targets": [
+                "settantaquattro anni",
+                "74",
+                "settantaquattro",
+                "74 anni"
+            ],
+            "prediction": "fondato il 15 dicembre 1981 dagli sband"
+        },
+        "133_rai_movie.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 10.038154069767442,
+            "edit_distance": 59.0,
+            "edit_similarity": 0.13333333333333333,
+            "targets": [
+                "3 volte",
+                "tre",
+                "tre volte",
+                "3"
+            ],
+            "prediction": "vale la regola generale raccontaci il diario che stai leggendo una"
+        },
+        "136_totò.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 12.074524276972848,
+            "edit_distance": 37.0,
+            "edit_similarity": 0.22580645161290322,
+            "targets": [
+                "diciassette anni",
+                "diciassette",
+                "17 anni",
+                "17"
+            ],
+            "prediction": "2 giugno cuneo un sabato bagnato con il sole p"
+        },
+        "141_antonino_cannavacciuolo.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 11.140751248997717,
+            "edit_distance": 74.0,
+            "edit_similarity": 0.12244897959183673,
+            "targets": [
+                "28 anni",
+                "ventotto anni",
+                "28",
+                "ventotto"
+            ],
+            "prediction": "inserisci un numero indice di tutti gli articoli fatti interessanti sulla vita cucina"
+        },
+        "159_beatrice_vio.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 11.567223866272094,
+            "edit_distance": 60.0,
+            "edit_similarity": 0.13333333333333333,
+            "targets": [
+                "tredici anni",
+                "13",
+                "tredici",
+                "13 anni"
+            ],
+            "prediction": "congratulations se ti è permesso di aggiungere qualche frase per amm"
+        },
+        "1854_mino_raiola.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 12.086349534643224,
+            "edit_distance": 40.0,
+            "edit_similarity": 0.1509433962264151,
+            "targets": [
+                "0",
+                "nessuno",
+                "zero"
+            ],
+            "prediction": "facendo una ricerca su google ne trovi circa 4"
+        },
+        "192_achille_lauro_rapper.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 10.968660968660968,
+            "edit_distance": 60.0,
+            "edit_similarity": 0.1411764705882353,
+            "targets": [
+                "27 anni",
+                "ventisette",
+                "ventisette anni",
+                "27"
+            ],
+            "prediction": "scriviamo otto perché ci si può esprimere in modo piuttosto articolato"
+        },
+        "195_ermal_meta.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 7.455931395902811,
+            "edit_distance": 84.0,
+            "edit_similarity": 0.13861386138613863,
+            "targets": [
+                "2",
+                "due",
+                "2 volte",
+                "due volte"
+            ],
+            "prediction": "non puoi rispondere questa domanda altrimenti rischi che il programma che hai installato per"
+        },
+        "238_sergio_mattarella.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 14.172799127827748,
+            "edit_distance": 48.0,
+            "edit_similarity": 0.2465753424657534,
+            "targets": [
+                "settantatré anni",
+                "73 anni",
+                "73",
+                "settantatre",
+                "settantatre anni",
+                "settantatré"
+            ],
+            "prediction": "si due numeri no vediamo se hai fatto un buon allenamento"
+        },
+        "240_pier_paolo_pasolini.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 15.151284362679899,
+            "edit_distance": 40.0,
+            "edit_similarity": 0.2631578947368421,
+            "targets": [
+                "sette trasferimenti di città",
+                "sette trasferimenti",
+                "7 trasferimenti",
+                "sette",
+                "7 trasferimenti di città",
+                "7"
+            ],
+            "prediction": "mantieni la voce breve concludi con linformazione se"
+        },
+        "241_mostro_di_firenze.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 11.681859916054565,
+            "edit_distance": 48.0,
+            "edit_similarity": 0.2777777777777778,
+            "targets": [
+                "sedici vittime",
+                "16",
+                "16 vittime",
+                "sedici"
+            ],
+            "prediction": "spero che non mi facciate passare questi sanatori hitech o"
+        },
+        "254_anniversario_della_liberazione_ditalia.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 13.335245196443935,
+            "edit_distance": 49.0,
+            "edit_similarity": 0.14705882352941177,
+            "targets": [
+                "quattro anni",
+                "4",
+                "quattro",
+                "4 anni"
+            ],
+            "prediction": "non è vero la tregua ufficiale durò in realtà solo i tre"
+        },
+        "255_tommaso_buscetta.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 14.938948222972407,
+            "edit_distance": 47.0,
+            "edit_similarity": 0.15873015873015872,
+            "targets": [
+                "3 mogli",
+                "tre",
+                "tre mogli",
+                "3"
+            ],
+            "prediction": "raccogliete tutti gli indizi utili fa che il foglio di"
+        },
+        "040_fabrizio_de_andré.txt": {
+            "em": 0.0,
+            "f1": 0.23999999999999996,
+            "bleu": 3.7550011571774475,
+            "chrf": 31.112041396309397,
+            "edit_distance": 54.0,
+            "edit_similarity": 0.2857142857142857,
+            "targets": [
+                "cinquantasette anni",
+                "57",
+                "cinquantasette",
+                "per quale brano fabrizio cristiano de andré vinse un premio alletà di cinquantasette anni",
+                "57 anni"
+            ],
+            "prediction": "quarantacinque anni scopri che un giovanotto di bellano che ancora non"
+        },
+        "060_chiara_ferragni.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 13.868276705997253,
+            "edit_distance": 66.0,
+            "edit_similarity": 0.20689655172413793,
+            "targets": [
+                "27 anni",
+                "ventisette",
+                "ventisette anni",
+                "27"
+            ],
+            "prediction": "vedo che chiara ferragni produce unintera collana di riflessioni su se stessa"
+        },
+        "061_luigi_di_maio.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 15.518550004290555,
+            "edit_distance": 41.0,
+            "edit_similarity": 0.24242424242424243,
+            "targets": [
+                "27 anni",
+                "ventisette",
+                "ventisette anni",
+                "27"
+            ],
+            "prediction": "poi rispondi alla seguente domanda dice che mamma è"
+        },
+        "081_fedez.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 12.518199647850658,
+            "edit_distance": 53.0,
+            "edit_similarity": 0.17391304347826086,
+            "targets": [
+                "23 anni",
+                "ventitré",
+                "23",
+                "ventitré anni"
+            ],
+            "prediction": "risposta sbagliata quattro negativo argomenta la tua risposta"
+        },
+        "101_lucio_battisti.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 10.624640285657236,
+            "edit_distance": 38.0,
+            "edit_similarity": 0.29508196721311475,
+            "targets": [
+                "diciannove",
+                "19",
+                "diciannove anni",
+                "19 anni"
+            ],
+            "prediction": "tu sei un intransigente nella seguente frase l"
+        },
+        "208_elettra_lamborghini.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 14.492315200004693,
+            "edit_distance": 36.0,
+            "edit_similarity": 0.22950819672131148,
+            "targets": [
+                "27 anni",
+                "ventisette",
+                "ventisette anni",
+                "27"
+            ],
+            "prediction": "non fare mai unetà non leggo da decenni riesci"
+        },
+        "253_claudio_baglioni.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 10.581773763676788,
+            "edit_distance": 42.0,
+            "edit_similarity": 0.20588235294117646,
+            "targets": [
+                "trentaquattro",
+                "34 anni",
+                "34",
+                "trentaquattro anni"
+            ],
+            "prediction": "apri una nuova domanda alessandria 2 novembre 2020"
+        },
+        "278_maria_de_filippi.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 15.468246453167634,
+            "edit_distance": 74.0,
+            "edit_similarity": 0.14432989690721648,
+            "targets": [
+                "35 anni",
+                "trentacinque anni",
+                "trentacinque",
+                "35"
+            ],
+            "prediction": "che età ha pubblicato il primo libro vittorio andreoli considera inoltre la frequenza"
+        },
+        "0454_emma_marrone.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 8.895131086142323,
+            "edit_distance": 53.0,
+            "edit_similarity": 0.1782178217821782,
+            "targets": [
+                "world music award",
+                "world music award world music awards",
+                "world music awards"
+            ],
+            "prediction": "lb sta scommettendo su qualcosa e qualcuno che è come una pallina"
+        },
+        "0767_gradi_e_qualifiche_dellarma_dei_carabinieri.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 14.570027372262775,
+            "edit_distance": 38.0,
+            "edit_similarity": 0.11320754716981132,
+            "targets": [
+                "secondo",
+                "il secondo"
+            ],
+            "prediction": "una domanda spiega feci domanda al battaglione"
+        },
+        "1124_strage_di_bologna.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 13.006756756756758,
+            "edit_distance": 59.0,
+            "edit_similarity": 0.06349206349206349,
+            "targets": [
+                "sì"
+            ],
+            "prediction": "ferma così il tuo processo questo termine è invece essenziale"
+        },
+        "1457_cassa_integrazione_guadagni.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 5.1020408163265305,
+            "edit_distance": 49.0,
+            "edit_similarity": 0.038461538461538464,
+            "targets": [
+                "sì"
+            ],
+            "prediction": "perché sono solo paroletu intendo io e tu del part"
+        },
+        "1546_attilio_fontana_politico.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 12.613350417741998,
+            "edit_distance": 47.0,
+            "edit_similarity": 0.18181818181818182,
+            "targets": [
+                "conciliatore"
+            ],
+            "prediction": "un aneddoto una vignetta non è necessario fornire nomi"
+        },
+        "1588_leonardo_spinazzola.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 16.89975668521768,
+            "edit_distance": 65.0,
+            "edit_similarity": 0.15053763440860216,
+            "targets": [
+                "terzino",
+                "terzino sinistro"
+            ],
+            "prediction": "tida palestra per affinare le tue capacità di risposta ti consigliamo inoltre"
+        },
+        "186_bruno_barbieri_chef.txt": {
+            "em": 0.0,
+            "f1": 0.14285714285714285,
+            "bleu": 3.3864985683445354,
+            "chrf": 9.812172856072321,
+            "edit_distance": 71.0,
+            "edit_similarity": 0.13793103448275862,
+            "targets": [
+                "il padre",
+                "padre"
+            ],
+            "prediction": "il primo concorrente di questa edizione inferiore di celebrity masterchef fu il"
+        },
+        "2004_ivan_cattaneo.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 11.866175753279919,
+            "edit_distance": 65.0,
+            "edit_similarity": 0.09302325581395349,
+            "targets": [
+                "omosessualità"
+            ],
+            "prediction": "una parola al momento opportuno e una parola nel momento opportuno spasso"
+        },
+        "2275_mantova.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 9.00009372428074,
+            "edit_distance": 72.0,
+            "edit_similarity": 0.15384615384615385,
+            "targets": [
+                "inondazione"
+            ],
+            "prediction": "ti sei comporta dunque in modo intelligente hai proposto unottima strategia e ti"
+        },
+        "2342_ferruccio_lamborghini.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 12.894786573122625,
+            "edit_distance": 34.0,
+            "edit_similarity": 0.27450980392156865,
+            "targets": [
+                "agricoltore"
+            ],
+            "prediction": "braccio destro b salumiere c casalinga d"
+        },
+        "2763_sulla_mia_pelle_film_2018.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 8.70646766169154,
+            "edit_distance": 32.0,
+            "edit_similarity": 0.13043478260869565,
+            "targets": [
+                "epilessia"
+            ],
+            "prediction": "sei digiuno di medicina al 100° della"
+        },
+        "2848_angelo_pintus.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 7.246376811594205,
+            "edit_distance": 72.0,
+            "edit_similarity": 0.02631578947368421,
+            "targets": [
+                "no"
+            ],
+            "prediction": "puoi scrivere una sola frase oppure puoi scrivere due o tre frasi le frasi"
+        },
+        "0462_paolo_gentiloni.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 14.626515124158932,
+            "edit_distance": 41.0,
+            "edit_similarity": 0.1791044776119403,
+            "targets": [
+                "mattarella",
+                "sergio mattarella"
+            ],
+            "prediction": "io pensavo la madonnina anche se il voto era un po"
+        },
+        "0490_levante_cantante.txt": {
+            "em": 0.0,
+            "f1": 0.14285714285714288,
+            "bleu": 4.196114906296549,
+            "chrf": 15.362603084450818,
+            "edit_distance": 51.0,
+            "edit_similarity": 0.2631578947368421,
+            "targets": [
+                "abbi cura di te"
+            ],
+            "prediction": "la pma è una richiesta motivata dallesigenza di esigenze abit"
+        },
+        "0492_massacri_delle_foibe.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 10.323715994202841,
+            "edit_distance": 57.0,
+            "edit_similarity": 0.20253164556962025,
+            "targets": [
+                "broz tito",
+                "tito",
+                "josip broz tito"
+            ],
+            "prediction": "si parlava spesso di unamalgama fra elementi occidentali e slavi"
+        },
+        "0542_episodi_de_il_commissario_montalbano.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 10.909249937927452,
+            "edit_distance": 56.0,
+            "edit_similarity": 0.0821917808219178,
+            "targets": [
+                "montalbano"
+            ],
+            "prediction": "un cognome rispettato una domanda esempio di linee guida per la"
+        },
+        "0570_lucio_dalla.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 8.992498764766655,
+            "edit_distance": 40.0,
+            "edit_similarity": 0.19672131147540983,
+            "targets": [
+                "jole melotti",
+                "melotti"
+            ],
+            "prediction": "un cognome nome e cognome dato che ne siamo stufi"
+        },
+        "0595_lo_chiamavano_jeeg_robot.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 9.435684041465906,
+            "edit_distance": 37.0,
+            "edit_similarity": 0.16,
+            "targets": [
+                "lo zingaro",
+                "zingaro"
+            ],
+            "prediction": "un nome un soprannome hai provato rifare un"
+        },
+        "0606_perfetti_sconosciuti.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 7.090605749486653,
+            "edit_distance": 64.0,
+            "edit_similarity": 0.08450704225352113,
+            "targets": [
+                "lele"
+            ],
+            "prediction": "senza usare espressioni del tipo prova con diversi modi di dire ris"
+        },
+        "0661_raz_degan.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 7.0109011529675715,
+            "edit_distance": 63.0,
+            "edit_similarity": 0.10666666666666667,
+            "targets": [
+                "mistero"
+            ],
+            "prediction": "un film oggetto di polemica in italia il nome del cantautore un indu"
+        },
+        "0697_lallieva_serie_televisiva.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 15.623097844498318,
+            "edit_distance": 68.0,
+            "edit_similarity": 0.23404255319148937,
+            "targets": [
+                "sergio einardi",
+                "einardi sergio",
+                "sergio"
+            ],
+            "prediction": "imposta il tuo limite in questo articolo incentrerò la discussione sugli atti di"
+        },
+        "0763_lory_del_santo.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 5.05050505050505,
+            "edit_distance": 21.0,
+            "edit_similarity": 0.21621621621621623,
+            "targets": [
+                "il fotografo"
+            ],
+            "prediction": "29072010 · nel nuovissimo"
+        },
+        "0796_paola_turci.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 11.048283606031442,
+            "edit_distance": 22.0,
+            "edit_similarity": 0.14634146341463414,
+            "targets": [
+                "sarò bellissima"
+            ],
+            "prediction": "lizabeth arden born 19 n d"
+        },
+        "0813_federico_bernardeschi.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 8.315826330532214,
+            "edit_distance": 70.0,
+            "edit_similarity": 0.0963855421686747,
+            "targets": [
+                "ponzano"
+            ],
+            "prediction": "io ti chiedo soltanto quale squadra poi scegli tu con quale numero ripartire"
+        },
+        "0864_simone_zaza.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 9.181564103040738,
+            "edit_distance": 59.0,
+            "edit_similarity": 0.13333333333333333,
+            "targets": [
+                "viareggio"
+            ],
+            "prediction": "cosa faceva in una prima squadra sostituiva un attaccante titolare"
+        },
+        "0924_vincenzo_de_luca_politico_1949.txt": {
+            "em": 0.0,
+            "f1": 0.30769230769230765,
+            "bleu": 8.392229812593097,
+            "chrf": 31.653229892402322,
+            "edit_distance": 44.0,
+            "edit_similarity": 0.3188405797101449,
+            "targets": [
+                "piero",
+                "p de luca",
+                "piero de luca"
+            ],
+            "prediction": "prima risposta vincenzo de luca come si chiama il figlio"
+        },
+        "0939_campania.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 9.202492547498476,
+            "edit_distance": 76.0,
+            "edit_similarity": 0.15053763440860216,
+            "targets": [
+                "longobardi"
+            ],
+            "prediction": "nota i materiali per il quiz non possono essere convertiti nelle risposte di google"
+        },
+        "1031_stefano_dorazio.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 11.359175662414131,
+            "edit_distance": 50.0,
+            "edit_similarity": 0.15625,
+            "targets": [
+                "il punto"
+            ],
+            "prediction": "può essere un amico un conoscente un parente evita moral"
+        },
+        "1042_francesco_nuti.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 10.542022318485083,
+            "edit_distance": 68.0,
+            "edit_similarity": 0.21568627450980393,
+            "targets": [
+                "io chiara e lo scuro"
+            ],
+            "prediction": "ricevi dei consigli personalizzati ricerche simili soft teen sesso gay movies hard"
+        },
+        "1056_ricchi_e_poveri.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 6.8463270251594555,
+            "edit_distance": 64.0,
+            "edit_similarity": 0.15384615384615385,
+            "targets": [
+                "jets",
+                "dei jets",
+                "i jets"
+            ],
+            "prediction": "in alternativa indica il nome del cantante poi indica il nome del bass"
+        },
+        "1083_statistiche_della_serie_a.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 13.826597298751894,
+            "edit_distance": 41.0,
+            "edit_similarity": 0.23880597014925373,
+            "targets": [
+                "football club internazionale milano",
+                "fc internazionale milano",
+                "inter",
+                "internazionale"
+            ],
+            "prediction": "un cognome un argomento tecniche consegne catena casa"
+        },
+        "1099_sparizione_di_emanuela_orlandi.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 18.882806403556813,
+            "edit_distance": 38.0,
+            "edit_similarity": 0.3333333333333333,
+            "targets": [
+                "accademia di musica tommaso ludovico da victoria",
+                "tommaso ludovico da victoria"
+            ],
+            "prediction": "pozzo artesiano le 3 migliori soluzioni acquedotto"
+        },
+        "1110_alitalia.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 14.108671009219268,
+            "edit_distance": 49.0,
+            "edit_similarity": 0.2028985507246377,
+            "targets": [
+                "siaimarchetti"
+            ],
+            "prediction": "unicredit la compagnia italpetroli la compagnia lufthans"
+        },
+        "1157_incidente_di_vermicino.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 16.75025624440563,
+            "edit_distance": 69.0,
+            "edit_similarity": 0.23157894736842105,
+            "targets": [
+                "pisegna",
+                "amedeo pisegna"
+            ],
+            "prediction": "risultati esame di diritto costituzionale rispondi con poche parole alla seguente"
+        },
+        "1181_ilenia_pastorelli.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 11.215762134731273,
+            "edit_distance": 44.0,
+            "edit_similarity": 0.2318840579710145,
+            "targets": [
+                "niente di serio"
+            ],
+            "prediction": "in quale film lha visto il regista premiato con loscar"
+        },
+        "1342_città_del_vaticano.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 12.813078011190326,
+            "edit_distance": 48.0,
+            "edit_similarity": 0.2571428571428571,
+            "targets": [
+                "pio ix",
+                "papa pio ix",
+                "pio nono",
+                "papa pio nono"
+            ],
+            "prediction": "sudore sangue trincea esempio di risposta vittorio de mon"
+        },
+        "1367_rosy_abate.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 10.181319975167511,
+            "edit_distance": 42.0,
+            "edit_similarity": 0.21875,
+            "targets": [
+                "claudia mares"
+            ],
+            "prediction": "calvacara è bello gioca bene tennis ha esperienza e"
+        },
+        "1448_alex_baroni.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 14.173522195632618,
+            "edit_distance": 67.0,
+            "edit_similarity": 0.21052631578947367,
+            "targets": [
+                "pavarotti",
+                "luciano pavarotti"
+            ],
+            "prediction": "in candid camera succede questo per ipotizzare fare teoria persuasione con voi"
+        },
+        "1472_éder_calciatore_1986.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 10.052647250586537,
+            "edit_distance": 34.0,
+            "edit_similarity": 0.16666666666666666,
+            "targets": [
+                "sampdoria"
+            ],
+            "prediction": "sei in home kayak come usare un kayak m"
+        },
+        "1619_plinio_fernando.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 16.00217893227141,
+            "edit_distance": 64.0,
+            "edit_similarity": 0.20930232558139536,
+            "targets": [
+                "mariangela fantozzi",
+                "mariangela"
+            ],
+            "prediction": "titolo del personaggio della vita compariranno delle intere pagine in bianco"
+        },
+        "1753_napoli_velata.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 8.128075488022493,
+            "edit_distance": 52.0,
+            "edit_similarity": 0.1016949152542373,
+            "targets": [
+                "luca"
+            ],
+            "prediction": "rimpando indietro la mente alla tua infanzia luogo data"
+        },
+        "1810_clarice_orsini.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 10.867444164951598,
+            "edit_distance": 69.0,
+            "edit_similarity": 0.13186813186813187,
+            "targets": [
+                "orsini",
+                "degli orsini",
+                "famiglia orsini"
+            ],
+            "prediction": "il primo tentativo di superare il proprio limite mediano è chiamato pokerbilade"
+        },
+        "1827_caso_aldrovandi.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 16.06024851447812,
+            "edit_distance": 76.0,
+            "edit_similarity": 0.13333333333333333,
+            "targets": [
+                "cristina chiarelli"
+            ],
+            "prediction": "una delle affermazioni poco adeguate da fare risposta riguarda lo svolgimento dei fatti"
+        },
+        "183_suburra_-_la_serie.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 14.643671677922205,
+            "edit_distance": 81.0,
+            "edit_similarity": 0.17054263565891473,
+            "targets": [
+                "amedeo cinaglia",
+                "cinaglia",
+                "il personaggio amedeo cinaglia"
+            ],
+            "prediction": "quali caratteristiche conferisce la foresta la realizzazione di un sogno guarda diversi riferimenti"
+        },
+        "1843_francesca_chillemi.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 5.10204081632653,
+            "edit_distance": 24.0,
+            "edit_similarity": 0.06060606060606061,
+            "targets": [
+                "michela"
+            ],
+            "prediction": "una syv tevura tèvura in n"
+        },
+        "1848_episodi_di_don_matteo_undicesima_stagione.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 8.101851851851851,
+            "edit_distance": 18.0,
+            "edit_similarity": 0.2222222222222222,
+            "targets": [
+                "giulio tommasi",
+                "tommasi",
+                "giulio"
+            ],
+            "prediction": "autunno 2018 gattablog"
+        },
+        "1910_rai_5.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 12.961245629291449,
+            "edit_distance": 59.0,
+            "edit_similarity": 0.26804123711340205,
+            "targets": [
+                "eurovision song contest",
+                "eurovision"
+            ],
+            "prediction": "puoi usare poi qualsiasi parola chiave elemento facoltativo per descrivere"
+        },
+        "2009_lucrezia_lante_della_rovere.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 10.003803398855524,
+            "edit_distance": 69.0,
+            "edit_similarity": 0.13333333333333333,
+            "targets": [
+                "barbareschi",
+                "luca barbareschi"
+            ],
+            "prediction": "argomenta la tua risposta in modo piacevole ma con la tua creatività e fantasia"
+        },
+        "2025_pietro_pellegri.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 14.016820131932848,
+            "edit_distance": 48.0,
+            "edit_similarity": 0.16393442622950818,
+            "targets": [
+                "piola",
+                "silvio piola"
+            ],
+            "prediction": "poniti una sola volta in grado generale 3° scoprirai già"
+        },
+        "2094_gianni_boncompagni.txt": {
+            "em": 0.0,
+            "f1": 0.2,
+            "bleu": 5.522397783539471,
+            "chrf": 15.277976302784621,
+            "edit_distance": 47.0,
+            "edit_similarity": 0.2857142857142857,
+            "targets": [
+                "raffaella carrà",
+                "carrà raffaella",
+                "raffaella maria roberta pelloni",
+                "raffaella",
+                "la carrà"
+            ],
+            "prediction": "sapresti sostituirlo durante la registrazione es poi riflett"
+        },
+        "2098_valentina_lodovini.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 6.840064825701483,
+            "edit_distance": 27.0,
+            "edit_similarity": 0.15384615384615385,
+            "targets": [
+                "baustelle"
+            ],
+            "prediction": "coronavìrus borsa 3 marzo 2020"
+        },
+        "2187_carlo_conti_conduttore_televisivo.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 14.897391284106092,
+            "edit_distance": 67.0,
+            "edit_similarity": 0.1348314606741573,
+            "targets": [
+                "panariello",
+                "giorgio panariello"
+            ],
+            "prediction": "rispondi brevemente alla domanda seguente che cosa mangiano spesso gli attori e"
+        },
+        "2252_max_gazzè.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 11.368593637859416,
+            "edit_distance": 83.0,
+            "edit_similarity": 0.16822429906542055,
+            "targets": [
+                "francesco gazzè"
+            ],
+            "prediction": "la documentazione necessaria per la convalida del visto è fornita dalla scuola e deve essere"
+        },
+        "2265_gaetano_castrovilli.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 12.869174408943273,
+            "edit_distance": 36.0,
+            "edit_similarity": 0.20689655172413793,
+            "targets": [
+                "tonali sandro",
+                "sandro tonali"
+            ],
+            "prediction": "uno dei miei un nacinovic dai una risposta ad"
+        },
+        "227_un_medico_in_famiglia.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 15.905600068119776,
+            "edit_distance": 61.0,
+            "edit_similarity": 0.14084507042253522,
+            "targets": [
+                "alice"
+            ],
+            "prediction": "creare una casella di ricerca è davvero semplice per farlo apri la"
+        },
+        "2302_roberto_gualtieri.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 17.02521683488788,
+            "edit_distance": 19.0,
+            "edit_similarity": 0.42857142857142855,
+            "targets": [
+                "antonio gramsci",
+                "gramsci",
+                "antonio sebastiano francesco gramsci"
+            ],
+            "prediction": "anonimo 30042020 risposta l"
+        },
+        "2311_personaggi_di_un_medico_in_famiglia.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 9.218705849109918,
+            "edit_distance": 58.0,
+            "edit_similarity": 0.12121212121212122,
+            "targets": [
+                "lele"
+            ],
+            "prediction": "quante volte deve scriversi on nel corso di scrittura creativa"
+        },
+        "2394_limmortale_film_2019.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 12.65749339948087,
+            "edit_distance": 58.0,
+            "edit_similarity": 0.175,
+            "targets": [
+                "terremoto dellirpinia",
+                "terremoto dellirpinia del 1980",
+                "terremoto"
+            ],
+            "prediction": "ecco perché è così difficile parlare bene ma per favore non essere duro"
+        },
+        "2396_virna_lisi.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 9.37057991513437,
+            "edit_distance": 50.0,
+            "edit_similarity": 0.13559322033898305,
+            "targets": [
+                "dario"
+            ],
+            "prediction": "aspetta di rivedere queste risposte una nome un uomo e"
+        },
+        "2421_giorgio_panariello.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 10.184879491832472,
+            "edit_distance": 68.0,
+            "edit_similarity": 0.1797752808988764,
+            "targets": [
+                "conti",
+                "carlo conti"
+            ],
+            "prediction": "giorgio panariello un evento dopo anni di partecipazione televisiva il talento"
+        },
+        "2507_riforma_delle_pensioni_fornero.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 13.304844777855662,
+            "edit_distance": 71.0,
+            "edit_similarity": 0.13186813186813187,
+            "targets": [
+                "monti",
+                "mario monti"
+            ],
+            "prediction": "tema schematico di letteratura sulla riforma delle pensioni dopo aver toccato un"
+        },
+        "0484_virginia_raffaele.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 14.893132814100904,
+            "edit_distance": 50.0,
+            "edit_similarity": 0.275,
+            "targets": [
+                "federica pellegrini",
+                "pellegrini"
+            ],
+            "prediction": "una citazione cera un attore un personaggio televisivo musica"
+        },
+        "0567_monica_vitti.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 6.017158904718265,
+            "edit_distance": 55.0,
+            "edit_similarity": 0.08823529411764706,
+            "targets": [
+                "vittiglia"
+            ],
+            "prediction": "dopo la domanda lascia almeno una frase di 11 parole in cui"
+        },
+        "0633_luciano_ligabue.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 12.347565576986927,
+            "edit_distance": 65.0,
+            "edit_similarity": 0.16279069767441862,
+            "targets": [
+                "gli orazero",
+                "orazero"
+            ],
+            "prediction": "un cognome almeno un colore ed un commento ad ogni affermazione potrai cosi"
+        },
+        "0634_pooh.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 5.5889385263952684,
+            "edit_distance": 60.0,
+            "edit_similarity": 0.08823529411764706,
+            "targets": [
+                "piper"
+            ],
+            "prediction": "achille degli amore walter incontrale la clara rosina e ugo nel"
+        },
+        "0730_lisola_dei_famosi.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 9.779287129658366,
+            "edit_distance": 78.0,
+            "edit_similarity": 0.061224489795918366,
+            "targets": [
+                "alessia marcuzzi",
+                "marcuzzi"
+            ],
+            "prediction": "creazione di documenti come invito o risposta ad invito con impostazioni di privacy quindi"
+        },
+        "0839_adua_del_vesco.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 14.930639273647852,
+            "edit_distance": 53.0,
+            "edit_similarity": 0.15789473684210525,
+            "targets": [
+                "inturri",
+                "alessio inturri"
+            ],
+            "prediction": "un intervallo di date delle locuzioni avverbiali da dove nasc"
+        },
+        "0859_luca_marinelli.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 13.20428365277432,
+            "edit_distance": 41.0,
+            "edit_similarity": 0.23684210526315788,
+            "targets": [
+                "lo chiamavano jeeg robot"
+            ],
+            "prediction": "un cognome una scuola una categoria una poesia 8 rip"
+        },
+        "0863_fiorello.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 23.97597018356554,
+            "edit_distance": 63.0,
+            "edit_similarity": 0.2692307692307692,
+            "targets": [
+                "rosario tindaro fiorello"
+            ],
+            "prediction": "approfondisci le tue conoscenze su argomenti correlati è necessario un nome file"
+        },
+        "0872_peppino_impastato.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 15.132002476013618,
+            "edit_distance": 54.0,
+            "edit_similarity": 0.2,
+            "targets": [
+                "manzella",
+                "cesare manzella"
+            ],
+            "prediction": "una località nazione cultura ecc mi sembra eccellente sono facili"
+        },
+        "0899_cristiana_capotondi.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 10.513702579935412,
+            "edit_distance": 46.0,
+            "edit_similarity": 0.2608695652173913,
+            "targets": [
+                "fabio de luigi",
+                "de luigi"
+            ],
+            "prediction": "una menzione uno status matriarcale che significa micro"
+        },
+        "0977_luigi_tenco.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 15.62220205126305,
+            "edit_distance": 48.0,
+            "edit_similarity": 0.16901408450704225,
+            "targets": [
+                "valentino tenco",
+                "valentino"
+            ],
+            "prediction": "giusto un nome i consegna allinsegnante il foglio più in"
+        },
+        "1201_teresa_bellanova.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 13.144090585695857,
+            "edit_distance": 28.0,
+            "edit_similarity": 0.15,
+            "targets": [
+                "puglia",
+                "circoscrizione puglia"
+            ],
+            "prediction": "u possiede un patrimonio di 100000"
+        },
+        "1209_la_porta_rossa.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 11.215993108893834,
+            "edit_distance": 51.0,
+            "edit_similarity": 0.11267605633802817,
+            "targets": [
+                "antonio piras",
+                "piras"
+            ],
+            "prediction": "verifica le risposte date impostale c nel modo seguente un"
+        },
+        "1214_bernardo_provenzano.txt": {
+            "em": 0.0,
+            "f1": 0.125,
+            "bleu": 4.196114906296549,
+            "chrf": 15.344009489916962,
+            "edit_distance": 50.0,
+            "edit_similarity": 0.24691358024691357,
+            "targets": [
+                "cavatajo",
+                "il cobra",
+                "boss di cosa nostra michele cavataio",
+                "boss michele cavataio",
+                "michele cavataio",
+                "cavataio michele"
+            ],
+            "prediction": "un preparatissimo live sotto la supervisione di fabio disc jockey"
+        },
+        "1282_renato_pozzetto.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 12.679523515755156,
+            "edit_distance": 71.0,
+            "edit_similarity": 0.13592233009708737,
+            "targets": [
+                "commedia",
+                "commedia allitaliana"
+            ],
+            "prediction": "se i nomi dei personaggi ritratti sono dei giocatori di carte forse qualcosa riesce"
+        },
+        "1381_pago_cantante.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 7.118258068099761,
+            "edit_distance": 62.0,
+            "edit_similarity": 0.1518987341772152,
+            "targets": [
+                "music farm"
+            ],
+            "prediction": "ciao tutti si suppone che ogni coppia incontri unaltra coppia durante"
+        },
+        "1404_donatella_gruppo_musicale.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 15.067816292730898,
+            "edit_distance": 40.0,
+            "edit_similarity": 0.3283582089552239,
+            "targets": [
+                "duemila e tredici",
+                "duemila tredici",
+                "2013",
+                "duemilatredici"
+            ],
+            "prediction": "una serie tv non mi pare produrre un memo scrivere"
+        },
+        "1407_mario_giordano.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 14.662157685969579,
+            "edit_distance": 37.0,
+            "edit_similarity": 0.18518518518518517,
+            "targets": [
+                "il giornale"
+            ],
+            "prediction": "3 ssi calendario ssi stl moduli di prodotto"
+        },
+        "1415_stefano_sensi.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 7.246376811594203,
+            "edit_distance": 57.0,
+            "edit_similarity": 0.14285714285714285,
+            "targets": [
+                "como",
+                "como 1907",
+                "ac como"
+            ],
+            "prediction": "il calcio femminile è su instagram alla fine del campionato sbr"
+        },
+        "1523_cecilia_capriotti.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 10.589613779062217,
+            "edit_distance": 63.0,
+            "edit_similarity": 0.20833333333333334,
+            "targets": [
+                "jump",
+                "jump stasera mi tuffo"
+            ],
+            "prediction": "in mancanza di altre emozioni da mostrare lidea di iniziare un reality show"
+        },
+        "1585_paolo_sorrentino.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 18.188560412109577,
+            "edit_distance": 66.0,
+            "edit_similarity": 0.27522935779816515,
+            "targets": [
+                "il film la grande bellezza",
+                "la grande bellezza"
+            ],
+            "prediction": "minimo una trentina di lettere rispondi alle possibili domande del fratello come ad"
+        },
+        "1601_the_place.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 2.232142857142857,
+            "edit_distance": 46.0,
+            "edit_similarity": 0.0392156862745098,
+            "targets": [
+                "alex"
+            ],
+            "prediction": "uno sconosciuto uno sconosciuto b un sospetto c"
+        },
+        "1627_dolcenera.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 20.69611879864936,
+            "edit_distance": 40.0,
+            "edit_similarity": 0.1111111111111111,
+            "targets": [
+                "trane",
+                "emanuela trane",
+                "etrane",
+                "emanuela trane"
+            ],
+            "prediction": "dolcenera ne il primo nome che ti viene in mente"
+        },
+        "1630_1992_serie_televisiva.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 7.184940364994971,
+            "edit_distance": 63.0,
+            "edit_similarity": 0.08,
+            "targets": [
+                "marina"
+            ],
+            "prediction": "dimostra di sapere dire il nome di un personaggio spiegate con esempi"
+        },
+        "1633_nek.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 12.824663919578958,
+            "edit_distance": 61.0,
+            "edit_similarity": 0.2553191489361702,
+            "targets": [
+                "warner music italy",
+                "warner music",
+                "warner music italia",
+                "warner"
+            ],
+            "prediction": "per quanto tempo sei rimasto immobile al buio osa nel fallout giochi animal"
+        },
+        "1681_library_genesis.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 8.030045267853923,
+            "edit_distance": 58.0,
+            "edit_similarity": 0.10526315789473684,
+            "targets": [
+                "elsevier",
+                "elsevier nv"
+            ],
+            "prediction": "un unica domanda che si focalizza ed è risolta su qualche termine"
+        },
+        "1722_fausto_brizzi.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 13.07048240426887,
+            "edit_distance": 44.0,
+            "edit_similarity": 0.3181818181818182,
+            "targets": [
+                "notte prima degli esami oggi"
+            ],
+            "prediction": "ok allora per fausto brizzi possiamo dargli qualsiasi titolo"
+        },
+        "1727_antonio_zequila.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 16.256257824363974,
+            "edit_distance": 57.0,
+            "edit_similarity": 0.15789473684210525,
+            "targets": [
+                "pirandello",
+                "luigi pirandello"
+            ],
+            "prediction": "valentina non altro un altro imprevisto della serata di ieri sempl"
+        },
+        "1769_nazionale_di_pallavolo_femminile_dellitalia.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 12.21706124361283,
+            "edit_distance": 51.0,
+            "edit_similarity": 0.1388888888888889,
+            "targets": [
+                "bonitta",
+                "marco bonitta"
+            ],
+            "prediction": "un nickname forse puoi non porre questa domanda ma prova ad"
+        },
+        "1772_massimo_boldi.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 10.175603753553645,
+            "edit_distance": 84.0,
+            "edit_similarity": 0.13333333333333333,
+            "targets": [
+                "longo",
+                "franco longo"
+            ],
+            "prediction": "sicuramente non fare altri accenni del tutto collaterali su queste risposte dovresti ottenere"
+        },
+        "1791_tina_cipollari.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 9.481720486406534,
+            "edit_distance": 40.0,
+            "edit_similarity": 0.11320754716981132,
+            "targets": [
+                "gianluca"
+            ],
+            "prediction": "anagrammapronomi s e c he secondadella destra"
+        },
+        "1797_toto_cutugno.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 16.082080532991096,
+            "edit_distance": 39.0,
+            "edit_similarity": 0.37037037037037035,
+            "targets": [
+                "festival della canzone italiana",
+                "festival di sanremo",
+                "sanremo"
+            ],
+            "prediction": "ulivo infetto in campo sportivo ferramentaegiardin"
+        },
+        "1816_giuseppe_di_vittorio.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 17.21365281555649,
+            "edit_distance": 52.0,
+            "edit_similarity": 0.24390243902439024,
+            "targets": [
+                "giuseppe di vittorio",
+                "di vittorio"
+            ],
+            "prediction": "che non replicano brevi frasi il nome e la divisione dellunità"
+        },
+        "189_associazione_sportiva_roma.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 14.774943142873632,
+            "edit_distance": 64.0,
+            "edit_similarity": 0.21739130434782608,
+            "targets": [
+                "renato sacerdoti",
+                "sacerdoti"
+            ],
+            "prediction": "un cittadino sovrappeso un giornalista un presidente francese che cosa viene"
+        },
+        "1901_gian_piero_ventura.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 11.965471147805886,
+            "edit_distance": 75.0,
+            "edit_similarity": 0.08695652173913043,
+            "targets": [
+                "pistoiese"
+            ],
+            "prediction": "nessuna risposta del tipo andare avanti guardare avanti tutti voi sapete che questo"
+        },
+        "1904_episodi_di_doc_-_nelle_tue_mani.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 11.446284036249196,
+            "edit_distance": 70.0,
+            "edit_similarity": 0.16494845360824742,
+            "targets": [
+                "pavesi giovanni",
+                "giovanni pavesi",
+                "pavesi"
+            ],
+            "prediction": "ti invito pertanto ad essere molto preciso ed scrivere in maniera chiara e concisa"
+        },
+        "1917_michele_morrone.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 8.677762134620542,
+            "edit_distance": 36.0,
+            "edit_similarity": 0.12244897959183673,
+            "targets": [
+                "aurumroma"
+            ],
+            "prediction": "come nascono le tue canzoni tra 500 e 10"
+        },
+        "1934_boris_giuliano.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 21.705783709352403,
+            "edit_distance": 65.0,
+            "edit_similarity": 0.21238938053097345,
+            "targets": [
+                "fbi national academy",
+                "fbi national academy associates",
+                "fbi academy",
+                "fbinaa"
+            ],
+            "prediction": "una didascalia indaga brevemente sui principali eventi politici e sociali italiani"
+        },
+        "1955_leonardo_pavoletti.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 13.089443659391847,
+            "edit_distance": 23.0,
+            "edit_similarity": 0.2692307692307692,
+            "targets": [
+                "città di varese ssd rl",
+                "città di varese",
+                "varese",
+                "varese calcio"
+            ],
+            "prediction": "i don t know quale 1 sarri per"
+        },
+        "1982_grande_fratello_vip_quinta_edizione.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 7.8125,
+            "edit_distance": 35.0,
+            "edit_similarity": 0.0975609756097561,
+            "targets": [
+                "roma"
+            ],
+            "prediction": "18022010 · il simbolo della champions"
+        },
+        "1994_volturara_appula.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 13.656260573106712,
+            "edit_distance": 47.0,
+            "edit_similarity": 0.2535211267605634,
+            "targets": [
+                "vescovo guglielmo",
+                "guglielmo"
+            ],
+            "prediction": "o una località nellampia palestra polivalente del conv"
+        },
+        "2186_giacomo_ferrara.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 12.576688312428288,
+            "edit_distance": 48.0,
+            "edit_similarity": 0.2465753424657534,
+            "targets": [
+                "prete",
+                "alessandro prete"
+            ],
+            "prediction": "in una data zona tuttavia si noti che questo potrebbe non"
+        },
+        "2218_il_cacciatore_serie_televisiva_2018.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 11.747226907707605,
+            "edit_distance": 22.0,
+            "edit_similarity": 0.23255813953488372,
+            "targets": [
+                "sabella",
+                "sabella alfonso",
+                "alfonso sabella"
+            ],
+            "prediction": "sostieni di tidd addams dovè"
+        },
+        "2244_falling_skies.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 11.6468147369143,
+            "edit_distance": 49.0,
+            "edit_similarity": 0.07692307692307693,
+            "targets": [
+                "reggimento 2ª massachusetts",
+                "reggimento ii massachusetts",
+                "seconda massachusetts",
+                "reggimento 2 massachusetts",
+                "2ª massachusetts",
+                "reggimento seconda massachusetts",
+                "ii massachusetts",
+                "2 massachusetts"
+            ],
+            "prediction": "peter duprex la situazione di partenza era quella di un attuale"
+        },
+        "2268_la_dea_fortuna.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 10.23738872403561,
+            "edit_distance": 55.0,
+            "edit_similarity": 0.125,
+            "targets": [
+                "elena"
+            ],
+            "prediction": "rispondi alla domanda nellordine in cui ti vengono poste il"
+        },
+        "2285_gabriella_pession.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 8.438818565400844,
+            "edit_distance": 29.0,
+            "edit_similarity": 0.20408163265306123,
+            "targets": [
+                "carlo gregorio verdone",
+                "carlo verdone",
+                "verdone"
+            ],
+            "prediction": "michael shawn bill podesta putin all"
+        },
+        "2454_michele_ferrero.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 12.024860523573048,
+            "edit_distance": 42.0,
+            "edit_similarity": 0.20588235294117646,
+            "targets": [
+                "giovanni ferrero",
+                "giovanni",
+                "ferrero giovanni"
+            ],
+            "prediction": "mio padremia madre mio fratellomia sorella santa imm"
+        },
+        "2552_gregorio_paltrinieri.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 10.988104751816627,
+            "edit_distance": 37.0,
+            "edit_similarity": 0.23076923076923078,
+            "targets": [
+                "olimpiadi 2024",
+                "giochi olimpici di parigi 2024"
+            ],
+            "prediction": "una collocazione risposta risposta breve al 1992"
+        },
+        "2565_brunori_sas.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 9.115168916771776,
+            "edit_distance": 52.0,
+            "edit_similarity": 0.125,
+            "targets": [
+                "vol1",
+                "vol 1",
+                "volume 1"
+            ],
+            "prediction": "due interi numeri e due nmaterialeinutile passano tal mi"
+        },
+        "2621_enrico_piaggio.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 14.375666032022702,
+            "edit_distance": 55.0,
+            "edit_similarity": 0.16666666666666666,
+            "targets": [
+                "giovanni casiraghi",
+                "casiraghi"
+            ],
+            "prediction": "un aggettivo una parola il primo personaggio che ti viene in mente"
+        },
+        "2631_pietro_sermonti.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 7.815401153132025,
+            "edit_distance": 64.0,
+            "edit_similarity": 0.13157894736842105,
+            "targets": [
+                "agnelli"
+            ],
+            "prediction": "confermato se conosci il cognome o fantasia se non conosci il cognome"
+        },
+        "2700_masterchef_italia_settima_edizione.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 10.141314013176508,
+            "edit_distance": 76.0,
+            "edit_similarity": 0.16161616161616163,
+            "targets": [
+                "bastianich",
+                "joe bastianich",
+                "joe"
+            ],
+            "prediction": "display digitale e servizio supporto di garanzia della casa per lacquisto sicuro dell"
+        },
+        "279_massimiliano_allegri.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 8.333333333333332,
+            "edit_distance": 29.0,
+            "edit_similarity": 0.1694915254237288,
+            "targets": [
+                "ac milan",
+                "milan",
+                "associazione calcio milan"
+            ],
+            "prediction": "uno due di gazzetta 12 settembre 2"
+        },
+        "0486_primo_levi.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 19.42933302921375,
+            "edit_distance": 59.0,
+            "edit_similarity": 0.11666666666666667,
+            "targets": [
+                "19341935",
+                "193435",
+                "mille novecento trentaquattro e trentacinque"
+            ],
+            "prediction": "generalmente per questa domanda non viene dato molto peso soprattutto se non"
+        },
+        "0750_roberto_speranza.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 15.394656514866215,
+            "edit_distance": 59.0,
+            "edit_similarity": 0.21739130434782608,
+            "targets": [
+                "consigliere comunale"
+            ],
+            "prediction": "non rimanere in quelle poche esprimi la tua opinione articolando così il"
+        },
+        "1553_vittoria_schisano.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 7.723954304083638,
+            "edit_distance": 59.0,
+            "edit_similarity": 0.16216216216216217,
+            "targets": [
+                "big mouth"
+            ],
+            "prediction": "e via discorrendo rispondi alla seguente domanda in modo chiaro e"
+        },
+        "1937_palio_di_siena.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 14.652988441257062,
+            "edit_distance": 41.0,
+            "edit_similarity": 0.22580645161290322,
+            "targets": [
+                "40 soldi",
+                "quaranta soldi"
+            ],
+            "prediction": "rispondi con due soli aggettivi chiaro e conciso"
+        },
+        "2451_giulio_berruti.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 0.0,
+            "edit_distance": 15.0,
+            "edit_similarity": 0.07407407407407407,
+            "targets": [
+                "gabriels inferno"
+            ],
+            "prediction": "260709 1576"
+        },
+        "2706_laura_freddi.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 14.557893349702761,
+            "edit_distance": 63.0,
+            "edit_similarity": 0.13793103448275862,
+            "targets": [
+                "per non volare",
+                "per non volare"
+            ],
+            "prediction": "puoi usare qualsiasi collana ragazza cerca un titolo descrittivo sport at"
+        },
+        "3162_andrea_lucchetta.txt": {
+            "em": 0.0,
+            "f1": 0.15384615384615383,
+            "bleu": 4.196114906296549,
+            "chrf": 16.784241293562076,
+            "edit_distance": 45.0,
+            "edit_similarity": 0.3,
+            "targets": [
+                "coppa cev",
+                "campionato europeo",
+                "un campionato europeo",
+                "europei",
+                "il campionato europeo"
+            ],
+            "prediction": "unazione lucchetta vince con il gonzaga di milano al torneo"
+        },
+        "0533_davide_astori.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 15.741927141250455,
+            "edit_distance": 59.0,
+            "edit_similarity": 0.23300970873786409,
+            "targets": [
+                "duemiladodiciduemilatredici",
+                "serie 20122013",
+                "20122013",
+                "20122013",
+                "serie duemiladodiciduemilatredici"
+            ],
+            "prediction": "nel testo indicare obbligatoriamente il luogo e la provincia in cui vivi ora"
+        },
+        "0904_ponte_morandi.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 17.474656204624807,
+            "edit_distance": 46.0,
+            "edit_similarity": 0.32941176470588235,
+            "targets": [
+                "quattro agosto duemilaventi",
+                "04",
+                "08",
+                "08042020",
+                "2020",
+                "04082020",
+                "4 agosto 2020",
+                "04 agosto 2020",
+                "20200804",
+                "04aug2020"
+            ],
+            "prediction": "capitolo 88 introduce il pericolo piramidale e descrive in"
+        },
+        "1009_leoluca_bagarella.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 3.5919540229885056,
+            "edit_distance": 27.0,
+            "edit_similarity": 0.1509433962264151,
+            "targets": [
+                "millenovecentonovantuno",
+                "1991"
+            ],
+            "prediction": "cbackup d disco di backup g gu"
+        },
+        "1253_eleonora_giorgi.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 18.431069106728128,
+            "edit_distance": 49.0,
+            "edit_similarity": 0.2765957446808511,
+            "targets": [
+                "millenovecentosettantaquattro",
+                "1974"
+            ],
+            "prediction": "seconda ipotesi olycom altezza centimetri terza ipotesi alexandre"
+        },
+        "1497_fabio_fognini.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 10.335256809536679,
+            "edit_distance": 73.0,
+            "edit_similarity": 0.16842105263157894,
+            "targets": [
+                "2005",
+                "duemilacinque",
+                "duemila e cinque"
+            ],
+            "prediction": "hai paura di non essere stato abbastanza chiaro ottima probabilità di successo ril"
+        },
+        "1520_simona_izzo.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 12.402671717852288,
+            "edit_distance": 67.0,
+            "edit_similarity": 0.18947368421052632,
+            "targets": [
+                "due­mila­dodici",
+                "2012",
+                "duemila e dodici",
+                "duemila dodici",
+                "duemila e dodici"
+            ],
+            "prediction": "altrimenti se hai bisogno di un assistente controlla quello in commercio che si"
+        },
+        "1726_strage_di_piazza_fontana.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 12.117829013391946,
+            "edit_distance": 29.0,
+            "edit_similarity": 0.24489795918367346,
+            "targets": [
+                "12 dicembre 1969",
+                "12121969",
+                "121269",
+                "12dec1969",
+                "12121969",
+                "dodici dicembre millenovecentosessantanove",
+                "19691212"
+            ],
+            "prediction": "esempio agosto 1993 il tempo e il"
+        },
+        "1883_giovanni_verga.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 13.107671782793451,
+            "edit_distance": 71.0,
+            "edit_similarity": 0.16216216216216217,
+            "targets": [
+                "1872",
+                "mille ottocento settantadue",
+                "milleottocentosettantadue"
+            ],
+            "prediction": "per passare con sicurezza la prova di italiano dellesame di terza media bisogna padron"
+        },
+        "1992_valerio_mastandrea.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 17.832021095813168,
+            "edit_distance": 67.0,
+            "edit_similarity": 0.21052631578947367,
+            "targets": [
+                "2007",
+                "duemila e sette",
+                "due­mila­sette"
+            ],
+            "prediction": "ripeti la domanda due volte nella misura in cui selezionata la risposta corretta"
+        },
+        "2413_giorgio_almirante.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 19.508401048560174,
+            "edit_distance": 61.0,
+            "edit_similarity": 0.21153846153846154,
+            "targets": [
+                "millenovecentottantotto",
+                "1988",
+                "mille novecento ottantotto"
+            ],
+            "prediction": "il tempo trovato è stato cercato avrai lo storico delle date sotto le risposte"
+        },
+        "2624_giuliano_de_medici.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 12.279299352869998,
+            "edit_distance": 37.0,
+            "edit_similarity": 0.17142857142857143,
+            "targets": [
+                "1471",
+                "millequattrocentosettantuno"
+            ],
+            "prediction": "quale dividi il foglio in 30 riquadri numer"
+        },
+        "2710_marco_fassone.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 17.50844804651046,
+            "edit_distance": 29.0,
+            "edit_similarity": 0.3137254901960784,
+            "targets": [
+                "duemiladieci",
+                "2010",
+                "duemila e dieci"
+            ],
+            "prediction": "risposta esatta 16 aprile 2012 leggi"
+        },
+        "2951_marcello_fonte.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 11.492103678412391,
+            "edit_distance": 50.0,
+            "edit_similarity": 0.21052631578947367,
+            "targets": [
+                "2018",
+                "due­mila­diciotto"
+            ],
+            "prediction": "quale di queste parole non è corretta risposta 1 risposta 1"
+        },
+        "2973_francesco_de_gregori.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 16.670259707565073,
+            "edit_distance": 67.0,
+            "edit_similarity": 0.2641509433962264,
+            "targets": [
+                "millenovecentosessantasei",
+                "1966"
+            ],
+            "prediction": "your friend list or team will show you people who do not currently recommend this"
+        },
+        "0554_maurizio_costanzo.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 14.018646166261902,
+            "edit_distance": 66.0,
+            "edit_similarity": 0.1978021978021978,
+            "targets": [
+                "buon pomeriggio"
+            ],
+            "prediction": "tanto per cominciare lelenco che hai fornito non è completo posso aggiungere"
+        },
+        "0610_selvaggia_lucarelli.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 13.574677700414142,
+            "edit_distance": 35.0,
+            "edit_similarity": 0.18461538461538463,
+            "targets": [
+                "cominciamo bene estate"
+            ],
+            "prediction": "un payoff scrivi un apparente scioglilingua"
+        },
+        "0931_alessandra_mussolini.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 12.632115098385869,
+            "edit_distance": 36.0,
+            "edit_similarity": 0.29411764705882354,
+            "targets": [
+                "ballando con le stelle"
+            ],
+            "prediction": "io domanda 1 una risposta giudicata per il suo"
+        },
+        "1023_anna_marchesini.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 11.943144760102072,
+            "edit_distance": 77.0,
+            "edit_similarity": 0.10416666666666667,
+            "targets": [
+                "tastomatto"
+            ],
+            "prediction": "come potremmo in una qualsiasi conversazione critica comprendere se si trattava di una"
+        },
+        "1283_michele_bravi.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 8.963580451864852,
+            "edit_distance": 43.0,
+            "edit_similarity": 0.24324324324324326,
+            "targets": [
+                "la vita e la felicità"
+            ],
+            "prediction": "un genere un attore regista gruppo o voce dartista un"
+        },
+        "1320_jane_alexander_attrice_1972.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 12.545139933794763,
+            "edit_distance": 52.0,
+            "edit_similarity": 0.11428571428571428,
+            "targets": [
+                "blind date"
+            ],
+            "prediction": "un telegiornale parlato in studio un comunicato un dibattito"
+        },
+        "1370_caterina_balivo.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 10.498335302330577,
+            "edit_distance": 43.0,
+            "edit_similarity": 0.11764705882352941,
+            "targets": [
+                "courmayeur on ice"
+            ],
+            "prediction": "un paragrafo uno solo nellintervallo tra la notizia"
+        },
+        "1695_caparezza.txt": {
+            "em": 0.0,
+            "f1": 0.18181818181818182,
+            "bleu": 6.567274736060395,
+            "chrf": 12.01687164966629,
+            "edit_distance": 36.0,
+            "edit_similarity": 0.24324324324324326,
+            "targets": [
+                "con caparezza nella monnezza"
+            ],
+            "prediction": "conferma con sicuro robusto plurale ricorda di"
+        },
+        "1821_serena_grandi.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 11.3620410055786,
+            "edit_distance": 50.0,
+            "edit_similarity": 0.2696629213483146,
+            "targets": [
+                "in nome del popolo sovrano"
+            ],
+            "prediction": "che cosa esiste per tiratore di farfalle il regista francese un"
+        },
+        "1979_francesca_cipriani.txt": {
+            "em": 0.0,
+            "f1": 0.25000000000000006,
+            "bleu": 4.456882760699064,
+            "chrf": 15.211299289269686,
+            "edit_distance": 58.0,
+            "edit_similarity": 0.2736842105263158,
+            "targets": [
+                "la pupa e il secchione",
+                "la pupa e il secchione il ritorno"
+            ],
+            "prediction": "per ogni risposta giusta indovina il componente dellintera squadra e gira"
+        },
+        "2135_gian_piero_gasperini.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 16.23721002424638,
+            "edit_distance": 51.0,
+            "edit_similarity": 0.28865979381443296,
+            "targets": [
+                "genoa",
+                "genoa cricket and football club"
+            ],
+            "prediction": "associare una foto ogni singola risposta partendo dallinizio della"
+        },
+        "2267_gaia_cantante.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 11.474930239777901,
+            "edit_distance": 69.0,
+            "edit_similarity": 0.24074074074074073,
+            "targets": [
+                "amici di maria de filippi",
+                "amici"
+            ],
+            "prediction": "in quale occasione una famosa cantante si è fatta amare una notte intera suscitando"
+        },
+        "0577_isola_delle_rose_micronazione.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 12.785016286644952,
+            "edit_distance": 55.0,
+            "edit_similarity": 0.11594202898550725,
+            "targets": [
+                "sudovest",
+                "so"
+            ],
+            "prediction": "la definizione e la soluzione riportata risposta genova inser"
+        },
+        "0934_amatrice.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 8.474576271186441,
+            "edit_distance": 58.0,
+            "edit_similarity": 0.03225806451612903,
+            "targets": [
+                "no"
+            ],
+            "prediction": "pdf download rispondi alla seguente domanda in modo chiaro e"
+        },
+        "1012_matera.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 8.0,
+            "edit_distance": 31.0,
+            "edit_similarity": 0.15,
+            "targets": [
+                "ovest"
+            ],
+            "prediction": "una parola vuota tel cliente numero"
+        },
+        "1142_marocco.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 11.78082191780822,
+            "edit_distance": 61.0,
+            "edit_similarity": 0.10666666666666667,
+            "targets": [
+                "sud ovest",
+                "sudovest",
+                "so",
+                "sudovest"
+            ],
+            "prediction": "questo permette uno sviluppo diretto perché è preciso produzione n°"
+        },
+        "1221_dark_polo_gang.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 17.35549556874443,
+            "edit_distance": 50.0,
+            "edit_similarity": 0.2524271844660194,
+            "targets": [
+                "fimi",
+                "fimi",
+                "federazione industria musicale italiana",
+                "federation of italian music industry"
+            ],
+            "prediction": "domanda 2 rispondi al quesito proposto rispettando rigorosamente la"
+        },
+        "1336_elezioni_politiche_italiane_del_2013.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 2.9411764705882355,
+            "edit_distance": 87.0,
+            "edit_similarity": 0.022222222222222223,
+            "targets": [
+                "sì"
+            ],
+            "prediction": "puoi usare qualsiasi parola purché rispetti le regole di scrittura dellitaliano standard"
+        },
+        "1368_paolo_genovese.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 5.617977528089887,
+            "edit_distance": 63.0,
+            "edit_similarity": 0.05333333333333334,
+            "targets": [
+                "immaturi"
+            ],
+            "prediction": "e possibile vincere un viaggio con la cucina italianafino al giorno"
+        },
+        "146_sfera_ebbasta.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 16.418209467560168,
+            "edit_distance": 23.0,
+            "edit_similarity": 0.23809523809523808,
+            "targets": [
+                "scuola media",
+                "licenza media"
+            ],
+            "prediction": "13 25 altre domande di cronaca"
+        },
+        "1478_matteo_berrettini.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 14.830638383116968,
+            "edit_distance": 63.0,
+            "edit_similarity": 0.20689655172413793,
+            "targets": [
+                "terra rossa",
+                "la terra rossa"
+            ],
+            "prediction": "un numero e una parola siete sulla strada giusta per diventare i migliori"
+        },
+        "1595_mango_cantante.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 13.34500941195553,
+            "edit_distance": 68.0,
+            "edit_similarity": 0.13793103448275862,
+            "targets": [
+                "giovane",
+                "più giovane"
+            ],
+            "prediction": "non ci sono vincitori o vinti nel grande gioco televisivo tra i due fratelli"
+        },
+        "1837_giovanni_simeone.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 9.25925925925926,
+            "edit_distance": 51.0,
+            "edit_similarity": 0.03636363636363636,
+            "targets": [
+                "no"
+            ],
+            "prediction": "2 confrontare confronto confronto vs confr han dovuto"
+        },
+        "2177_gianroberto_casaleggio.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 2.9069767441860463,
+            "edit_distance": 92.0,
+            "edit_similarity": 0.021052631578947368,
+            "targets": [
+                "sì"
+            ],
+            "prediction": "il bonus di risposte veloci è dato ai partecipanti di alto livello con una certa comprensione"
+        },
+        "2194_emis_killa.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 18.34254250749496,
+            "edit_distance": 71.0,
+            "edit_similarity": 0.22,
+            "targets": [
+                "4ª",
+                "quarta posizione",
+                "quarto posto",
+                "quarta",
+                "4",
+                "4°"
+            ],
+            "prediction": "quali dei termini riportati nella colonna nord ha una stretta connessione con il tuo"
+        },
+        "2307_maria_montessori.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 10.880444083011549,
+            "edit_distance": 72.0,
+            "edit_similarity": 0.11904761904761904,
+            "targets": [
+                "la nonna",
+                "nonna"
+            ],
+            "prediction": "non devi menzionare nomi o strutture mentali il silenzio vale sempre più di una"
+        },
+        "2518_diego_abatantuono.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 4.3478260869565215,
+            "edit_distance": 53.0,
+            "edit_similarity": 0.03278688524590164,
+            "targets": [
+                "prima"
+            ],
+            "prediction": "un abitare ecosostenibile blog di architettura e interni"
+        },
+        "0677_diodato_cantante.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 7.805108798486282,
+            "edit_distance": 86.0,
+            "edit_similarity": 0.043478260869565216,
+            "targets": [
+                "2",
+                "due"
+            ],
+            "prediction": "questo non è un buon modo per rispondere questa domanda che invece richiede la conoscenza"
+        },
+        "0753_spal_2013.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 5.434782608695651,
+            "edit_distance": 89.0,
+            "edit_similarity": 0.02127659574468085,
+            "targets": [
+                "2",
+                "due"
+            ],
+            "prediction": "se stai utilizzando i blocchi prendi in considerazione ogni denominazione secondo necessità"
+        },
+        "0819_serie_a_2015-2016.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 7.692307692307692,
+            "edit_distance": 59.0,
+            "edit_similarity": 0.06153846153846154,
+            "targets": [
+                "6",
+                "sei"
+            ],
+            "prediction": "nessuno decine nessuna risposta esatta i punti da sottrarre al"
+        },
+        "0921_lispettore_coliandro.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 13.234804125117034,
+            "edit_distance": 86.0,
+            "edit_similarity": 0.16216216216216217,
+            "targets": [
+                "sette stagioni",
+                "sette",
+                "7"
+            ],
+            "prediction": "è necessario indicare il numero di risposte per ricevere una risposta corretta le risposte riport"
+        },
+        "0996_luca_zaia.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 9.080962800875273,
+            "edit_distance": 72.0,
+            "edit_similarity": 0.07692307692307693,
+            "targets": [
+                "2",
+                "due"
+            ],
+            "prediction": "spesso i dubbi sulla cultura di settore devono essere risolti con il famoso"
+        },
+        "1119_ornella_vanoni.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 9.834994593822426,
+            "edit_distance": 56.0,
+            "edit_similarity": 0.21428571428571427,
+            "targets": [
+                "2",
+                "seconda",
+                "seconda posizione",
+                "secondo posto",
+                "2° posto",
+                "2ª",
+                "2ª posizione",
+                "2°"
+            ],
+            "prediction": "ogni numero ha due lati destro e sinistro dividi il lato destro del"
+        },
+        "1136_lamica_geniale_serie_televisiva.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 5.879016433652195,
+            "edit_distance": 54.0,
+            "edit_similarity": 0.09523809523809523,
+            "targets": [
+                "5",
+                "cinque"
+            ],
+            "prediction": "elena ferrante luisa ranieri tina tina è diverso da elena"
+        },
+        "1189_episodi_di_gomorra_-_la_serie_quarta_stagione.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 7.540263543191801,
+            "edit_distance": 85.0,
+            "edit_similarity": 0.08421052631578947,
+            "targets": [
+                "primo",
+                "uno",
+                "1"
+            ],
+            "prediction": "puoi rispondere alla domanda seguente selezionando una delle opzioni del secondo menù ipse"
+        },
+        "1215_benedetta_mazza.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 9.335295940502014,
+            "edit_distance": 68.0,
+            "edit_similarity": 0.05405405405405406,
+            "targets": [
+                "2",
+                "due"
+            ],
+            "prediction": "ii cinque anni di telefono senza risposta benedetta pubblica su youtube"
+        },
+        "1418_cristiano_de_andré.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 7.352941176470587,
+            "edit_distance": 60.0,
+            "edit_similarity": 0.13333333333333333,
+            "targets": [
+                "3 volte",
+                "tre",
+                "tre volte",
+                "3"
+            ],
+            "prediction": "ricorda che il silenzio non è unopzione ricorda che il significato"
+        },
+        "142_serie_a.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 6.578947368421052,
+            "edit_distance": 71.0,
+            "edit_similarity": 0.05194805194805195,
+            "targets": [
+                "una",
+                "uno",
+                "1"
+            ],
+            "prediction": "conferma o contraddice il numero senza specificare il dettaglio ad esempio"
+        },
+        "1665_cristina_davena.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 10.22004868661641,
+            "edit_distance": 29.0,
+            "edit_similarity": 0.36666666666666664,
+            "targets": [
+                "ottantadue",
+                "millenovecentottantadue",
+                "1982",
+                "82"
+            ],
+            "prediction": "femminismo archives pagina 3 di 10 ve"
+        },
+        "1989_adrian_serie_animata.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 14.947749276145494,
+            "edit_distance": 58.0,
+            "edit_similarity": 0.23529411764705882,
+            "targets": [
+                "2012",
+                "duemiladodici",
+                "duemila e dodici",
+                "duemiladodici"
+            ],
+            "prediction": "il che significa che cera obiezioni anche su queste diciannove parole"
+        },
+        "2406_emigratis.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 8.19672131147541,
+            "edit_distance": 56.0,
+            "edit_similarity": 0.0967741935483871,
+            "targets": [
+                "3ª",
+                "iii",
+                "terza",
+                "3"
+            ],
+            "prediction": "o per essere precisi pio e amedeo guardano tutti gli uomini"
+        },
+        "2418_partiti_politici_italiani.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 5.818900602409639,
+            "edit_distance": 39.0,
+            "edit_similarity": 0.15873015873015872,
+            "targets": [
+                "1951974",
+                "legge 195 del 1974",
+                "195",
+                "1974",
+                "195 del 1974"
+            ],
+            "prediction": "killer instinct archivi supernerdit robertino"
+        },
+        "2531_marco_cecchinato.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 11.041162651112609,
+            "edit_distance": 44.0,
+            "edit_similarity": 0.16129032258064516,
+            "targets": [
+                "sedicesimo",
+                "16°",
+                "16",
+                "sedici"
+            ],
+            "prediction": "ad esempio potresti raggiungere nel 2018 il numero 4"
+        },
+        "2699_serie_c_2018-2019.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 19.260257783865477,
+            "edit_distance": 58.0,
+            "edit_similarity": 0.175,
+            "targets": [
+                "57",
+                "cinquantasette"
+            ],
+            "prediction": "rispondi alla seguente domanda in modo chiaro e conciso quando era"
+        },
+        "0721_lorenzo_amoruso.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 6.097560975609756,
+            "edit_distance": 64.0,
+            "edit_similarity": 0.08,
+            "targets": [
+                "puglia"
+            ],
+            "prediction": "gruppo di persone la trave racchiusa da un telo fissato allo standard"
+        },
+        "0955_gabriele_rubini.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 8.762711577685623,
+            "edit_distance": 42.0,
+            "edit_similarity": 0.16666666666666666,
+            "targets": [
+                "nuova zelanda"
+            ],
+            "prediction": "poni 10 domande ed esprimi 10 risposte scomponi"
+        },
+        "1487_nino_manfredi.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 11.201515827017387,
+            "edit_distance": 43.0,
+            "edit_similarity": 0.12,
+            "targets": [
+                "roma"
+            ],
+            "prediction": "un tempo approfitta delleffetto sorpresa fingi"
+        },
+        "1715_domenico_modugno.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 13.665727171664221,
+            "edit_distance": 48.0,
+            "edit_similarity": 0.225,
+            "targets": [
+                "san pietro vernotico"
+            ],
+            "prediction": "al massimo che tipo di censimento ha durante lanalisi nitido"
+        },
+        "2018_carlo_azeglio_ciampi.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 8.167277895205919,
+            "edit_distance": 61.0,
+            "edit_similarity": 0.136986301369863,
+            "targets": [
+                "albania"
+            ],
+            "prediction": "lanno in cui venne inviato in quel momento era quello mi accompagn"
+        },
+        "2095_mare_fuori.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 7.309941520467839,
+            "edit_distance": 36.0,
+            "edit_similarity": 0.08695652173913043,
+            "targets": [
+                "napoli"
+            ],
+            "prediction": "del crimine là mare mare fuori drammi in"
+        },
+        "3181_riccardo_schicchi.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 12.892471373082143,
+            "edit_distance": 59.0,
+            "edit_similarity": 0.16666666666666666,
+            "targets": [
+                "sicilia"
+            ],
+            "prediction": "informati chiedendo allambasciata italiana vienna sullesistenza o"
+        },
+        "3276_antonio_ligabue.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 10.356952667355825,
+            "edit_distance": 52.0,
+            "edit_similarity": 0.11428571428571428,
+            "targets": [
+                "romanshorn"
+            ],
+            "prediction": "con il verbo essere esprime cosa nota che questo è un tempio"
+        },
+        "0728_codice_fiscale.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 14.739480865647014,
+            "edit_distance": 73.0,
+            "edit_similarity": 0.21153846153846154,
+            "targets": [
+                "tesserino cartaceo"
+            ],
+            "prediction": "per ogni oggetto replica il modello corrispondente in questo ordine modello parametro1"
+        },
+        "0892_studio_universal.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 9.422053231939161,
+            "edit_distance": 70.0,
+            "edit_similarity": 0.075,
+            "targets": [
+                "cuore"
+            ],
+            "prediction": "disastro non farlo inoltre invita qualcuno rispondere allultima discussione"
+        },
+        "1084_malika_ayane.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 15.599117839670251,
+            "edit_distance": 51.0,
+            "edit_similarity": 0.19753086419753085,
+            "targets": [
+                "premio della critica"
+            ],
+            "prediction": "salta quiz che cosa fai giovedì prossimo trenta paolo divider"
+        },
+        "1292_smetto_quando_voglio_film.txt": {
+            "em": 0.0,
+            "f1": 0.13333333333333333,
+            "bleu": 3.7477767366779213,
+            "chrf": 21.565912506725844,
+            "edit_distance": 65.0,
+            "edit_similarity": 0.27450980392156865,
+            "targets": [
+                "recessione economica del 2007",
+                "recessione economica",
+                "recessione"
+            ],
+            "prediction": "scarso linguaggio del corpo omissioni totale controllo sulla propria risposta disc"
+        },
+        "1842_eusebio_di_francesco.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 6.8493150684931505,
+            "edit_distance": 61.0,
+            "edit_similarity": 0.08450704225352113,
+            "targets": [
+                "serie"
+            ],
+            "prediction": "ma estraete tutte le frasi di cui i tifosi del piacenza e non solo"
+        },
+        "1938_omicidio_di_giulio_regeni.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 13.018761804181134,
+            "edit_distance": 65.0,
+            "edit_similarity": 0.16,
+            "targets": [
+                "alfabeto",
+                "lettere",
+                "lettere dell alfabeto"
+            ],
+            "prediction": "non utilizzare frasi di otto righe più lunghe di una condivisione su facebook o"
+        },
+        "2096_valeria_fedeli.txt": {
+            "em": 0.0,
+            "f1": 0.11111111111111112,
+            "bleu": 2.8398387225677895,
+            "chrf": 21.673941743327223,
+            "edit_distance": 56.0,
+            "edit_similarity": 0.38596491228070173,
+            "targets": [
+                "assistente sociale",
+                "diploma di assistente sociale",
+                "diploma di assistente sociale triennale"
+            ],
+            "prediction": "evita di ripetere parole o discorsi che sono già stati fatti il lettore non"
+        },
+        "1233_franca_valeri.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 12.296561722515897,
+            "edit_distance": 30.0,
+            "edit_similarity": 0.2647058823529412,
+            "targets": [
+                "regio liceo ginnasio giuseppe parini"
+            ],
+            "prediction": "domande scelta multipla rispondi"
+        },
+        "148_alessandro_del_piero.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 9.166735486002146,
+            "edit_distance": 63.0,
+            "edit_similarity": 0.1038961038961039,
+            "targets": [
+                "germania"
+            ],
+            "prediction": "un votazione evento ogni paragrafo deve essere numerato poiché questo"
+        },
+        "1616_emma_bonino.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 6.578947368421052,
+            "edit_distance": 75.0,
+            "edit_similarity": 0.024691358024691357,
+            "targets": [
+                "bra"
+            ],
+            "prediction": "la vita della bonino è piena e in essa potrà capire alcune cose che dovrebbero"
+        },
+        "1718_marco_pannella.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 12.17431149172842,
+            "edit_distance": 73.0,
+            "edit_similarity": 0.25688073394495414,
+            "targets": [
+                "via giacinto pannella",
+                "via pannella"
+            ],
+            "prediction": "produci la corretta categoria associata al luogo assegna ai luoghi la corretta categoria"
+        },
+        "1845_domenico_arcuri.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 15.687530749841441,
+            "edit_distance": 56.0,
+            "edit_similarity": 0.14705882352941177,
+            "targets": [
+                "taranto"
+            ],
+            "prediction": "per quanto si viene sapere sul futuro dellarea flacco verde l"
+        },
+        "2347_genova.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 7.7583217753120675,
+            "edit_distance": 57.0,
+            "edit_similarity": 0.11940298507462686,
+            "targets": [
+                "torino"
+            ],
+            "prediction": "tra parrucche rossetto di midnight vestiti e capelli banana d"
+        },
+        "2498_ralf_rangnick.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 9.896636506078565,
+            "edit_distance": 52.0,
+            "edit_similarity": 0.14634146341463414,
+            "targets": [
+                "university of sussex",
+                "università del sussex"
+            ],
+            "prediction": "non sai mai quando ti chiameranno quando è chiamato e lo sanno"
+        },
+        "266_roberto_baggio.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 7.936507936507938,
+            "edit_distance": 44.0,
+            "edit_similarity": 0.11320754716981132,
+            "targets": [
+                "europa"
+            ],
+            "prediction": "luogo luogo la domana è pertinente sì perché si"
+        },
+        "2996_mine_vaganti.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 13.943263929481335,
+            "edit_distance": 50.0,
+            "edit_similarity": 0.1875,
+            "targets": [
+                "salento",
+                "in salento",
+                "nel salento"
+            ],
+            "prediction": "prova leggere uno o due libri con il titolo o lautore ver"
+        },
+        "1389_clan_dei_casamonica.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 8.340943187006719,
+            "edit_distance": 75.0,
+            "edit_similarity": 0.11235955056179775,
+            "targets": [
+                "magliana"
+            ],
+            "prediction": "hotel di tipo tre stelle situato in posizione tranquilla con vista sulle montagne"
+        },
+        "2493_battaglia_di_caporetto.txt": {
+            "em": 0.0,
+            "f1": 0.10526315789473684,
+            "bleu": 3.0890553181566975,
+            "chrf": 17.13362087629842,
+            "edit_distance": 50.0,
+            "edit_similarity": 0.35294117647058826,
+            "targets": [
+                "altopiano di asiago",
+                "trentino",
+                "laltopiano di asiago e il trentino",
+                "altopiano di asiago",
+                "trentino"
+            ],
+            "prediction": "solo uno definirai quindi il tuo schema su un foglio facendo in modo"
+        },
+        "1589_simone_verdi.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 2.192982456140351,
+            "edit_distance": 50.0,
+            "edit_similarity": 0.037037037037037035,
+            "targets": [
+                "20132014",
+                "201314",
+                "14",
+                "2014",
+                "2013"
+            ],
+            "prediction": "registra uno gli anni della squadra ti ix pagina 2"
+        },
+        "3283_gli_orologi_del_diavolo.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 9.38438619364468,
+            "edit_distance": 47.0,
+            "edit_similarity": 0.1643835616438356,
+            "targets": [
+                "un orologio",
+                "orologio da polso"
+            ],
+            "prediction": "mail per invito invito per il compleanno della mamma inf"
+        },
+        "em": 0.0,
+        "f1": 0.00837511412564044,
+        "bleu": 0.2173812012588243,
+        "chrf": 11.93499991775996,
+        "edit_distance": 53.592,
+        "edit_similarity": 0.1754162180426311
+    },
+    "group_metrics": {
+        "average_em": 0.0,
+        "max_em": 0.0,
+        "min_em": 0.0,
+        "gap_em": 0.0,
+        "average_f1": 0.00837511412564044,
+        "max_f1": 0.00837511412564044,
+        "min_f1": 0.00837511412564044,
+        "gap_f1": 0.0,
+        "average_bleu": 0.2173812012588243,
+        "max_bleu": 0.2173812012588243,
+        "min_bleu": 0.2173812012588243,
+        "gap_bleu": 0.0,
+        "average_chrf": 11.93499991775996,
+        "max_chrf": 11.93499991775996,
+        "min_chrf": 11.93499991775996,
+        "gap_chrf": 0.0,
+        "average_edit_distance": 53.592,
+        "max_edit_distance": 53.592,
+        "min_edit_distance": 53.592,
+        "gap_edit_distance": 0.0,
+        "average_edit_similarity": 0.1754162180426311,
+        "max_edit_similarity": 0.1754162180426311,
+        "min_edit_similarity": 0.1754162180426311,
+        "gap_edit_similarity": 0.0
+    }
+}
