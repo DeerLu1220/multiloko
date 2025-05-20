@@ -1,0 +1,3407 @@
+{
+    "italian": {
+        "004_tg_norba_24.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 21.402246221209786,
+            "edit_distance": 40.0,
+            "edit_similarity": 0.3125,
+            "targets": [
+                "20101025",
+                "venticinque ottobre duemiladieci",
+                "25 ottobre 2010",
+                "25102010"
+            ],
+            "prediction": "il tg norba 24 è stato lanciato il 18 novembre 20"
+        },
+        "0499_regno_ditalia_1861-1946.txt": {
+            "em": 0.0,
+            "f1": 0.25,
+            "bleu": 6.567274736060395,
+            "chrf": 39.11973128673309,
+            "edit_distance": 25.0,
+            "edit_similarity": 0.24242424242424243,
+            "targets": [
+                "1946",
+                "millenovecentoquarantasei",
+                "mille novecento quarantasei"
+            ],
+            "prediction": "1946 2 giugno 1946 3 giugno 1"
+        },
+        "0821_gué_pequeno.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 12.065551856335755,
+            "edit_distance": 37.0,
+            "edit_similarity": 0.2033898305084746,
+            "targets": [
+                "2011",
+                "duemilaundici",
+                "duemila e undici"
+            ],
+            "prediction": "il singolo di gué pequeno non lo spegnere r"
+        },
+        "1036_strage_di_capaci.txt": {
+            "em": 0.0,
+            "f1": 0.5454545454545454,
+            "bleu": 20.556680845025987,
+            "chrf": 66.22755272334821,
+            "edit_distance": 29.0,
+            "edit_similarity": 0.49122807017543857,
+            "targets": [
+                "23051992",
+                "19920523",
+                "23 maggio 1992",
+                "23051992",
+                "05231992"
+            ],
+            "prediction": "antonio montinaro è morto il 23 maggio 1992"
+        },
+        "1628_alessandra_amoroso.txt": {
+            "em": 0.0,
+            "f1": 0.19999999999999998,
+            "bleu": 4.767707020457095,
+            "chrf": 27.190622028842988,
+            "edit_distance": 34.0,
+            "edit_similarity": 0.3050847457627119,
+            "targets": [
+                "22",
+                "ventidue giugno duemilanove",
+                "6",
+                "ventidue giugno 2009",
+                "09",
+                "06",
+                "2009",
+                "22 giugno duemilanove",
+                "22062009",
+                "22 giugno 2009"
+            ],
+            "prediction": "24 agosto 2009 chi è il cantante italiano con"
+        },
+        "2251_elio_germano.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 4.196904168499244,
+            "edit_distance": 18.0,
+            "edit_similarity": 0.18181818181818182,
+            "targets": [
+                "millenovecentonovantasette",
+                "1997",
+                "mille novecento novantasette"
+            ],
+            "prediction": "2006 risponde 2006"
+        },
+        "236_don_matteo.txt": {
+            "em": 0.0,
+            "f1": 0.23529411764705882,
+            "bleu": 5.67967744513558,
+            "chrf": 44.02467122679281,
+            "edit_distance": 48.0,
+            "edit_similarity": 0.3157894736842105,
+            "targets": [
+                "7 gennaio 2000",
+                "712000",
+                "07012000",
+                "20000107",
+                "sette gennaio duemila"
+            ],
+            "prediction": "don matteo è andata in onda per la prima volta il 7 gennaio 20"
+        },
+        "011_iris_rete_televisiva.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 9.329885800474036,
+            "edit_distance": 50.0,
+            "edit_similarity": 0.1791044776119403,
+            "targets": [
+                "8",
+                "otto",
+                "8 anni",
+                "otto anni"
+            ],
+            "prediction": "un periodo di tempo rispondi alla seguente domanda in modo"
+        },
+        "047_matteo_salvini.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 11.042854263833709,
+            "edit_distance": 83.0,
+            "edit_similarity": 0.14678899082568808,
+            "targets": [
+                "diciannove",
+                "19",
+                "diciannove anni",
+                "19 anni"
+            ],
+            "prediction": "per rispondere questa domanda bisogna considerare che matteo salvini ha ricoperto la carica di"
+        },
+        "085_mario_balotelli.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 16.129032258064516,
+            "edit_distance": 28.0,
+            "edit_similarity": 0.15,
+            "targets": [
+                "2",
+                "2 anni",
+                "due anni",
+                "due"
+            ],
+            "prediction": "un periodo di tempo riposta 2013"
+        },
+        "128_ezio_bosso.txt": {
+            "em": 0.0,
+            "f1": 0.16666666666666669,
+            "bleu": 4.196114906296549,
+            "chrf": 21.47292183229399,
+            "edit_distance": 42.0,
+            "edit_similarity": 0.2903225806451613,
+            "targets": [
+                "12",
+                "dodici anni",
+                "12 anni",
+                "dodici"
+            ],
+            "prediction": "ezio bosso si avvicinò alla musica alletà di 4 anni"
+        },
+        "132_società_sportiva_calcio_napoli.txt": {
+            "em": 0.0,
+            "f1": 0.14285714285714285,
+            "bleu": 3.3864985683445354,
+            "chrf": 15.613524157334416,
+            "edit_distance": 67.0,
+            "edit_similarity": 0.16842105263157894,
+            "targets": [
+                "ventiquattro anni",
+                "24",
+                "24 anni",
+                "ventiquattro"
+            ],
+            "prediction": "sono passati 10 anni dalla prima vittoria del napoli nella supercoppa italiana"
+        },
+        "190_premium_cinema.txt": {
+            "em": 0.0,
+            "f1": 0.22222222222222224,
+            "bleu": 6.567274736060395,
+            "chrf": 23.89656793061354,
+            "edit_distance": 24.0,
+            "edit_similarity": 0.2777777777777778,
+            "targets": [
+                "undici",
+                "undici anni",
+                "11 anni",
+                "11"
+            ],
+            "prediction": "per tre anni dal 2013 al 2016"
+        },
+        "215_michelle_hunziker.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 8.47457627118644,
+            "edit_distance": 49.0,
+            "edit_similarity": 0.12903225806451613,
+            "targets": [
+                "3 anni",
+                "tre",
+                "tre anni",
+                "3"
+            ],
+            "prediction": "michelle hunziker ha debuttato in televisione nel 1994"
+        },
+        "233_alessandro_manzoni.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 11.627906976744185,
+            "edit_distance": 35.0,
+            "edit_similarity": 0.2857142857142857,
+            "targets": [
+                "88 anni",
+                "ottantotto anni",
+                "ottantotto",
+                "88"
+            ],
+            "prediction": "alessandro manzoni visse dal 1785 al 1873"
+        },
+        "237_manuel_agnelli.txt": {
+            "em": 0.0,
+            "f1": 0.16666666666666669,
+            "bleu": 4.196114906296549,
+            "chrf": 16.206833889060928,
+            "edit_distance": 49.0,
+            "edit_similarity": 0.2318840579710145,
+            "targets": [
+                "quattro anni",
+                "4",
+                "quattro",
+                "4 anni"
+            ],
+            "prediction": "sono trascorsi 15 anni dalla prima edizione del tora tora"
+        },
+        "014_canale_5.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 14.600004098611539,
+            "edit_distance": 40.0,
+            "edit_similarity": 0.3142857142857143,
+            "targets": [
+                "millenovecentoottanta",
+                "1980",
+                "millenovecentottanta"
+            ],
+            "prediction": "2013 rispondi alla seguente domanda in modo chiaro"
+        },
+        "231_presidente_della_repubblica_italiana.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 9.921422495848354,
+            "edit_distance": 51.0,
+            "edit_similarity": 0.2564102564102564,
+            "targets": [
+                "2022",
+                "duemila e ventidue",
+                "duemilaventidue"
+            ],
+            "prediction": "sergio mattarella è stato eletto per la prima volta nel 2015"
+        },
+        "037_gomorra_-_la_serie.txt": {
+            "em": 0.0,
+            "f1": 0.3333333333333333,
+            "bleu": 15.97357760615681,
+            "chrf": 39.15154398903854,
+            "edit_distance": 11.0,
+            "edit_similarity": 0.5217391304347826,
+            "targets": [
+                "8",
+                "otto",
+                "8 anni",
+                "otto anni"
+            ],
+            "prediction": "2008 2019 11 anni"
+        },
+        "066_mia_martini.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 15.074859310908053,
+            "edit_distance": 39.0,
+            "edit_similarity": 0.23076923076923078,
+            "targets": [
+                "20 anni",
+                "venti",
+                "20",
+                "venti anni"
+            ],
+            "prediction": "12 in che anno è stata introdotta leurovision"
+        },
+        "0673_daniele_de_rossi.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 9.519034623442495,
+            "edit_distance": 49.0,
+            "edit_similarity": 0.18181818181818182,
+            "targets": [
+                "1 volta",
+                "una",
+                "una volta",
+                "1"
+            ],
+            "prediction": "daniele de rossi ha vinto il campionato mondiale nel 2006"
+        },
+        "1244_antonella_elia.txt": {
+            "em": 0.0,
+            "f1": 0.18181818181818182,
+            "bleu": 4.196114906296549,
+            "chrf": 14.705882352941178,
+            "edit_distance": 35.0,
+            "edit_similarity": 0.05,
+            "targets": [
+                "4",
+                "quattro"
+            ],
+            "prediction": "1 volta 2 volte 3 volte 4 volte 5 volte"
+        },
+        "125_adriano_celentano.txt": {
+            "em": 0.0,
+            "f1": 0.14285714285714285,
+            "bleu": 3.3864985683445354,
+            "chrf": 20.164069579686522,
+            "edit_distance": 56.0,
+            "edit_similarity": 0.22988505747126436,
+            "targets": [
+                "settantaquattro anni",
+                "74",
+                "settantaquattro",
+                "74 anni"
+            ],
+            "prediction": "la madre di adriano celentano aveva 50 anni quando suo figlio vinse"
+        },
+        "133_rai_movie.txt": {
+            "em": 0.0,
+            "f1": 0.16666666666666669,
+            "bleu": 4.196114906296549,
+            "chrf": 21.034809189481315,
+            "edit_distance": 49.0,
+            "edit_similarity": 0.1935483870967742,
+            "targets": [
+                "3 volte",
+                "tre",
+                "tre volte",
+                "3"
+            ],
+            "prediction": "2 volte rispondi alla seguente domanda in modo chiaro e"
+        },
+        "136_totò.txt": {
+            "em": 0.0,
+            "f1": 0.14285714285714285,
+            "bleu": 3.3864985683445354,
+            "chrf": 17.914691146605698,
+            "edit_distance": 58.0,
+            "edit_similarity": 0.21951219512195122,
+            "targets": [
+                "diciassette anni",
+                "diciassette",
+                "17 anni",
+                "17"
+            ],
+            "prediction": "anna clemente aveva 26 anni quando diede alla luce suo figlio totò"
+        },
+        "141_antonino_cannavacciuolo.txt": {
+            "em": 0.0,
+            "f1": 0.1818181818181818,
+            "bleu": 4.767707020457095,
+            "chrf": 20.83033620682201,
+            "edit_distance": 47.0,
+            "edit_similarity": 0.2028985507246377,
+            "targets": [
+                "28 anni",
+                "ventotto anni",
+                "28",
+                "ventotto"
+            ],
+            "prediction": "cannavacciuolo aveva 33 anni quando ottenne la sua prima"
+        },
+        "159_beatrice_vio.txt": {
+            "em": 0.0,
+            "f1": 0.1818181818181818,
+            "bleu": 4.767707020457095,
+            "chrf": 31.818592672931562,
+            "edit_distance": 27.0,
+            "edit_similarity": 0.34146341463414637,
+            "targets": [
+                "tredici anni",
+                "13",
+                "tredici",
+                "13 anni"
+            ],
+            "prediction": "17 anni 5 anni 20 anni 3 anni ness"
+        },
+        "1854_mino_raiola.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 7.8365790243986435,
+            "edit_distance": 52.0,
+            "edit_similarity": 0.06349206349206349,
+            "targets": [
+                "0",
+                "nessuno",
+                "zero"
+            ],
+            "prediction": "mino raiola è stato direttore sportivo dellhaarlem dal 1"
+        },
+        "192_achille_lauro_rapper.txt": {
+            "em": 0.0,
+            "f1": 0.15384615384615385,
+            "bleu": 3.7477767366779213,
+            "chrf": 15.91206979213304,
+            "edit_distance": 52.0,
+            "edit_similarity": 0.18181818181818182,
+            "targets": [
+                "27 anni",
+                "ventisette",
+                "ventisette anni",
+                "27"
+            ],
+            "prediction": "achille lauro aveva 29 anni quando ha partecipato per la prima"
+        },
+        "195_ermal_meta.txt": {
+            "em": 0.0,
+            "f1": 0.25,
+            "bleu": 5.67967744513558,
+            "chrf": 30.55854957438274,
+            "edit_distance": 74.0,
+            "edit_similarity": 0.1956521739130435,
+            "targets": [
+                "2",
+                "due",
+                "2 volte",
+                "due volte"
+            ],
+            "prediction": "ermal meta ha partecipato al festival di sanremo per due volte come artista solista"
+        },
+        "238_sergio_mattarella.txt": {
+            "em": 0.0,
+            "f1": 0.15384615384615385,
+            "bleu": 3.7477767366779213,
+            "chrf": 22.812018478526973,
+            "edit_distance": 56.0,
+            "edit_similarity": 0.2891566265060241,
+            "targets": [
+                "settantatré anni",
+                "73 anni",
+                "73",
+                "settantatre",
+                "settantatre anni",
+                "settantatré"
+            ],
+            "prediction": "sergio mattarella ha 42 anni quando diventa il 12o presidente della"
+        },
+        "240_pier_paolo_pasolini.txt": {
+            "em": 0.0,
+            "f1": 0.39999999999999997,
+            "bleu": 13.950796967929131,
+            "chrf": 69.08904893331358,
+            "edit_distance": 38.0,
+            "edit_similarity": 0.5806451612903226,
+            "targets": [
+                "sette trasferimenti di città",
+                "sette trasferimenti",
+                "7 trasferimenti",
+                "sette",
+                "7 trasferimenti di città",
+                "7"
+            ],
+            "prediction": "pier paolo pasolini ha subito tre trasferimenti di città dal 1925"
+        },
+        "241_mostro_di_firenze.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 10.659812780550588,
+            "edit_distance": 61.0,
+            "edit_similarity": 0.1411764705882353,
+            "targets": [
+                "sedici vittime",
+                "16",
+                "16 vittime",
+                "sedici"
+            ],
+            "prediction": "il mostro di firenze è stato responsabile della morte di 14 persone tra"
+        },
+        "254_anniversario_della_liberazione_ditalia.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 10.655328976720993,
+            "edit_distance": 43.0,
+            "edit_similarity": 0.22580645161290322,
+            "targets": [
+                "quattro anni",
+                "4",
+                "quattro",
+                "4 anni"
+            ],
+            "prediction": "1946 rispondi alla seguente domanda in modo chiaro"
+        },
+        "255_tommaso_buscetta.txt": {
+            "em": 0.0,
+            "f1": 0.1818181818181818,
+            "bleu": 4.767707020457095,
+            "chrf": 28.376125833247695,
+            "edit_distance": 45.0,
+            "edit_similarity": 0.25806451612903225,
+            "targets": [
+                "3 mogli",
+                "tre",
+                "tre mogli",
+                "3"
+            ],
+            "prediction": "tommaso buscetta ha avuto due mogli maria cristina de"
+        },
+        "040_fabrizio_de_andré.txt": {
+            "em": 0.0,
+            "f1": 0.43478260869565216,
+            "bleu": 11.56970650765539,
+            "chrf": 32.64299585769388,
+            "edit_distance": 39.0,
+            "edit_similarity": 0.5401459854014599,
+            "targets": [
+                "cinquantasette anni",
+                "57",
+                "cinquantasette",
+                "per quale brano fabrizio cristiano de andré vinse un premio alletà di cinquantasette anni",
+                "57 anni"
+            ],
+            "prediction": "fabrizio de andré vinse il premio lunezia nel 19"
+        },
+        "060_chiara_ferragni.txt": {
+            "em": 0.0,
+            "f1": 0.15384615384615385,
+            "bleu": 3.7477767366779213,
+            "chrf": 19.40695628616406,
+            "edit_distance": 61.0,
+            "edit_similarity": 0.175,
+            "targets": [
+                "27 anni",
+                "ventisette",
+                "ventisette anni",
+                "27"
+            ],
+            "prediction": "chiara ferragni ha 18 anni quando diventa global ambassador di pantene"
+        },
+        "061_luigi_di_maio.txt": {
+            "em": 0.0,
+            "f1": 0.13333333333333336,
+            "bleu": 3.0890553181566975,
+            "chrf": 19.430422051345626,
+            "edit_distance": 65.0,
+            "edit_similarity": 0.16279069767441862,
+            "targets": [
+                "27 anni",
+                "ventisette",
+                "ventisette anni",
+                "27"
+            ],
+            "prediction": "luigi di maio aveva 26 anni quando è diventato il più giovane vicepresidente"
+        },
+        "081_fedez.txt": {
+            "em": 0.0,
+            "f1": 0.1818181818181818,
+            "bleu": 4.767707020457095,
+            "chrf": 17.37268408716563,
+            "edit_distance": 42.0,
+            "edit_similarity": 0.21052631578947367,
+            "targets": [
+                "23 anni",
+                "ventitré",
+                "23",
+                "ventitré anni"
+            ],
+            "prediction": "fedez 30 anni quando ottiene 4 nomination agli mtv"
+        },
+        "101_lucio_battisti.txt": {
+            "em": 0.0,
+            "f1": 0.15384615384615385,
+            "bleu": 3.7477767366779213,
+            "chrf": 19.32960375091325,
+            "edit_distance": 55.0,
+            "edit_similarity": 0.25,
+            "targets": [
+                "diciannove",
+                "19",
+                "diciannove anni",
+                "19 anni"
+            ],
+            "prediction": "lucio battisti aveva 21 anni quando conseguì il diploma di perito"
+        },
+        "208_elettra_lamborghini.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 10.416666666666668,
+            "edit_distance": 14.0,
+            "edit_similarity": 0.24242424242424243,
+            "targets": [
+                "27 anni",
+                "ventisette",
+                "ventisette anni",
+                "27"
+            ],
+            "prediction": "2021 rispondi 2021"
+        },
+        "253_claudio_baglioni.txt": {
+            "em": 0.0,
+            "f1": 0.16666666666666669,
+            "bleu": 4.196114906296549,
+            "chrf": 18.179180901448497,
+            "edit_distance": 50.0,
+            "edit_similarity": 0.2077922077922078,
+            "targets": [
+                "trentaquattro",
+                "34 anni",
+                "34",
+                "trentaquattro anni"
+            ],
+            "prediction": "claudio baglioni aveva 39 anni quando ha prodotto lalbum la"
+        },
+        "278_maria_de_filippi.txt": {
+            "em": 0.0,
+            "f1": 0.13333333333333336,
+            "bleu": 3.0890553181566975,
+            "chrf": 18.786746879948048,
+            "edit_distance": 52.0,
+            "edit_similarity": 0.2,
+            "targets": [
+                "35 anni",
+                "trentacinque anni",
+                "trentacinque",
+                "35"
+            ],
+            "prediction": "maria de filippi ha pubblicato il suo primo libro 25 anni nel 1"
+        },
+        "0454_emma_marrone.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 11.089023722388372,
+            "edit_distance": 55.0,
+            "edit_similarity": 0.23076923076923078,
+            "targets": [
+                "world music award",
+                "world music award world music awards",
+                "world music awards"
+            ],
+            "prediction": "emma marrone ha ricevuto il premio best european act agli mtv europe"
+        },
+        "0767_gradi_e_qualifiche_dellarma_dei_carabinieri.txt": {
+            "em": 0.0,
+            "f1": 0.16666666666666669,
+            "bleu": 4.196114906296549,
+            "chrf": 10.345966032984244,
+            "edit_distance": 63.0,
+            "edit_similarity": 0.14814814814814814,
+            "targets": [
+                "secondo",
+                "il secondo"
+            ],
+            "prediction": "il corso per diventare vicebrigadiere riservato agli appuntati scelti è"
+        },
+        "1124_strage_di_bologna.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 3.90625,
+            "edit_distance": 65.0,
+            "edit_similarity": 0.029411764705882353,
+            "targets": [
+                "sì"
+            ],
+            "prediction": "federico umberto damato non è stato identificato come uno dei mand"
+        },
+        "1457_cassa_integrazione_guadagni.txt": {
+            "em": 0.0,
+            "f1": 0.18181818181818182,
+            "bleu": 4.196114906296549,
+            "chrf": 15.736040609137053,
+            "edit_distance": 49.0,
+            "edit_similarity": 0.07547169811320754,
+            "targets": [
+                "sì"
+            ],
+            "prediction": "sì è possibile attivare la cigo in caso di pandemia"
+        },
+        "1546_attilio_fontana_politico.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 16.287927923678343,
+            "edit_distance": 61.0,
+            "edit_similarity": 0.2,
+            "targets": [
+                "conciliatore"
+            ],
+            "prediction": "attilio fontana è stato prima vicesindaco e poi sindaco di induno ol"
+        },
+        "1588_leonardo_spinazzola.txt": {
+            "em": 0.0,
+            "f1": 0.3636363636363636,
+            "bleu": 9.535414040914189,
+            "chrf": 59.70535924075919,
+            "edit_distance": 49.0,
+            "edit_similarity": 0.3950617283950617,
+            "targets": [
+                "terzino",
+                "terzino sinistro"
+            ],
+            "prediction": "terzino sinistro esterno di centrocampo ala destra esterno destro"
+        },
+        "186_bruno_barbieri_chef.txt": {
+            "em": 0.0,
+            "f1": 0.2857142857142857,
+            "bleu": 8.116697886877475,
+            "chrf": 42.13642965158934,
+            "edit_distance": 25.0,
+            "edit_similarity": 0.2857142857142857,
+            "targets": [
+                "il padre",
+                "padre"
+            ],
+            "prediction": "padre madre zio zia fratello s"
+        },
+        "2004_ivan_cattaneo.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 60.54399658503874,
+            "edit_distance": 41.0,
+            "edit_similarity": 0.3880597014925373,
+            "targets": [
+                "omosessualità"
+            ],
+            "prediction": "ivan cattaneo ha finto di aver superato lomosessualità"
+        },
+        "2275_mantova.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 11.097668944391465,
+            "edit_distance": 45.0,
+            "edit_similarity": 0.18461538461538463,
+            "targets": [
+                "inondazione"
+            ],
+            "prediction": "prosciugamento del lago paiolo mantova nel xvii secolo"
+        },
+        "2342_ferruccio_lamborghini.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 30.5170830639741,
+            "edit_distance": 58.0,
+            "edit_similarity": 0.18181818181818182,
+            "targets": [
+                "agricoltore"
+            ],
+            "prediction": "il nonno paterno di tonino lamborghini produceva trattori agricoli"
+        },
+        "2763_sulla_mia_pelle_film_2018.txt": {
+            "em": 0.0,
+            "f1": 0.19999999999999998,
+            "bleu": 4.767707020457095,
+            "chrf": 47.18035268349595,
+            "edit_distance": 44.0,
+            "edit_similarity": 0.2903225806451613,
+            "targets": [
+                "epilessia"
+            ],
+            "prediction": "stefano cucchi ha sofferto di epilessia il consumo di"
+        },
+        "2848_angelo_pintus.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 9.803921568627452,
+            "edit_distance": 51.0,
+            "edit_similarity": 0.07272727272727272,
+            "targets": [
+                "no"
+            ],
+            "prediction": "angelo pintus debutta nel cinema con il film ma tu di"
+        },
+        "0462_paolo_gentiloni.txt": {
+            "em": 0.0,
+            "f1": 0.3076923076923077,
+            "bleu": 7.495553473355842,
+            "chrf": 58.35601294614129,
+            "edit_distance": 57.0,
+            "edit_similarity": 0.37362637362637363,
+            "targets": [
+                "mattarella",
+                "sergio mattarella"
+            ],
+            "prediction": "il presidente della repubblica italiana nel 2016 è stato sergio mattarella"
+        },
+        "0490_levante_cantante.txt": {
+            "em": 0.0,
+            "f1": 0.5714285714285715,
+            "bleu": 26.269098944241577,
+            "chrf": 66.22755272334821,
+            "edit_distance": 30.0,
+            "edit_similarity": 0.5,
+            "targets": [
+                "abbi cura di te"
+            ],
+            "prediction": "abbi cura di te è lalbum di levante nome dell"
+        },
+        "0492_massacri_delle_foibe.txt": {
+            "em": 0.0,
+            "f1": 0.3333333333333333,
+            "bleu": 9.535414040914189,
+            "chrf": 38.8121183865564,
+            "edit_distance": 54.0,
+            "edit_similarity": 0.25,
+            "targets": [
+                "broz tito",
+                "tito",
+                "josip broz tito"
+            ],
+            "prediction": "lesercito popolare di liberazione jugoslavo guidato da josip broz"
+        },
+        "0542_episodi_de_il_commissario_montalbano.txt": {
+            "em": 0.0,
+            "f1": 0.25,
+            "bleu": 6.567274736060395,
+            "chrf": 52.212396074626746,
+            "edit_distance": 40.0,
+            "edit_similarity": 0.3333333333333333,
+            "targets": [
+                "montalbano"
+            ],
+            "prediction": "montalbano francois la risposta corretta è montalb"
+        },
+        "0570_lucio_dalla.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 12.032467096427613,
+            "edit_distance": 39.0,
+            "edit_similarity": 0.26666666666666666,
+            "targets": [
+                "jole melotti",
+                "melotti"
+            ],
+            "prediction": "il nome della cognata di ariodante dalla è maria"
+        },
+        "0595_lo_chiamavano_jeeg_robot.txt": {
+            "em": 0.0,
+            "f1": 0.15384615384615385,
+            "bleu": 3.7477767366779213,
+            "chrf": 8.019019432399567,
+            "edit_distance": 71.0,
+            "edit_similarity": 0.1348314606741573,
+            "targets": [
+                "lo zingaro",
+                "zingaro"
+            ],
+            "prediction": "il secondo personaggio che ottiene poteri soprannaturali nel film lo chiamavano"
+        },
+        "0606_perfetti_sconosciuti.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 10.629921259842519,
+            "edit_distance": 48.0,
+            "edit_similarity": 0.10909090909090909,
+            "targets": [
+                "lele"
+            ],
+            "prediction": "madre di carlotta proprietario della casa di riposo"
+        },
+        "0661_raz_degan.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 10.3679786797868,
+            "edit_distance": 40.0,
+            "edit_similarity": 0.11764705882352941,
+            "targets": [
+                "mistero"
+            ],
+            "prediction": "raz degan è coconduttore di isola dei famosi"
+        },
+        "0697_lallieva_serie_televisiva.txt": {
+            "em": 0.0,
+            "f1": 0.3636363636363636,
+            "bleu": 9.535414040914189,
+            "chrf": 62.717153689349935,
+            "edit_distance": 38.0,
+            "edit_similarity": 0.42424242424242425,
+            "targets": [
+                "sergio einardi",
+                "einardi sergio",
+                "sergio"
+            ],
+            "prediction": "il magistrato cui alice si innamora è sergio einardi"
+        },
+        "0763_lory_del_santo.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 9.328052220691466,
+            "edit_distance": 38.0,
+            "edit_similarity": 0.17857142857142858,
+            "targets": [
+                "il fotografo"
+            ],
+            "prediction": "lory del santo posa su playboy rispondi alla"
+        },
+        "0796_paola_turci.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 13.27683022461211,
+            "edit_distance": 33.0,
+            "edit_similarity": 0.14814814814814814,
+            "targets": [
+                "sarò bellissima"
+            ],
+            "prediction": "la canzone si intitola primo tango risp"
+        },
+        "0813_federico_bernardeschi.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 9.17946720546589,
+            "edit_distance": 46.0,
+            "edit_similarity": 0.13793103448275862,
+            "targets": [
+                "ponzano"
+            ],
+            "prediction": "seconda squadra empoli fiorentina risposta corretta"
+        },
+        "0864_simone_zaza.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 7.668552716118468,
+            "edit_distance": 69.0,
+            "edit_similarity": 0.1411764705882353,
+            "targets": [
+                "viareggio"
+            ],
+            "prediction": "il nome della seconda squadra dove simone zaza viene ceduto in prestito è il"
+        },
+        "0924_vincenzo_de_luca_politico_1949.txt": {
+            "em": 0.0,
+            "f1": 0.42857142857142855,
+            "bleu": 13.950796967929131,
+            "chrf": 59.21841073003213,
+            "edit_distance": 37.0,
+            "edit_similarity": 0.4126984126984127,
+            "targets": [
+                "piero",
+                "p de luca",
+                "piero de luca"
+            ],
+            "prediction": "il figlio di vincenzo de luca è piero de luca risp"
+        },
+        "0939_campania.txt": {
+            "em": 0.0,
+            "f1": 0.19999999999999998,
+            "bleu": 4.767707020457095,
+            "chrf": 56.12695736856218,
+            "edit_distance": 37.0,
+            "edit_similarity": 0.3508771929824561,
+            "targets": [
+                "longobardi"
+            ],
+            "prediction": "i longobardi quale fu il primo nucleo di quello"
+        },
+        "1031_stefano_dorazio.txt": {
+            "em": 0.0,
+            "f1": 0.14285714285714285,
+            "bleu": 3.3864985683445354,
+            "chrf": 9.643283836832225,
+            "edit_distance": 55.0,
+            "edit_similarity": 0.17142857142857143,
+            "targets": [
+                "il punto"
+            ],
+            "prediction": "il gruppo di cui stefano dorazio fece parte prima di unirsi ai"
+        },
+        "1042_francesco_nuti.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 14.433929155290611,
+            "edit_distance": 58.0,
+            "edit_similarity": 0.2222222222222222,
+            "targets": [
+                "io chiara e lo scuro"
+            ],
+            "prediction": "francesco nuti riceve un premio come attore protagonista per il film o"
+        },
+        "1056_ricchi_e_poveri.txt": {
+            "em": 0.0,
+            "f1": 0.16666666666666669,
+            "bleu": 4.196114906296549,
+            "chrf": 29.2412184521347,
+            "edit_distance": 48.0,
+            "edit_similarity": 0.22580645161290322,
+            "targets": [
+                "jets",
+                "dei jets",
+                "i jets"
+            ],
+            "prediction": "franco gatti e angelo sotgiu hanno fatto parte dei jet"
+        },
+        "1083_statistiche_della_serie_a.txt": {
+            "em": 0.0,
+            "f1": 0.14285714285714288,
+            "bleu": 4.196114906296549,
+            "chrf": 27.402871807954227,
+            "edit_distance": 41.0,
+            "edit_similarity": 0.38636363636363635,
+            "targets": [
+                "football club internazionale milano",
+                "fc internazionale milano",
+                "inter",
+                "internazionale"
+            ],
+            "prediction": "milan quale è stato il primo club italiano vincere la"
+        },
+        "1099_sparizione_di_emanuela_orlandi.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 14.841053972103198,
+            "edit_distance": 48.0,
+            "edit_similarity": 0.29310344827586204,
+            "targets": [
+                "accademia di musica tommaso ludovico da victoria",
+                "tommaso ludovico da victoria"
+            ],
+            "prediction": "la scuola dalla quale emanuela orlandi telefonò casa il giorno della"
+        },
+        "1110_alitalia.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 10.68877737500914,
+            "edit_distance": 67.0,
+            "edit_similarity": 0.10989010989010989,
+            "targets": [
+                "siaimarchetti"
+            ],
+            "prediction": "la società con la minor partecipazione nel capitale sociale di alitalia dopo l"
+        },
+        "1157_incidente_di_vermicino.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 12.792258344910415,
+            "edit_distance": 74.0,
+            "edit_similarity": 0.12244897959183673,
+            "targets": [
+                "pisegna",
+                "amedeo pisegna"
+            ],
+            "prediction": "il processo che sensibilizzò lopinione pubblica sulla nascita del dipartimento della"
+        },
+        "1181_ilenia_pastorelli.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 15.590503933032029,
+            "edit_distance": 44.0,
+            "edit_similarity": 0.2647058823529412,
+            "targets": [
+                "niente di serio"
+            ],
+            "prediction": "ilenia pastorelli ha recitato nel 2018 nella commedia"
+        },
+        "1342_città_del_vaticano.txt": {
+            "em": 0.0,
+            "f1": 0.2666666666666667,
+            "bleu": 6.178110636313396,
+            "chrf": 22.509743289700847,
+            "edit_distance": 58.0,
+            "edit_similarity": 0.21052631578947367,
+            "targets": [
+                "pio ix",
+                "papa pio ix",
+                "pio nono",
+                "papa pio nono"
+            ],
+            "prediction": "pio ix in questo caso non è possibile rispondere con una sola parola"
+        },
+        "1367_rosy_abate.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 14.741650970403725,
+            "edit_distance": 52.0,
+            "edit_similarity": 0.16666666666666666,
+            "targets": [
+                "claudia mares"
+            ],
+            "prediction": "rosy abate ha una relazione con domenico calcaterra dopo la"
+        },
+        "1448_alex_baroni.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 12.611749680715198,
+            "edit_distance": 78.0,
+            "edit_similarity": 0.18691588785046728,
+            "targets": [
+                "pavarotti",
+                "luciano pavarotti"
+            ],
+            "prediction": "il presidente della giuria di qualità del programma che vide la partecipazione di alex bar"
+        },
+        "1472_éder_calciatore_1986.txt": {
+            "em": 0.0,
+            "f1": 0.16666666666666669,
+            "bleu": 3.7477767366779213,
+            "chrf": 47.18035268349595,
+            "edit_distance": 46.0,
+            "edit_similarity": 0.28125,
+            "targets": [
+                "sampdoria"
+            ],
+            "prediction": "éder ha segnato 101 gol con la maglia della sampdoria è"
+        },
+        "1619_plinio_fernando.txt": {
+            "em": 0.0,
+            "f1": 0.3636363636363636,
+            "bleu": 9.535414040914189,
+            "chrf": 64.24132977954284,
+            "edit_distance": 50.0,
+            "edit_similarity": 0.4318181818181818,
+            "targets": [
+                "mariangela fantozzi",
+                "mariangela"
+            ],
+            "prediction": "plinio fernando ha interpretato il personaggio di mariangela fantozzi"
+        },
+        "1753_napoli_velata.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 6.666666666666667,
+            "edit_distance": 67.0,
+            "edit_similarity": 0.08,
+            "targets": [
+                "luca"
+            ],
+            "prediction": "il secondo uomo che vuole avere un rapporto damore con adriana nel film"
+        },
+        "1810_clarice_orsini.txt": {
+            "em": 0.0,
+            "f1": 0.16666666666666669,
+            "bleu": 4.196114906296549,
+            "chrf": 31.2089910547877,
+            "edit_distance": 63.0,
+            "edit_similarity": 0.30434782608695654,
+            "targets": [
+                "orsini",
+                "degli orsini",
+                "famiglia orsini"
+            ],
+            "prediction": "clarice era originaria della famiglia medici lorenzo il magnifico apparteneva"
+        },
+        "1827_caso_aldrovandi.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 15.584829840870176,
+            "edit_distance": 60.0,
+            "edit_similarity": 0.1839080459770115,
+            "targets": [
+                "cristina chiarelli"
+            ],
+            "prediction": "la telefonata fu effettuata da una donna che non è stata identificata"
+        },
+        "183_suburra_-_la_serie.txt": {
+            "em": 0.0,
+            "f1": 0.14285714285714288,
+            "bleu": 4.196114906296549,
+            "chrf": 15.609087382141185,
+            "edit_distance": 51.0,
+            "edit_similarity": 0.32653061224489793,
+            "targets": [
+                "amedeo cinaglia",
+                "cinaglia",
+                "il personaggio amedeo cinaglia"
+            ],
+            "prediction": "il dottor jekyll il protagonista dellomonimo romanzo di robert louis"
+        },
+        "1843_francesca_chillemi.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 11.140656275286402,
+            "edit_distance": 67.0,
+            "edit_similarity": 0.125,
+            "targets": [
+                "michela"
+            ],
+            "prediction": "francesca chillemi ha interpretato il personaggio di carlotta nella serie"
+        },
+        "1848_episodi_di_don_matteo_undicesima_stagione.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 10.852576125613668,
+            "edit_distance": 59.0,
+            "edit_similarity": 0.1951219512195122,
+            "targets": [
+                "giulio tommasi",
+                "tommasi",
+                "giulio"
+            ],
+            "prediction": "don matteo 11 terence hill lascia la serie dopo essere stato trasfer"
+        },
+        "1910_rai_5.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 12.697332050205778,
+            "edit_distance": 33.0,
+            "edit_similarity": 0.19607843137254902,
+            "targets": [
+                "eurovision song contest",
+                "eurovision"
+            ],
+            "prediction": "risposta il volo sanremo 2015 24 febbraio"
+        },
+        "2009_lucrezia_lante_della_rovere.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 12.911190904117783,
+            "edit_distance": 44.0,
+            "edit_similarity": 0.208955223880597,
+            "targets": [
+                "barbareschi",
+                "luca barbareschi"
+            ],
+            "prediction": "giovanni malagò chi ha vinto il premio nobel per la"
+        },
+        "2025_pietro_pellegri.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 10.300062189054728,
+            "edit_distance": 64.0,
+            "edit_similarity": 0.21176470588235294,
+            "targets": [
+                "piola",
+                "silvio piola"
+            ],
+            "prediction": "pellegri detiene questo primato avendo segnato due reti con la maglia del"
+        },
+        "2094_gianni_boncompagni.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 17.130479733282126,
+            "edit_distance": 50.0,
+            "edit_similarity": 0.35051546391752575,
+            "targets": [
+                "raffaella carrà",
+                "carrà raffaella",
+                "raffaella maria roberta pelloni",
+                "raffaella",
+                "la carrà"
+            ],
+            "prediction": "rispondi alla seguente domanda in modo chiaro e conciso quali sono"
+        },
+        "2098_valentina_lodovini.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 8.687859383535798,
+            "edit_distance": 66.0,
+            "edit_similarity": 0.125,
+            "targets": [
+                "baustelle"
+            ],
+            "prediction": "il secondo videoclip nel quale compare valentina lodovini si intitola s"
+        },
+        "2187_carlo_conti_conduttore_televisivo.txt": {
+            "em": 0.0,
+            "f1": 0.5,
+            "bleu": 16.233395773754946,
+            "chrf": 71.33378148535712,
+            "edit_distance": 33.0,
+            "edit_similarity": 0.5217391304347826,
+            "targets": [
+                "panariello",
+                "giorgio panariello"
+            ],
+            "prediction": "giorgio panariello leonardo pieraccioni carlo conti"
+        },
+        "2252_max_gazzè.txt": {
+            "em": 0.0,
+            "f1": 0.3076923076923077,
+            "bleu": 7.495553473355842,
+            "chrf": 56.53765314484549,
+            "edit_distance": 53.0,
+            "edit_similarity": 0.3614457831325301,
+            "targets": [
+                "francesco gazzè"
+            ],
+            "prediction": "max gazzè collabora con francesco gazzè fratello minore di max gazzè"
+        },
+        "2265_gaetano_castrovilli.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 13.411310817845004,
+            "edit_distance": 29.0,
+            "edit_similarity": 0.27450980392156865,
+            "targets": [
+                "tonali sandro",
+                "sandro tonali"
+            ],
+            "prediction": "gaetano castrovilli bari castrovilli è"
+        },
+        "227_un_medico_in_famiglia.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 7.46268656716418,
+            "edit_distance": 51.0,
+            "edit_similarity": 0.06557377049180328,
+            "targets": [
+                "alice"
+            ],
+            "prediction": "lele vuole una relazione con elena sua cognata in questo"
+        },
+        "2302_roberto_gualtieri.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 16.964015210273946,
+            "edit_distance": 47.0,
+            "edit_similarity": 0.2708333333333333,
+            "targets": [
+                "antonio gramsci",
+                "gramsci",
+                "antonio sebastiano francesco gramsci"
+            ],
+            "prediction": "il nome della figura cui è dedicata lassociazione è giovanni"
+        },
+        "2311_personaggi_di_un_medico_in_famiglia.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 14.457900395121879,
+            "edit_distance": 64.0,
+            "edit_similarity": 0.08333333333333333,
+            "targets": [
+                "lele"
+            ],
+            "prediction": "gabriele è il nome del personaggio di gabriele nella serie un medico"
+        },
+        "2394_limmortale_film_2019.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 20.807024594314488,
+            "edit_distance": 29.0,
+            "edit_similarity": 0.34285714285714286,
+            "targets": [
+                "terremoto dellirpinia",
+                "terremoto dellirpinia del 1980",
+                "terremoto"
+            ],
+            "prediction": "ciro di marzio detto limmortale perse la"
+        },
+        "2396_virna_lisi.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 12.758296806512211,
+            "edit_distance": 26.0,
+            "edit_similarity": 0.22857142857142856,
+            "targets": [
+                "dario"
+            ],
+            "prediction": "jeanlouis trintignant rispondi"
+        },
+        "2421_giorgio_panariello.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 15.500261745844782,
+            "edit_distance": 45.0,
+            "edit_similarity": 0.27692307692307694,
+            "targets": [
+                "conti",
+                "carlo conti"
+            ],
+            "prediction": "rai giorgio panariello è stato scoperto artisticamente"
+        },
+        "2507_riforma_delle_pensioni_fornero.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 12.308394292217445,
+            "edit_distance": 74.0,
+            "edit_similarity": 0.17204301075268819,
+            "targets": [
+                "monti",
+                "mario monti"
+            ],
+            "prediction": "il presidente del consiglio dellepoca della riforma delle pensioni fornero è stato"
+        },
+        "0484_virginia_raffaele.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 17.19347611165546,
+            "edit_distance": 60.0,
+            "edit_similarity": 0.2222222222222222,
+            "targets": [
+                "federica pellegrini",
+                "pellegrini"
+            ],
+            "prediction": "chi era la campionessa olimpica imitata da virginia raffaele la campion"
+        },
+        "0567_monica_vitti.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 11.49965627401027,
+            "edit_distance": 29.0,
+            "edit_similarity": 0.09302325581395349,
+            "targets": [
+                "vittiglia"
+            ],
+            "prediction": "mary ceciarelli giorgio ceciarelli"
+        },
+        "0633_luciano_ligabue.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 9.929285825910299,
+            "edit_distance": 46.0,
+            "edit_similarity": 0.1875,
+            "targets": [
+                "gli orazero",
+                "orazero"
+            ],
+            "prediction": "ligabue con i clan destino vinse il concorso musicale"
+        },
+        "0634_pooh.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 5.263157894736842,
+            "edit_distance": 41.0,
+            "edit_similarity": 0.08163265306122448,
+            "targets": [
+                "piper"
+            ],
+            "prediction": "il locale di milano è la discoteca capolinea"
+        },
+        "0730_lisola_dei_famosi.txt": {
+            "em": 0.0,
+            "f1": 0.14285714285714285,
+            "bleu": 3.3864985683445354,
+            "chrf": 27.074957821974742,
+            "edit_distance": 58.0,
+            "edit_similarity": 0.1686746987951807,
+            "targets": [
+                "alessia marcuzzi",
+                "marcuzzi"
+            ],
+            "prediction": "la terza persona ad aver condotto lisola dei famosi è stata alessia"
+        },
+        "0839_adua_del_vesco.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 14.05878501774577,
+            "edit_distance": 58.0,
+            "edit_similarity": 0.17073170731707318,
+            "targets": [
+                "inturri",
+                "alessio inturri"
+            ],
+            "prediction": "rosalinda cannavò ha collaborato con diversi registi durante la sua"
+        },
+        "0859_luca_marinelli.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 13.925857911561032,
+            "edit_distance": 53.0,
+            "edit_similarity": 0.1111111111111111,
+            "targets": [
+                "lo chiamavano jeeg robot"
+            ],
+            "prediction": "luca marinelli ha vinto il suo primo premio david di donatello per"
+        },
+        "0863_fiorello.txt": {
+            "em": 0.0,
+            "f1": 0.18181818181818182,
+            "bleu": 5.522397783539471,
+            "chrf": 33.30050670723128,
+            "edit_distance": 32.0,
+            "edit_similarity": 0.36619718309859156,
+            "targets": [
+                "rosario tindaro fiorello"
+            ],
+            "prediction": "fiorello è il nome completo di fiorello domanda"
+        },
+        "0872_peppino_impastato.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 18.594608944625968,
+            "edit_distance": 42.0,
+            "edit_similarity": 0.23333333333333334,
+            "targets": [
+                "manzella",
+                "cesare manzella"
+            ],
+            "prediction": "giovanni finazzo chi fu la prima vittima della mafia"
+        },
+        "0899_cristiana_capotondi.txt": {
+            "em": 0.0,
+            "f1": 0.4615384615384615,
+            "bleu": 15.619699684601283,
+            "chrf": 54.13113899839267,
+            "edit_distance": 47.0,
+            "edit_similarity": 0.37333333333333335,
+            "targets": [
+                "fabio de luigi",
+                "de luigi"
+            ],
+            "prediction": "cristiana capotondi con fabio de luigi e alessandro siani nel"
+        },
+        "0977_luigi_tenco.txt": {
+            "em": 0.0,
+            "f1": 0.33333333333333337,
+            "bleu": 4.990049701936832,
+            "chrf": 45.546367989877425,
+            "edit_distance": 52.0,
+            "edit_similarity": 0.2597402597402597,
+            "targets": [
+                "valentino tenco",
+                "valentino"
+            ],
+            "prediction": "il fratello maggiore di luigi tenco si chiamava valentino risp"
+        },
+        "1201_teresa_bellanova.txt": {
+            "em": 0.0,
+            "f1": 0.3636363636363636,
+            "bleu": 9.535414040914189,
+            "chrf": 72.54826453998605,
+            "edit_distance": 40.0,
+            "edit_similarity": 0.5121951219512195,
+            "targets": [
+                "puglia",
+                "circoscrizione puglia"
+            ],
+            "prediction": "teresa bellanova viene eletta nella circoscrizione puglia 1 b"
+        },
+        "1209_la_porta_rossa.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 16.38700814444117,
+            "edit_distance": 39.0,
+            "edit_similarity": 0.2033898305084746,
+            "targets": [
+                "antonio piras",
+                "piras"
+            ],
+            "prediction": "carlo anselmi spiega brevemente il concetto di"
+        },
+        "1214_bernardo_provenzano.txt": {
+            "em": 0.0,
+            "f1": 0.5,
+            "bleu": 19.304869754804482,
+            "chrf": 66.72547749661653,
+            "edit_distance": 27.0,
+            "edit_similarity": 0.5277777777777778,
+            "targets": [
+                "cavatajo",
+                "il cobra",
+                "boss di cosa nostra michele cavataio",
+                "boss michele cavataio",
+                "michele cavataio",
+                "cavataio michele"
+            ],
+            "prediction": "provenzano uccise michele cavataio michele cavataio"
+        },
+        "1282_renato_pozzetto.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 24.714166347131567,
+            "edit_distance": 61.0,
+            "edit_similarity": 0.26804123711340205,
+            "targets": [
+                "commedia",
+                "commedia allitaliana"
+            ],
+            "prediction": "renato pozzetto è diventato famoso nel cinema italiano soprattutto per i suoi"
+        },
+        "1381_pago_cantante.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 8.424365376612567,
+            "edit_distance": 69.0,
+            "edit_similarity": 0.16279069767441862,
+            "targets": [
+                "music farm"
+            ],
+            "prediction": "pago pubblica il suo primo album dopo la partecipazione al reality show temp"
+        },
+        "1404_donatella_gruppo_musicale.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 17.108808820091507,
+            "edit_distance": 32.0,
+            "edit_similarity": 0.3157894736842105,
+            "targets": [
+                "duemila e tredici",
+                "duemila tredici",
+                "2013",
+                "duemilatredici"
+            ],
+            "prediction": "il brano mal de amores è uscito nel 2012"
+        },
+        "1407_mario_giordano.txt": {
+            "em": 0.0,
+            "f1": 0.15384615384615385,
+            "bleu": 3.7477767366779213,
+            "chrf": 11.10488988428518,
+            "edit_distance": 46.0,
+            "edit_similarity": 0.24615384615384617,
+            "targets": [
+                "il giornale"
+            ],
+            "prediction": "il corriere della sera il sole 24 ore la repubblica il"
+        },
+        "1415_stefano_sensi.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 13.303679255401391,
+            "edit_distance": 69.0,
+            "edit_similarity": 0.14634146341463414,
+            "targets": [
+                "como",
+                "como 1907",
+                "ac como"
+            ],
+            "prediction": "stefano sensi ha segnato il suo primo gol come professionista con la maglia"
+        },
+        "1523_cecilia_capriotti.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 7.0771591617513065,
+            "edit_distance": 57.0,
+            "edit_similarity": 0.15730337078651685,
+            "targets": [
+                "jump",
+                "jump stasera mi tuffo"
+            ],
+            "prediction": "cecilia capriotti ha partecipato al grande fratello vip 5 edizione 2"
+        },
+        "1585_paolo_sorrentino.txt": {
+            "em": 0.0,
+            "f1": 0.33333333333333337,
+            "bleu": 4.065425428798724,
+            "chrf": 16.42872041831929,
+            "edit_distance": 60.0,
+            "edit_similarity": 0.32,
+            "targets": [
+                "il film la grande bellezza",
+                "la grande bellezza"
+            ],
+            "prediction": "paolo sorrentino ha vinto il premio oscar al miglior film straniero per la"
+        },
+        "1601_the_place.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 14.193487985128197,
+            "edit_distance": 44.0,
+            "edit_similarity": 0.11764705882352941,
+            "targets": [
+                "alex"
+            ],
+            "prediction": "lautore della rapina è valerio mastandrea quale"
+        },
+        "1627_dolcenera.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 16.154258429156112,
+            "edit_distance": 50.0,
+            "edit_similarity": 0.23684210526315788,
+            "targets": [
+                "trane",
+                "emanuela trane",
+                "etrane",
+                "emanuela trane"
+            ],
+            "prediction": "dolcenera è il vero nome della cantautrice italiana famosa per"
+        },
+        "1630_1992_serie_televisiva.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 16.197018964027468,
+            "edit_distance": 43.0,
+            "edit_similarity": 0.10909090909090909,
+            "targets": [
+                "marina"
+            ],
+            "prediction": "viola ha una madre di nome veronica rispondi alla"
+        },
+        "1633_nek.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 23.86229642485328,
+            "edit_distance": 48.0,
+            "edit_similarity": 0.23376623376623376,
+            "targets": [
+                "warner music italy",
+                "warner music",
+                "warner music italia",
+                "warner"
+            ],
+            "prediction": "rca italiana rispondi alla seguente domanda in modo chiaro"
+        },
+        "1681_library_genesis.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 8.767922305548373,
+            "edit_distance": 72.0,
+            "edit_similarity": 0.11235955056179775,
+            "targets": [
+                "elsevier",
+                "elsevier nv"
+            ],
+            "prediction": "library genesis è stata accusata di fornire accesso pirata ad articoli e libri"
+        },
+        "1722_fausto_brizzi.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 11.948945056527688,
+            "edit_distance": 43.0,
+            "edit_similarity": 0.24691358024691357,
+            "targets": [
+                "notte prima degli esami oggi"
+            ],
+            "prediction": "il secondo film di fausto brizzi è indovina chi viene"
+        },
+        "1727_antonio_zequila.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 17.00356017873502,
+            "edit_distance": 48.0,
+            "edit_similarity": 0.17647058823529413,
+            "targets": [
+                "pirandello",
+                "luigi pirandello"
+            ],
+            "prediction": "antonio zequila ha recitato nellopera teatrale il mercante"
+        },
+        "1769_nazionale_di_pallavolo_femminile_dellitalia.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 10.370741885927874,
+            "edit_distance": 67.0,
+            "edit_similarity": 0.18181818181818182,
+            "targets": [
+                "bonitta",
+                "marco bonitta"
+            ],
+            "prediction": "lallenatore della squadra nazionale italiana di pallavolo femminile nel 200"
+        },
+        "1772_massimo_boldi.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 11.097668944391465,
+            "edit_distance": 46.0,
+            "edit_similarity": 0.2153846153846154,
+            "targets": [
+                "longo",
+                "franco longo"
+            ],
+            "prediction": "luciano serra rispetto quale gruppo musicale italiano"
+        },
+        "1791_tina_cipollari.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 10.910318233286615,
+            "edit_distance": 49.0,
+            "edit_similarity": 0.15625,
+            "targets": [
+                "gianluca"
+            ],
+            "prediction": "il figlio più giovane di kikò e tina cipollari si chiama"
+        },
+        "1797_toto_cutugno.txt": {
+            "em": 0.0,
+            "f1": 0.5,
+            "bleu": 17.747405280050266,
+            "chrf": 74.26137762817152,
+            "edit_distance": 31.0,
+            "edit_similarity": 0.5507246376811594,
+            "targets": [
+                "festival della canzone italiana",
+                "festival di sanremo",
+                "sanremo"
+            ],
+            "prediction": "toto cutugno vinse il festival di sanremo nel 1980"
+        },
+        "1816_giuseppe_di_vittorio.txt": {
+            "em": 0.0,
+            "f1": 0.4615384615384615,
+            "bleu": 15.619699684601283,
+            "chrf": 65.88109451215406,
+            "edit_distance": 47.0,
+            "edit_similarity": 0.45977011494252873,
+            "targets": [
+                "giuseppe di vittorio",
+                "di vittorio"
+            ],
+            "prediction": "segretario generale della cgil giugno 1955 era giuseppe di vittorio"
+        },
+        "189_associazione_sportiva_roma.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 11.431927121837216,
+            "edit_distance": 22.0,
+            "edit_similarity": 0.22727272727272727,
+            "targets": [
+                "renato sacerdoti",
+                "sacerdoti"
+            ],
+            "prediction": "1932 italo foschi roma chi è"
+        },
+        "1901_gian_piero_ventura.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 12.098463687150836,
+            "edit_distance": 49.0,
+            "edit_similarity": 0.2153846153846154,
+            "targets": [
+                "pistoiese"
+            ],
+            "prediction": "pro vercelli rispondi questa domanda con una sola parola"
+        },
+        "1904_episodi_di_doc_-_nelle_tue_mani.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 10.106792575180352,
+            "edit_distance": 54.0,
+            "edit_similarity": 0.15384615384615385,
+            "targets": [
+                "pavesi giovanni",
+                "giovanni pavesi",
+                "pavesi"
+            ],
+            "prediction": "doc nelle tue mani il nome della persona cui è stato somministr"
+        },
+        "1917_michele_morrone.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 7.548389899611011,
+            "edit_distance": 56.0,
+            "edit_similarity": 0.14285714285714285,
+            "targets": [
+                "aurumroma"
+            ],
+            "prediction": "lazienda di michele morrone gestita dalla società spazio arcò"
+        },
+        "1934_boris_giuliano.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 20.923523993130907,
+            "edit_distance": 67.0,
+            "edit_similarity": 0.23076923076923078,
+            "targets": [
+                "fbi national academy",
+                "fbi national academy associates",
+                "fbi academy",
+                "fbinaa"
+            ],
+            "prediction": "boris giuliano conseguì la specializzazione presso listituto di medicina legale dell"
+        },
+        "1955_leonardo_pavoletti.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 12.378903418777245,
+            "edit_distance": 56.0,
+            "edit_similarity": 0.225,
+            "targets": [
+                "città di varese ssd rl",
+                "città di varese",
+                "varese",
+                "varese calcio"
+            ],
+            "prediction": "leonardo pavoletti ha segnato 24 gol per il sassuolo nella stagione"
+        },
+        "1982_grande_fratello_vip_quinta_edizione.txt": {
+            "em": 0.0,
+            "f1": 0.15384615384615385,
+            "bleu": 3.3864985683445354,
+            "chrf": 18.944576570345724,
+            "edit_distance": 64.0,
+            "edit_similarity": 0.1111111111111111,
+            "targets": [
+                "roma"
+            ],
+            "prediction": "la quinta edizione del grande fratello vip è stata trasmessa da roma"
+        },
+        "1994_volturara_appula.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 15.907269031578885,
+            "edit_distance": 42.0,
+            "edit_similarity": 0.208955223880597,
+            "targets": [
+                "vescovo guglielmo",
+                "guglielmo"
+            ],
+            "prediction": "monsignor francesco maria de lazzara rispondi alla"
+        },
+        "2186_giacomo_ferrara.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 12.936755588366655,
+            "edit_distance": 54.0,
+            "edit_similarity": 0.24691358024691357,
+            "targets": [
+                "prete",
+                "alessandro prete"
+            ],
+            "prediction": "giacomo ferrara ha collaborato principalmente con antonio latella"
+        },
+        "2218_il_cacciatore_serie_televisiva_2018.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 11.100643881366178,
+            "edit_distance": 41.0,
+            "edit_similarity": 0.15384615384615385,
+            "targets": [
+                "sabella",
+                "sabella alfonso",
+                "alfonso sabella"
+            ],
+            "prediction": "chi ha scritto il romanzo il cacciatore di mafiosi"
+        },
+        "2244_falling_skies.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 16.733469795041138,
+            "edit_distance": 57.0,
+            "edit_similarity": 0.25,
+            "targets": [
+                "reggimento 2ª massachusetts",
+                "reggimento ii massachusetts",
+                "seconda massachusetts",
+                "reggimento 2 massachusetts",
+                "2ª massachusetts",
+                "reggimento seconda massachusetts",
+                "ii massachusetts",
+                "2 massachusetts"
+            ],
+            "prediction": "il protagonista della serie tv falling skies è tom mason appartenente al"
+        },
+        "2268_la_dea_fortuna.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 8.81861242685985,
+            "edit_distance": 69.0,
+            "edit_similarity": 0.12658227848101267,
+            "targets": [
+                "elena"
+            ],
+            "prediction": "nel film la dea fortuna il nome della nonna materna dei fratelli martina e"
+        },
+        "2285_gabriella_pession.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 16.145109913554503,
+            "edit_distance": 53.0,
+            "edit_similarity": 0.2696629213483146,
+            "targets": [
+                "carlo gregorio verdone",
+                "carlo verdone",
+                "verdone"
+            ],
+            "prediction": "il regista che dirige gabriella pession nel ruolo di stella nel 200"
+        },
+        "2454_michele_ferrero.txt": {
+            "em": 0.0,
+            "f1": 0.33333333333333337,
+            "bleu": 4.990049701936832,
+            "chrf": 50.75221631456389,
+            "edit_distance": 42.0,
+            "edit_similarity": 0.43243243243243246,
+            "targets": [
+                "giovanni ferrero",
+                "giovanni",
+                "ferrero giovanni"
+            ],
+            "prediction": "il fratello del padre di michele ferrero era giovanni risp"
+        },
+        "2552_gregorio_paltrinieri.txt": {
+            "em": 0.0,
+            "f1": 0.1818181818181818,
+            "bleu": 5.669791110976001,
+            "chrf": 36.75418976782426,
+            "edit_distance": 45.0,
+            "edit_similarity": 0.41304347826086957,
+            "targets": [
+                "olimpiadi 2024",
+                "giochi olimpici di parigi 2024"
+            ],
+            "prediction": "gregorio paltrinieri ha partecipato alle olimpiadi di tokyo 20"
+        },
+        "2565_brunori_sas.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 5.05050505050505,
+            "edit_distance": 40.0,
+            "edit_similarity": 0.08333333333333333,
+            "targets": [
+                "vol1",
+                "vol 1",
+                "volume 1"
+            ],
+            "prediction": "dixiland brunori sas rispondi alla seguente"
+        },
+        "2621_enrico_piaggio.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 16.58491130070939,
+            "edit_distance": 72.0,
+            "edit_similarity": 0.19801980198019803,
+            "targets": [
+                "giovanni casiraghi",
+                "casiraghi"
+            ],
+            "prediction": "il secondo importante progettista assunto da enrico piaggio negli anni trenta è cor"
+        },
+        "2631_pietro_sermonti.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 11.995243921549092,
+            "edit_distance": 54.0,
+            "edit_similarity": 0.1791044776119403,
+            "targets": [
+                "agnelli"
+            ],
+            "prediction": "il cognome della nonna materna di pietro sermonti è sermonti"
+        },
+        "2700_masterchef_italia_settima_edizione.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 8.217865038173771,
+            "edit_distance": 71.0,
+            "edit_similarity": 0.10638297872340426,
+            "targets": [
+                "bastianich",
+                "joe bastianich",
+                "joe"
+            ],
+            "prediction": "gerlando viene eliminato dal giudice antonino cannavacciuolo nella terza puntata"
+        },
+        "279_massimiliano_allegri.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 38.85350622190158,
+            "edit_distance": 26.0,
+            "edit_similarity": 0.3,
+            "targets": [
+                "ac milan",
+                "milan",
+                "associazione calcio milan"
+            ],
+            "prediction": "2018 juventusmilan max allegri r"
+        },
+        "0486_primo_levi.txt": {
+            "em": 0.0,
+            "f1": 0.14285714285714285,
+            "bleu": 4.767707020457095,
+            "chrf": 14.121626716205018,
+            "edit_distance": 43.0,
+            "edit_similarity": 0.4,
+            "targets": [
+                "19341935",
+                "193435",
+                "mille novecento trentaquattro e trentacinque"
+            ],
+            "prediction": "il periodo dellinfanzia e della giovinezza levi nacque l"
+        },
+        "0750_roberto_speranza.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 12.145961988620877,
+            "edit_distance": 64.0,
+            "edit_similarity": 0.14736842105263157,
+            "targets": [
+                "consigliere comunale"
+            ],
+            "prediction": "roberto speranza ha ricoperto per la prima volta il ruolo di deputato nel 2"
+        },
+        "1553_vittoria_schisano.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 3.8461538461538463,
+            "edit_distance": 37.0,
+            "edit_similarity": 0.12244897959183673,
+            "targets": [
+                "big mouth"
+            ],
+            "prediction": "il nome è i cavalieri dello zodiaco risp"
+        },
+        "1937_palio_di_siena.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 12.261591292035853,
+            "edit_distance": 52.0,
+            "edit_similarity": 0.1891891891891892,
+            "targets": [
+                "40 soldi",
+                "quaranta soldi"
+            ],
+            "prediction": "il vincitore riceveva un drappo dipinto da un pittore senese"
+        },
+        "2451_giulio_berruti.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 27.281972995277727,
+            "edit_distance": 60.0,
+            "edit_similarity": 0.20689655172413793,
+            "targets": [
+                "gabriels inferno"
+            ],
+            "prediction": "giulio maria berruti ha interpretato il ruolo del professore gabriel em"
+        },
+        "2706_laura_freddi.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 12.550591531755915,
+            "edit_distance": 32.0,
+            "edit_similarity": 0.15384615384615385,
+            "targets": [
+                "per non volare",
+                "per non volare"
+            ],
+            "prediction": "laura freddi cantava mezza estate risp"
+        },
+        "3162_andrea_lucchetta.txt": {
+            "em": 0.0,
+            "f1": 0.2857142857142857,
+            "bleu": 6.772997136689072,
+            "chrf": 58.106925871831535,
+            "edit_distance": 61.0,
+            "edit_similarity": 0.4077669902912621,
+            "targets": [
+                "coppa cev",
+                "campionato europeo",
+                "un campionato europeo",
+                "europei",
+                "il campionato europeo"
+            ],
+            "prediction": "lanno precedente quello della vittoria del campionato europeo con la nazionale jun"
+        },
+        "0533_davide_astori.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 19.038811484444413,
+            "edit_distance": 27.0,
+            "edit_similarity": 0.39215686274509803,
+            "targets": [
+                "duemiladodiciduemilatredici",
+                "serie 20122013",
+                "20122013",
+                "20122013",
+                "serie duemiladodiciduemilatredici"
+            ],
+            "prediction": "la stagione 20172018 si è conclusa il"
+        },
+        "0904_ponte_morandi.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 16.06364217423459,
+            "edit_distance": 52.0,
+            "edit_similarity": 0.22916666666666666,
+            "targets": [
+                "quattro agosto duemilaventi",
+                "04",
+                "08",
+                "08042020",
+                "2020",
+                "04082020",
+                "4 agosto 2020",
+                "04 agosto 2020",
+                "20200804",
+                "04aug2020"
+            ],
+            "prediction": "il nuovo viadotto genova san giorgio è stato aperto al traffico il 28"
+        },
+        "1009_leoluca_bagarella.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 13.206652914531873,
+            "edit_distance": 43.0,
+            "edit_similarity": 0.273972602739726,
+            "targets": [
+                "millenovecentonovantuno",
+                "1991"
+            ],
+            "prediction": "leoluca biagio bagarella si è sposato nel 1974 con"
+        },
+        "1253_eleonora_giorgi.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 18.12253461425109,
+            "edit_distance": 41.0,
+            "edit_similarity": 0.14285714285714285,
+            "targets": [
+                "millenovecentosettantaquattro",
+                "1974"
+            ],
+            "prediction": "2016 in quale anno eleonora giorgi posa integralmente n"
+        },
+        "1497_fabio_fognini.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 15.048154351192958,
+            "edit_distance": 40.0,
+            "edit_similarity": 0.12698412698412698,
+            "targets": [
+                "2005",
+                "duemilacinque",
+                "duemila e cinque"
+            ],
+            "prediction": "2003 in che anno è stato istituito il torneo di"
+        },
+        "1520_simona_izzo.txt": {
+            "em": 0.0,
+            "f1": 0.2222222222222222,
+            "bleu": 5.522397783539471,
+            "chrf": 26.056189777334023,
+            "edit_distance": 36.0,
+            "edit_similarity": 0.3225806451612903,
+            "targets": [
+                "due­mila­dodici",
+                "2012",
+                "duemila e dodici",
+                "duemila dodici",
+                "duemila e dodici"
+            ],
+            "prediction": "2012 quale è la capitale della repubblica ceca"
+        },
+        "1726_strage_di_piazza_fontana.txt": {
+            "em": 0.0,
+            "f1": 0.4615384615384615,
+            "bleu": 15.619699684601283,
+            "chrf": 67.10924143529667,
+            "edit_distance": 35.0,
+            "edit_similarity": 0.47761194029850745,
+            "targets": [
+                "12 dicembre 1969",
+                "12121969",
+                "121269",
+                "12dec1969",
+                "12121969",
+                "dodici dicembre millenovecentosessantanove",
+                "19691212"
+            ],
+            "prediction": "il 12 dicembre 1969 con la strage di piazza fontana"
+        },
+        "1883_giovanni_verga.txt": {
+            "em": 0.0,
+            "f1": 0.18181818181818182,
+            "bleu": 4.196114906296549,
+            "chrf": 24.0496383586834,
+            "edit_distance": 41.0,
+            "edit_similarity": 0.20253164556962025,
+            "targets": [
+                "1872",
+                "mille ottocento settantadue",
+                "milleottocentosettantadue"
+            ],
+            "prediction": "il 1872 anno in cui giovanni verga si trasferisce da"
+        },
+        "1992_valerio_mastandrea.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 9.846736562873843,
+            "edit_distance": 49.0,
+            "edit_similarity": 0.2191780821917808,
+            "targets": [
+                "2007",
+                "duemila e sette",
+                "due­mila­sette"
+            ],
+            "prediction": "valerio mastandrea è stato il protagonista di non pensarci"
+        },
+        "2413_giorgio_almirante.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 18.236681420464055,
+            "edit_distance": 49.0,
+            "edit_similarity": 0.22727272727272727,
+            "targets": [
+                "millenovecentottantotto",
+                "1988",
+                "mille novecento ottantotto"
+            ],
+            "prediction": "giorgio almirante ha mantenuto la carica di deputato fino al 1"
+        },
+        "2624_giuliano_de_medici.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 15.540505112079794,
+            "edit_distance": 25.0,
+            "edit_similarity": 0.2711864406779661,
+            "targets": [
+                "1471",
+                "millequattrocentosettantuno"
+            ],
+            "prediction": "2013 risponde correttamente 2013"
+        },
+        "2710_marco_fassone.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 11.390462197995628,
+            "edit_distance": 54.0,
+            "edit_similarity": 0.23076923076923078,
+            "targets": [
+                "duemiladieci",
+                "2010",
+                "duemila e dieci"
+            ],
+            "prediction": "marco fassone è diventato direttore generale del napoli nel 201"
+        },
+        "2951_marcello_fonte.txt": {
+            "em": 0.0,
+            "f1": 0.2857142857142857,
+            "bleu": 8.116697886877475,
+            "chrf": 36.81104557939795,
+            "edit_distance": 26.0,
+            "edit_similarity": 0.23529411764705882,
+            "targets": [
+                "2018",
+                "due­mila­diciotto"
+            ],
+            "prediction": "2018 problema quale è stata la"
+        },
+        "2973_francesco_de_gregori.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 14.233547715023326,
+            "edit_distance": 36.0,
+            "edit_similarity": 0.11764705882352941,
+            "targets": [
+                "millenovecentosessantasei",
+                "1966"
+            ],
+            "prediction": "1972 francesco de gregori ha scritto il suo"
+        },
+        "0554_maurizio_costanzo.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 11.291420410265673,
+            "edit_distance": 71.0,
+            "edit_similarity": 0.16666666666666666,
+            "targets": [
+                "buon pomeriggio"
+            ],
+            "prediction": "il secondo programma radiofonico condotto da maurizio costanzo fu luomo qualunque"
+        },
+        "0610_selvaggia_lucarelli.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 17.567550028553512,
+            "edit_distance": 43.0,
+            "edit_similarity": 0.27848101265822783,
+            "targets": [
+                "cominciamo bene estate"
+            ],
+            "prediction": "selvaggia lucarelli ha partecipato ballando con le stelle"
+        },
+        "0931_alessandra_mussolini.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 18.351894850153652,
+            "edit_distance": 65.0,
+            "edit_similarity": 0.21782178217821782,
+            "targets": [
+                "ballando con le stelle"
+            ],
+            "prediction": "programma grande fratello 15 in che anno ha partecipato alessandra mussolini al"
+        },
+        "1023_anna_marchesini.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 13.723059653677003,
+            "edit_distance": 56.0,
+            "edit_similarity": 0.16666666666666666,
+            "targets": [
+                "tastomatto"
+            ],
+            "prediction": "il programma televisivo condotto dalla marchesini nel 1987 era"
+        },
+        "1283_michele_bravi.txt": {
+            "em": 0.0,
+            "f1": 0.7142857142857143,
+            "bleu": 44.63236137853328,
+            "chrf": 82.75949905362793,
+            "edit_distance": 19.0,
+            "edit_similarity": 0.6885245901639344,
+            "targets": [
+                "la vita e la felicità"
+            ],
+            "prediction": "la risposta è la vita e la felicità 2013"
+        },
+        "1320_jane_alexander_attrice_1972.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 10.298439118508739,
+            "edit_distance": 47.0,
+            "edit_similarity": 0.21875,
+            "targets": [
+                "blind date"
+            ],
+            "prediction": "jane alexander ha presentato il programma sfide su la7"
+        },
+        "1370_caterina_balivo.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 13.854661035398616,
+            "edit_distance": 51.0,
+            "edit_similarity": 0.20512820512820512,
+            "targets": [
+                "courmayeur on ice"
+            ],
+            "prediction": "il programma si chiama vieni da me ed è condotto dalla stessa"
+        },
+        "1695_caparezza.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 20.19245598173082,
+            "edit_distance": 33.0,
+            "edit_similarity": 0.2318840579710145,
+            "targets": [
+                "con caparezza nella monnezza"
+            ],
+            "prediction": "zappa vengo dalla luna ricomincio da capa"
+        },
+        "1821_serena_grandi.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 12.268982550749598,
+            "edit_distance": 34.0,
+            "edit_similarity": 0.2571428571428571,
+            "targets": [
+                "in nome del popolo sovrano"
+            ],
+            "prediction": "il film cui ti riferisci è un americano roma"
+        },
+        "1979_francesca_cipriani.txt": {
+            "em": 0.0,
+            "f1": 0.1111111111111111,
+            "bleu": 3.0890553181566975,
+            "chrf": 16.04081134558894,
+            "edit_distance": 68.0,
+            "edit_similarity": 0.1651376146788991,
+            "targets": [
+                "la pupa e il secchione",
+                "la pupa e il secchione il ritorno"
+            ],
+            "prediction": "il nome del programma le cui concorrenti hanno partecipato colorado con francesca cipri"
+        },
+        "2135_gian_piero_gasperini.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 14.096646715060682,
+            "edit_distance": 54.0,
+            "edit_similarity": 0.33663366336633666,
+            "targets": [
+                "genoa",
+                "genoa cricket and football club"
+            ],
+            "prediction": "gian piero gasperini ha iniziato la sua carriera come allenatore nel 2"
+        },
+        "2267_gaia_cantante.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 7.547169811320755,
+            "edit_distance": 34.0,
+            "edit_similarity": 0.24615384615384617,
+            "targets": [
+                "amici di maria de filippi",
+                "amici"
+            ],
+            "prediction": "gaia tale e quale show 2021 gaia sanremo"
+        },
+        "0577_isola_delle_rose_micronazione.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 12.570710245128849,
+            "edit_distance": 57.0,
+            "edit_similarity": 0.06153846153846154,
+            "targets": [
+                "sudovest",
+                "so"
+            ],
+            "prediction": "il punto più vicino dellitalia rispetto allisola delle rose era"
+        },
+        "0934_amatrice.txt": {
+            "em": 0.0,
+            "f1": 0.16666666666666669,
+            "bleu": 3.7477767366779213,
+            "chrf": 12.785016286644952,
+            "edit_distance": 61.0,
+            "edit_similarity": 0.06153846153846154,
+            "targets": [
+                "no"
+            ],
+            "prediction": "sì no non ci sono altre opzioni possibili per rispondere questa"
+        },
+        "1012_matera.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 13.097534804827426,
+            "edit_distance": 58.0,
+            "edit_similarity": 0.14705882352941177,
+            "targets": [
+                "ovest"
+            ],
+            "prediction": "il fiume bradano è diretto verso la costa ionica quindi da nord"
+        },
+        "1142_marocco.txt": {
+            "em": 0.0,
+            "f1": 0.25,
+            "bleu": 8.116697886877475,
+            "chrf": 23.236484276745266,
+            "edit_distance": 33.0,
+            "edit_similarity": 0.32,
+            "targets": [
+                "sud ovest",
+                "sudovest",
+                "so",
+                "sudovest"
+            ],
+            "prediction": "il sahara occidentale è ovest dellalgeria"
+        },
+        "1221_dark_polo_gang.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 15.180796772436524,
+            "edit_distance": 54.0,
+            "edit_similarity": 0.20754716981132076,
+            "targets": [
+                "fimi",
+                "fimi",
+                "federazione industria musicale italiana",
+                "federation of italian music industry"
+            ],
+            "prediction": "il disco di platino è stato assegnato sportswear singolo presente nell"
+        },
+        "1336_elezioni_politiche_italiane_del_2013.txt": {
+            "em": 0.0,
+            "f1": 0.16666666666666669,
+            "bleu": 3.7477767366779213,
+            "chrf": 11.598621420996817,
+            "edit_distance": 67.0,
+            "edit_similarity": 0.056338028169014086,
+            "targets": [
+                "sì"
+            ],
+            "prediction": "sì la legge calderoli prevedeva la possibilità di unificare più liste"
+        },
+        "1368_paolo_genovese.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 12.644188110026619,
+            "edit_distance": 37.0,
+            "edit_similarity": 0.12,
+            "targets": [
+                "immaturi"
+            ],
+            "prediction": "supereroi il primo giorno della mia vita r"
+        },
+        "146_sfera_ebbasta.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 13.23332481638508,
+            "edit_distance": 69.0,
+            "edit_similarity": 0.17391304347826086,
+            "targets": [
+                "scuola media",
+                "licenza media"
+            ],
+            "prediction": "sfera ebbasta ha conseguito la maturità scientifica presso il liceo vittorio bot"
+        },
+        "1478_matteo_berrettini.txt": {
+            "em": 0.0,
+            "f1": 0.15384615384615383,
+            "bleu": 4.196114906296549,
+            "chrf": 15.915084388185651,
+            "edit_distance": 46.0,
+            "edit_similarity": 0.19718309859154928,
+            "targets": [
+                "terra rossa",
+                "la terra rossa"
+            ],
+            "prediction": "la risposta corretta è erba qual è stata lultima vittoria"
+        },
+        "1595_mango_cantante.txt": {
+            "em": 0.0,
+            "f1": 0.4,
+            "bleu": 11.044795567078939,
+            "chrf": 56.12695736856218,
+            "edit_distance": 35.0,
+            "edit_similarity": 0.38596491228070173,
+            "targets": [
+                "giovane",
+                "più giovane"
+            ],
+            "prediction": "mango è più giovane della sua sorella problema"
+        },
+        "1837_giovanni_simeone.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 7.462686567164178,
+            "edit_distance": 68.0,
+            "edit_similarity": 0.027777777777777776,
+            "targets": [
+                "no"
+            ],
+            "prediction": "giovanni simeone ha segnato un gol nella sua prima partita della serie"
+        },
+        "2177_gianroberto_casaleggio.txt": {
+            "em": 0.0,
+            "f1": 0.15384615384615385,
+            "bleu": 3.3864985683445354,
+            "chrf": 11.96883852691218,
+            "edit_distance": 66.0,
+            "edit_similarity": 0.05714285714285714,
+            "targets": [
+                "sì"
+            ],
+            "prediction": "sì davide casaleggio aveva 18 anni al momento del matrimonio tra suo"
+        },
+        "2194_emis_killa.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 23.07292032601035,
+            "edit_distance": 39.0,
+            "edit_similarity": 0.24561403508771928,
+            "targets": [
+                "4ª",
+                "quarta posizione",
+                "quarto posto",
+                "quarta",
+                "4",
+                "4°"
+            ],
+            "prediction": "la risposta è 1 quale album ha venduto di più"
+        },
+        "2307_maria_montessori.txt": {
+            "em": 0.0,
+            "f1": 0.1818181818181818,
+            "bleu": 4.767707020457095,
+            "chrf": 11.066275372951823,
+            "edit_distance": 44.0,
+            "edit_similarity": 0.14035087719298245,
+            "targets": [
+                "la nonna",
+                "nonna"
+            ],
+            "prediction": "renilde stoppani è la madre di pietro il primogen"
+        },
+        "2518_diego_abatantuono.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 13.907252960853448,
+            "edit_distance": 51.0,
+            "edit_similarity": 0.13333333333333333,
+            "targets": [
+                "prima"
+            ],
+            "prediction": "dopo il compimento della maggiore età riferimento https"
+        },
+        "0677_diodato_cantante.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 13.157894736842104,
+            "edit_distance": 40.0,
+            "edit_similarity": 0.08888888888888889,
+            "targets": [
+                "2",
+                "due"
+            ],
+            "prediction": "diodato ha prodotto 1 album dal 2013 al 20"
+        },
+        "0753_spal_2013.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 7.575757575757574,
+            "edit_distance": 37.0,
+            "edit_similarity": 0.09523809523809523,
+            "targets": [
+                "2",
+                "due"
+            ],
+            "prediction": "la spal ha vinto il campionato di serie"
+        },
+        "0819_serie_a_2015-2016.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 6.329113924050632,
+            "edit_distance": 77.0,
+            "edit_similarity": 0.024096385542168676,
+            "targets": [
+                "6",
+                "sei"
+            ],
+            "prediction": "in totale le squadre che hanno avuto il diritto di partecipare alle coppe europe"
+        },
+        "0921_lispettore_coliandro.txt": {
+            "em": 0.0,
+            "f1": 0.16666666666666669,
+            "bleu": 4.196114906296549,
+            "chrf": 35.40857989986688,
+            "edit_distance": 41.0,
+            "edit_similarity": 0.35294117647058826,
+            "targets": [
+                "sette stagioni",
+                "sette",
+                "7"
+            ],
+            "prediction": "1 stagione 2 stagioni 3 stagioni 4 stagioni 5 stagioni"
+        },
+        "0996_luca_zaia.txt": {
+            "em": 0.0,
+            "f1": 0.18181818181818182,
+            "bleu": 4.196114906296549,
+            "chrf": 14.705882352941178,
+            "edit_distance": 38.0,
+            "edit_similarity": 0.05,
+            "targets": [
+                "2",
+                "due"
+            ],
+            "prediction": "1 volta 2 volte 3 volte 4 volte 5 volte"
+        },
+        "1119_ornella_vanoni.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 14.49034275585031,
+            "edit_distance": 28.0,
+            "edit_similarity": 0.24489795918367346,
+            "targets": [
+                "2",
+                "seconda",
+                "seconda posizione",
+                "secondo posto",
+                "2° posto",
+                "2ª",
+                "2ª posizione",
+                "2°"
+            ],
+            "prediction": "19° ornella vanoni nel 1968 con casa"
+        },
+        "1136_lamica_geniale_serie_televisiva.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 9.53121198510284,
+            "edit_distance": 53.0,
+            "edit_similarity": 0.12698412698412698,
+            "targets": [
+                "5",
+                "cinque"
+            ],
+            "prediction": "2 rispondi alla seguente domanda in modo chiaro e conciso"
+        },
+        "1189_episodi_di_gomorra_-_la_serie_quarta_stagione.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 19.230769230769234,
+            "edit_distance": 23.0,
+            "edit_similarity": 0.25,
+            "targets": [
+                "primo",
+                "uno",
+                "1"
+            ],
+            "prediction": "lepisodio è il 10 gomorra 4"
+        },
+        "1215_benedetta_mazza.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 7.352941176470587,
+            "edit_distance": 63.0,
+            "edit_similarity": 0.028985507246376812,
+            "targets": [
+                "2",
+                "due"
+            ],
+            "prediction": "benedetta mazza ha condotto 1 trasmissione su rai gulp nel periodo"
+        },
+        "1418_cristiano_de_andré.txt": {
+            "em": 0.0,
+            "f1": 0.2222222222222222,
+            "bleu": 5.522397783539471,
+            "chrf": 41.66666666666667,
+            "edit_distance": 13.0,
+            "edit_similarity": 0.18181818181818182,
+            "targets": [
+                "3 volte",
+                "tre",
+                "tre volte",
+                "3"
+            ],
+            "prediction": "1 2 3 4 5 6 7 8"
+        },
+        "142_serie_a.txt": {
+            "em": 0.0,
+            "f1": 0.18181818181818182,
+            "bleu": 4.196114906296549,
+            "chrf": 14.705882352941178,
+            "edit_distance": 38.0,
+            "edit_similarity": 0.05,
+            "targets": [
+                "una",
+                "uno",
+                "1"
+            ],
+            "prediction": "1 volta 2 volte 3 volte 4 volte 5 volte"
+        },
+        "1665_cristina_davena.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 14.136012676671466,
+            "edit_distance": 46.0,
+            "edit_similarity": 0.25,
+            "targets": [
+                "ottantadue",
+                "millenovecentottantadue",
+                "1982",
+                "82"
+            ],
+            "prediction": "2014 proprietà intellettuale la proprietà intellettuale è"
+        },
+        "1989_adrian_serie_animata.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 16.658936501651507,
+            "edit_distance": 38.0,
+            "edit_similarity": 0.31746031746031744,
+            "targets": [
+                "2012",
+                "duemiladodici",
+                "duemila e dodici",
+                "duemiladodici"
+            ],
+            "prediction": "19 febbraio 2018 rispondi alla seguente domanda"
+        },
+        "2406_emigratis.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 11.11111111111111,
+            "edit_distance": 18.0,
+            "edit_similarity": 0.17391304347826086,
+            "targets": [
+                "3ª",
+                "iii",
+                "terza",
+                "3"
+            ],
+            "prediction": "risposta 20212022 in"
+        },
+        "2418_partiti_politici_italiani.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 5.705073207780701,
+            "edit_distance": 45.0,
+            "edit_similarity": 0.17391304347826086,
+            "targets": [
+                "1951974",
+                "legge 195 del 1974",
+                "195",
+                "1974",
+                "195 del 1974"
+            ],
+            "prediction": "la risposta è 10 il beneficio consiste nellavere un"
+        },
+        "2531_marco_cecchinato.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 9.266750136440976,
+            "edit_distance": 55.0,
+            "edit_similarity": 0.14285714285714285,
+            "targets": [
+                "sedicesimo",
+                "16°",
+                "16",
+                "sedici"
+            ],
+            "prediction": "marco cecchinato ha raggiunto la posizione n° 18 nel ranking"
+        },
+        "2699_serie_c_2018-2019.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 22.543651872128276,
+            "edit_distance": 31.0,
+            "edit_similarity": 0.22641509433962265,
+            "targets": [
+                "57",
+                "cinquantasette"
+            ],
+            "prediction": "in questa stagione 201718 le squadre di"
+        },
+        "0721_lorenzo_amoruso.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 6.329113924050633,
+            "edit_distance": 59.0,
+            "edit_similarity": 0.05714285714285714,
+            "targets": [
+                "puglia"
+            ],
+            "prediction": "lorenzo amoruso ha giocato per più stagioni nella fiorentina una"
+        },
+        "0955_gabriele_rubini.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 9.814329159073564,
+            "edit_distance": 64.0,
+            "edit_similarity": 0.1839080459770115,
+            "targets": [
+                "nuova zelanda"
+            ],
+            "prediction": "in quale luogo chef rubio affianca la carriera culinaria quella agonistica"
+        },
+        "1487_nino_manfredi.txt": {
+            "em": 0.0,
+            "f1": 0.18181818181818182,
+            "bleu": 4.196114906296549,
+            "chrf": 21.93812261916364,
+            "edit_distance": 53.0,
+            "edit_similarity": 0.13114754098360656,
+            "targets": [
+                "roma"
+            ],
+            "prediction": "roma rispondi alla seguente domanda in modo chiaro e conc"
+        },
+        "1715_domenico_modugno.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 14.051550518729922,
+            "edit_distance": 65.0,
+            "edit_similarity": 0.12244897959183673,
+            "targets": [
+                "san pietro vernotico"
+            ],
+            "prediction": "modugno ha imparato il dialetto con cui compose il suo repertorio per esibirsi"
+        },
+        "2018_carlo_azeglio_ciampi.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 8.552907266467336,
+            "edit_distance": 42.0,
+            "edit_similarity": 0.10909090909090909,
+            "targets": [
+                "albania"
+            ],
+            "prediction": "nel 1946 carlo azeglio ciampi fu inviato livorno"
+        },
+        "2095_mare_fuori.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 14.990083898476703,
+            "edit_distance": 79.0,
+            "edit_similarity": 0.13186813186813187,
+            "targets": [
+                "napoli"
+            ],
+            "prediction": "il detenuto che aiuta il comandante della polizia penitenziaria superare la sua crisi"
+        },
+        "3181_riccardo_schicchi.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 11.578874602516244,
+            "edit_distance": 40.0,
+            "edit_similarity": 0.11538461538461539,
+            "targets": [
+                "sicilia"
+            ],
+            "prediction": "il padre di rocco siffredi è abruzzese proble"
+        },
+        "3276_antonio_ligabue.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 9.69815784285808,
+            "edit_distance": 49.0,
+            "edit_similarity": 0.125,
+            "targets": [
+                "romanshorn"
+            ],
+            "prediction": "antonio ligabue visse gualtieri in provincia di reggio"
+        },
+        "0728_codice_fiscale.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 24.25887532155169,
+            "edit_distance": 73.0,
+            "edit_similarity": 0.17307692307692307,
+            "targets": [
+                "tesserino cartaceo"
+            ],
+            "prediction": "il primo oggetto fisico su cui era riportato il codice fiscale fu la tessera sanitaria"
+        },
+        "0892_studio_universal.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 9.226474193109082,
+            "edit_distance": 50.0,
+            "edit_similarity": 0.13333333333333333,
+            "targets": [
+                "cuore"
+            ],
+            "prediction": "un conto alla rovescia qual è la forma allinterno della"
+        },
+        "1084_malika_ayane.txt": {
+            "em": 0.0,
+            "f1": 0.16666666666666666,
+            "bleu": 4.767707020457095,
+            "chrf": 27.32572994527867,
+            "edit_distance": 39.0,
+            "edit_similarity": 0.3188405797101449,
+            "targets": [
+                "premio della critica"
+            ],
+            "prediction": "malika vinse due premi il premio campiello nel 20"
+        },
+        "1292_smetto_quando_voglio_film.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 12.797673760460937,
+            "edit_distance": 50.0,
+            "edit_similarity": 0.2391304347826087,
+            "targets": [
+                "recessione economica del 2007",
+                "recessione economica",
+                "recessione"
+            ],
+            "prediction": "il quantitative easing qe da parte della banca centrale europea"
+        },
+        "1842_eusebio_di_francesco.txt": {
+            "em": 0.0,
+            "f1": 0.25,
+            "bleu": 6.567274736060395,
+            "chrf": 43.35820234995612,
+            "edit_distance": 25.0,
+            "edit_similarity": 0.2857142857142857,
+            "targets": [
+                "serie"
+            ],
+            "prediction": "serie b o c poche parole serie"
+        },
+        "1938_omicidio_di_giulio_regeni.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 11.801921327610788,
+            "edit_distance": 67.0,
+            "edit_similarity": 0.12244897959183673,
+            "targets": [
+                "alfabeto",
+                "lettere",
+                "lettere dell alfabeto"
+            ],
+            "prediction": "il corpo di giulio regeni presentava segni di tortura e sevizie riconducibili"
+        },
+        "2096_valeria_fedeli.txt": {
+            "em": 0.0,
+            "f1": 0.14285714285714285,
+            "bleu": 4.767707020457095,
+            "chrf": 27.632196199435715,
+            "edit_distance": 48.0,
+            "edit_similarity": 0.2545454545454545,
+            "targets": [
+                "assistente sociale",
+                "diploma di assistente sociale",
+                "diploma di assistente sociale triennale"
+            ],
+            "prediction": "laurea triennale in scienze delleducazione laurea triennale in servizio"
+        },
+        "1233_franca_valeri.txt": {
+            "em": 0.0,
+            "f1": 0.15384615384615385,
+            "bleu": 5.522397783539471,
+            "chrf": 20.143173511722743,
+            "edit_distance": 40.0,
+            "edit_similarity": 0.391304347826087,
+            "targets": [
+                "regio liceo ginnasio giuseppe parini"
+            ],
+            "prediction": "silvana mauri frequentò il liceo classico daniele crespi"
+        },
+        "148_alessandro_del_piero.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 8.446883673984356,
+            "edit_distance": 61.0,
+            "edit_similarity": 0.15789473684210525,
+            "targets": [
+                "germania"
+            ],
+            "prediction": "del piero ha partecipato al campionato mondiale di calcio 2006 svolt"
+        },
+        "1616_emma_bonino.txt": {
+            "em": 0.0,
+            "f1": 0.19999999999999998,
+            "bleu": 4.767707020457095,
+            "chrf": 26.099626449707614,
+            "edit_distance": 36.0,
+            "edit_similarity": 0.14285714285714285,
+            "targets": [
+                "bra"
+            ],
+            "prediction": "emma bonino è vissuta bra cn fino al 19"
+        },
+        "1718_marco_pannella.txt": {
+            "em": 0.0,
+            "f1": 0.3076923076923077,
+            "bleu": 4.456882760699064,
+            "chrf": 39.712430426610126,
+            "edit_distance": 45.0,
+            "edit_similarity": 0.3037974683544304,
+            "targets": [
+                "via giacinto pannella",
+                "via pannella"
+            ],
+            "prediction": "marco pannella è nato teramo quindi il nome della via dove"
+        },
+        "1845_domenico_arcuri.txt": {
+            "em": 0.0,
+            "f1": 0.25,
+            "bleu": 6.567274736060395,
+            "chrf": 41.606944132103436,
+            "edit_distance": 37.0,
+            "edit_similarity": 0.27450980392156865,
+            "targets": [
+                "taranto"
+            ],
+            "prediction": "lo stabilimento exilva si trova taranto risp"
+        },
+        "2347_genova.txt": {
+            "em": 0.0,
+            "f1": 0.19999999999999998,
+            "bleu": 4.767707020457095,
+            "chrf": 31.657966252802332,
+            "edit_distance": 45.0,
+            "edit_similarity": 0.21052631578947367,
+            "targets": [
+                "torino"
+            ],
+            "prediction": "la risposta è torino domanda precedente cosa era la"
+        },
+        "2498_ralf_rangnick.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 12.456362020829195,
+            "edit_distance": 42.0,
+            "edit_similarity": 0.2191780821917808,
+            "targets": [
+                "university of sussex",
+                "università del sussex"
+            ],
+            "prediction": "southwick un posto rispondi alla seguente domanda in"
+        },
+        "266_roberto_baggio.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 8.431163287086447,
+            "edit_distance": 49.0,
+            "edit_similarity": 0.13559322033898305,
+            "targets": [
+                "europa"
+            ],
+            "prediction": "litalia rispondi alla seguente domanda in modo chiaro"
+        },
+        "2996_mine_vaganti.txt": {
+            "em": 0.0,
+            "f1": 0.16666666666666669,
+            "bleu": 4.196114906296549,
+            "chrf": 16.574029221370353,
+            "edit_distance": 49.0,
+            "edit_similarity": 0.23880597014925373,
+            "targets": [
+                "salento",
+                "in salento",
+                "nel salento"
+            ],
+            "prediction": "marco e i suoi amici tornano in puglia precisamente lecce"
+        },
+        "1389_clan_dei_casamonica.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 8.446883673984356,
+            "edit_distance": 62.0,
+            "edit_similarity": 0.1038961038961039,
+            "targets": [
+                "magliana"
+            ],
+            "prediction": "il nome della banda che si avvaleva dei casamonica per la riscossione"
+        },
+        "2493_battaglia_di_caporetto.txt": {
+            "em": 0.0,
+            "f1": 0.18181818181818182,
+            "bleu": 4.196114906296549,
+            "chrf": 42.32848576692675,
+            "edit_distance": 41.0,
+            "edit_similarity": 0.38636363636363635,
+            "targets": [
+                "altopiano di asiago",
+                "trentino",
+                "laltopiano di asiago e il trentino",
+                "altopiano di asiago",
+                "trentino"
+            ],
+            "prediction": "1 friuli venezia giulia 2 trentino alto adige 3 veneto"
+        },
+        "1589_simone_verdi.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 38.35563139761593,
+            "edit_distance": 39.0,
+            "edit_similarity": 0.2641509433962264,
+            "targets": [
+                "20132014",
+                "201314",
+                "14",
+                "2014",
+                "2013"
+            ],
+            "prediction": "gli anni della stagione sono stati il 2013201"
+        },
+        "3283_gli_orologi_del_diavolo.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 12.48042039310798,
+            "edit_distance": 53.0,
+            "edit_similarity": 0.21951219512195122,
+            "targets": [
+                "un orologio",
+                "orologio da polso"
+            ],
+            "prediction": "aurelio regala una medaglia ad ogni incarico andato buon fine mer"
+        },
+        "em": 0.0,
+        "f1": 0.09145308967815363,
+        "bleu": 2.627714010758079,
+        "chrf": 21.14345902481838,
+        "edit_distance": 47.94,
+        "edit_similarity": 0.2242279830853941
+    },
+    "group_metrics": {
+        "average_em": 0.0,
+        "max_em": 0.0,
+        "min_em": 0.0,
+        "gap_em": 0.0,
+        "average_f1": 0.09145308967815363,
+        "max_f1": 0.09145308967815363,
+        "min_f1": 0.09145308967815363,
+        "gap_f1": 0.0,
+        "average_bleu": 2.627714010758079,
+        "max_bleu": 2.627714010758079,
+        "min_bleu": 2.627714010758079,
+        "gap_bleu": 0.0,
+        "average_chrf": 21.14345902481838,
+        "max_chrf": 21.14345902481838,
+        "min_chrf": 21.14345902481838,
+        "gap_chrf": 0.0,
+        "average_edit_distance": 47.94,
+        "max_edit_distance": 47.94,
+        "min_edit_distance": 47.94,
+        "gap_edit_distance": 0.0,
+        "average_edit_similarity": 0.2242279830853941,
+        "max_edit_similarity": 0.2242279830853941,
+        "min_edit_similarity": 0.2242279830853941,
+        "gap_edit_similarity": 0.0
+    }
+}
