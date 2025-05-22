@@ -2,10 +2,16 @@ import json
 import os
 from vllm import LLM
 from vllm.sampling_params import SamplingParams
+from transformers import AutoTokenizer
 
-MODEL = "sapienzanlp/Minerva-7B-instruct-v1.0"
-# MODEL = "sapienzanlp/Minerva-7B-instruct-v1.0"
-# MODEL = "sapienzanlp/Minerva-3B-base-v1.0"
+tokenizer = AutoTokenizer.from_pretrained("Qwen/Qwen3-8B")
+
+MODEL_LIST = [ 
+    # "meta-llama/Meta-Llama-3-8B-Instruct",
+    "Qwen/Qwen3-8B",
+    # "mistralai/Mistral-7B-Instruct-v0.3",
+    # "sapienzanlp/Minerva-7B-instruct-v1.0", 
+ ]
 
 sampling_params = SamplingParams(max_tokens=1024)
 
@@ -37,8 +43,25 @@ def generate_response(data_dict, output_file, llm):
         for entry_id, entry in data_dict.items():
             question = entry['question']
             output_type = entry['output_type']
-            massages = f"Rispondi alla seguente domanda in modo chiaro e conciso: {question} Produci solo risposte del seguente tipo: {output_type}."
-            response = llm.generate(massages)
+            # massages = f"Rispondi alla seguente domanda in modo chiaro e conciso: {question} Produci solo risposte del seguente tipo: {output_type}."
+            messages = [{
+                "role": "system",
+                "content": "Rispondi alla seguente domanda in modo chiaro e conciso"
+            }]
+            user = f"""D: {question} Produci solo risposte del seguente tipo: {output_type}./n R:"""
+            messages.append({
+                "role": "user",
+                "content": user
+            })
+            text = tokenizer.apply_chat_template(
+                messages,
+                tokenize=False,
+                add_generation_prompt=True,
+                enable_thinking=False,  # Set to False to strictly disable thinking
+            )
+            response = llm.generate([text])
+            # response = llm.chat(messages)
+            # response = llm.generate(massages)
             response_text = response[0].outputs[0].text
 
             # Save the response to the file
@@ -48,7 +71,7 @@ def generate_response(data_dict, output_file, llm):
                 "response": response_text,
                 "targets": entry['targets'],
                 "output_type": output_type,
-                "massages": massages,
+                "massages": messages,
             }
             file.write(json.dumps(output_entry, ensure_ascii=False) + '\n')
 
@@ -79,40 +102,42 @@ def prepare_eval(path, output_eval_path):
             eval_file.write(json.dumps(eval_entry, ensure_ascii=False) + '\n')
 
 if __name__ == "__main__":
-    model_f = MODEL.split("/")[0]
-    model_name = MODEL.split("/")[1]
-    output_file = os.path.join(
-        "model_output", 
-        model_f, 
-        model_name,
-        "dev.jsonl"
-    )
-    output_dir = os.path.dirname(output_file)
-    if not os.path.exists(output_dir):
-        os.makedirs(output_dir)
+    for MODEL in MODEL_LIST:
+        print(f"Running evaluation for model: {MODEL}")
+        model_f = MODEL.split("/")[0]
+        model_name = MODEL.split("/")[1]
+        output_file = os.path.join(
+            "model_output", 
+            model_f, 
+            model_name,
+            "dev.jsonl"
+        )
+        output_dir = os.path.dirname(output_file)
+        if not os.path.exists(output_dir):
+            os.makedirs(output_dir)
 
-    output_eval_path = os.path.join(
-        "model_output", 
-        model_f, 
-        model_name,
-        "evaluate.jsonl"
-    )
+        output_eval_path = os.path.join(
+            "model_output", 
+            model_f, 
+            model_name,
+            "evaluate.jsonl"
+        )
 
 
-    # llm = LLM(model=MODEL,device="cuda")
-    model = LLM(
-        model=MODEL,
-        tensor_parallel_size=1,  # Adjust based on GPU count
-        gpu_memory_utilization=0.8,  # Lower if OOM errors
-        max_model_len=8192  # Can be adjusted based on needs
-    )
+        # llm = LLM(model=MODEL,device="cuda")
+        model = LLM(
+            model=MODEL,
+            tensor_parallel_size=1,  # Adjust based on GPU count
+            gpu_memory_utilization=0.8,  # Lower if OOM errors
+            max_model_len=4096  # Can be adjusted based on needs
+        )
 
-    data_dict = data_loader(DATA_DIR)
-    # Generate responses and save to output file
-    generate_response(data_dict, output_file, model)
-    
-    # Prepare evaluation data and save to output eval path
-    prepare_eval(output_file, output_eval_path)
-    
-    print(f"Responses saved to {output_file}")
-    print(f"Evaluation data saved to {output_eval_path}")
+        data_dict = data_loader(DATA_DIR)
+        # Generate responses and save to output file
+        generate_response(data_dict, output_file, model)
+        
+        # Prepare evaluation data and save to output eval path
+        prepare_eval(output_file, output_eval_path)
+        
+        print(f"Responses saved to {output_file}")
+        print(f"Evaluation data saved to {output_eval_path}")

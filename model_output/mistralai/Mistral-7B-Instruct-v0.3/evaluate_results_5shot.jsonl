@@ -2,54 +2,54 @@
     "italian": {
         "004_tg_norba_24.txt": {
             "em": 0.0,
-            "f1": 0,
-            "bleu": 0.0,
-            "chrf": 13.043647124681627,
-            "edit_distance": 39.0,
-            "edit_similarity": 0.14457831325301204,
+            "f1": 0.6666666666666666,
+            "bleu": 55.03212081491043,
+            "chrf": 80.42411292411292,
+            "edit_distance": 2.0,
+            "edit_similarity": 0.8666666666666667,
             "targets": [
                 "20101025",
                 "venticinque ottobre duemiladieci",
                 "25 ottobre 2010",
                 "25102010"
             ],
-            "prediction": "la data di lancio non è stata fornita dalla domanda"
+            "prediction": "19 ottobre 2010"
         },
         "0499_regno_ditalia_1861-1946.txt": {
-            "em": 0.0,
-            "f1": 0.2857142857142857,
-            "bleu": 8.116697886877475,
-            "chrf": 37.93018682399214,
-            "edit_distance": 24.0,
-            "edit_similarity": 0.25,
+            "em": 1.0,
+            "f1": 1.0,
+            "bleu": 100.00000000000004,
+            "chrf": 100.0,
+            "edit_distance": 0.0,
+            "edit_similarity": 1.0,
             "targets": [
                 "1946",
                 "millenovecentoquarantasei",
                 "mille novecento quarantasei"
             ],
-            "prediction": "18 giugno 1946 il giorno dell"
+            "prediction": "1946"
         },
         "0821_gué_pequeno.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 14.972952086553324,
-            "edit_distance": 11.0,
-            "edit_similarity": 0.23529411764705882,
+            "chrf": 17.017326732673265,
+            "edit_distance": 7.0,
+            "edit_similarity": 0.3076923076923077,
             "targets": [
                 "2011",
                 "duemilaundici",
                 "duemila e undici"
             ],
-            "prediction": "20220603 d qu"
+            "prediction": "anno 2020"
         },
         "1036_strage_di_capaci.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 14.804971468771985,
+            "chrf": 18.712121212121215,
             "edit_distance": 7.0,
-            "edit_similarity": 0.5925925925925926,
+            "edit_similarity": 0.5714285714285714,
             "targets": [
                 "23051992",
                 "19920523",
@@ -57,15 +57,15 @@
                 "23051992",
                 "05231992"
             ],
-            "prediction": "3 agosto 1978"
+            "prediction": "22 giugno 1963"
         },
         "1628_alessandra_amoroso.txt": {
             "em": 0.0,
             "f1": 0.5,
             "bleu": 27.516060407455225,
-            "chrf": 54.54012200844674,
-            "edit_distance": 9.0,
-            "edit_similarity": 0.5333333333333333,
+            "chrf": 62.837498430239854,
+            "edit_distance": 6.0,
+            "edit_similarity": 0.6666666666666666,
             "targets": [
                 "22",
                 "ventidue giugno duemilanove",
@@ -78,29 +78,29 @@
                 "22062009",
                 "22 giugno 2009"
             ],
-            "prediction": "1516 agosto 2009"
+            "prediction": "3 luglio 2009"
         },
         "2251_elio_germano.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 11.936453413482182,
-            "edit_distance": 29.0,
-            "edit_similarity": 0.25,
+            "chrf": 0.0,
+            "edit_distance": 4.0,
+            "edit_similarity": 0.0,
             "targets": [
                 "millenovecentonovantasette",
                 "1997",
                 "mille novecento novantasette"
             ],
-            "prediction": "2017 d quando è il natale commercial"
+            "prediction": "2000"
         },
         "236_don_matteo.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 21.384433262568184,
-            "edit_distance": 21.0,
-            "edit_similarity": 0.37735849056603776,
+            "chrf": 17.709503145008448,
+            "edit_distance": 14.0,
+            "edit_similarity": 0.3157894736842105,
             "targets": [
                 "7 gennaio 2000",
                 "712000",
@@ -108,97 +108,97 @@
                 "20000107",
                 "sette gennaio duemila"
             ],
-            "prediction": "6 settembre 1999 d quale opera d"
+            "prediction": "11 settembre 1998"
         },
         "011_iris_rete_televisiva.txt": {
             "em": 0.0,
-            "f1": 0.33333333333333337,
-            "bleu": 8.392229812593097,
-            "chrf": 39.8892330757667,
+            "f1": 0.2,
+            "bleu": 5.522397783539471,
+            "chrf": 23.988868184694333,
             "edit_distance": 30.0,
-            "edit_similarity": 0.2857142857142857,
+            "edit_similarity": 0.24390243902439024,
             "targets": [
                 "8",
                 "otto",
                 "8 anni",
                 "otto anni"
             ],
-            "prediction": "8 anni d quale è il paese con la mag"
+            "prediction": "cinque anni e nove mesi dal 2011 al"
         },
         "047_matteo_salvini.txt": {
-            "em": 1.0,
-            "f1": 1.0,
-            "bleu": 100.00000000000004,
-            "chrf": 100.0,
-            "edit_distance": 0.0,
-            "edit_similarity": 1.0,
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 36.317567567567565,
+            "edit_distance": 15.0,
+            "edit_similarity": 0.21428571428571427,
             "targets": [
                 "diciannove",
                 "19",
                 "diciannove anni",
                 "19 anni"
             ],
-            "prediction": "19 anni"
+            "prediction": "una volta nel 1998"
         },
         "085_mario_balotelli.txt": {
             "em": 0.0,
-            "f1": 0.2,
-            "bleu": 5.522397783539471,
-            "chrf": 19.34369310691464,
-            "edit_distance": 38.0,
-            "edit_similarity": 0.19607843137254902,
+            "f1": 0.4,
+            "bleu": 6.567274736060396,
+            "chrf": 21.9351859293858,
+            "edit_distance": 37.0,
+            "edit_similarity": 0.20408163265306123,
             "targets": [
                 "2",
                 "2 anni",
                 "due anni",
                 "due"
             ],
-            "prediction": "5 anni rispondi alla seguente domanda in modo"
+            "prediction": "5 anni balotelli debuttò in nazionale nel 2"
         },
         "128_ezio_bosso.txt": {
             "em": 0.0,
             "f1": 0.2,
             "bleu": 5.522397783539471,
-            "chrf": 17.075540391938077,
-            "edit_distance": 38.0,
-            "edit_similarity": 0.19607843137254902,
+            "chrf": 38.94164062597227,
+            "edit_distance": 25.0,
+            "edit_similarity": 0.425531914893617,
             "targets": [
                 "12",
                 "dodici anni",
                 "12 anni",
                 "dodici"
             ],
-            "prediction": "30 anni d quante squadre sono nel campionato"
+            "prediction": "un periodo di tempo di circa 20 anni"
         },
         "132_società_sportiva_calcio_napoli.txt": {
             "em": 0.0,
             "f1": 0.22222222222222224,
             "bleu": 6.567274736060395,
-            "chrf": 18.33982134642726,
-            "edit_distance": 33.0,
-            "edit_similarity": 0.20833333333333334,
+            "chrf": 19.839899487149342,
+            "edit_distance": 22.0,
+            "edit_similarity": 0.3404255319148936,
             "targets": [
                 "ventiquattro anni",
                 "24",
                 "24 anni",
                 "ventiquattro"
             ],
-            "prediction": "16 anni rispondi alla seguente domanda in"
+            "prediction": "un periodo di tempo di 13 anni"
         },
         "190_premium_cinema.txt": {
             "em": 0.0,
-            "f1": 0.16666666666666669,
-            "bleu": 4.196114906296549,
-            "chrf": 19.929418608303983,
-            "edit_distance": 40.0,
-            "edit_similarity": 0.2222222222222222,
+            "f1": 0.5,
+            "bleu": 49.99999999999999,
+            "chrf": 37.77777777777778,
+            "edit_distance": 1.0,
+            "edit_similarity": 0.8571428571428571,
             "targets": [
                 "undici",
                 "undici anni",
                 "11 anni",
                 "11"
             ],
-            "prediction": "4 anni d quando è stato pubblicato il primo sing"
+            "prediction": "12 anni"
         },
         "215_michelle_hunziker.txt": {
             "em": 0.0,
@@ -217,179 +217,179 @@
         },
         "233_alessandro_manzoni.txt": {
             "em": 0.0,
-            "f1": 0.2,
-            "bleu": 5.522397783539471,
-            "chrf": 17.72631694230629,
-            "edit_distance": 31.0,
-            "edit_similarity": 0.23255813953488372,
+            "f1": 0.5,
+            "bleu": 49.99999999999999,
+            "chrf": 35.0,
+            "edit_distance": 2.0,
+            "edit_similarity": 0.7142857142857143,
             "targets": [
                 "88 anni",
                 "ottantotto anni",
                 "ottantotto",
                 "88"
             ],
-            "prediction": "75 anni d quale è il capoluogo della"
+            "prediction": "75 anni"
         },
         "237_manuel_agnelli.txt": {
             "em": 0.0,
-            "f1": 0.5,
-            "bleu": 49.99999999999999,
-            "chrf": 40.623147802266224,
-            "edit_distance": 7.0,
-            "edit_similarity": 0.5833333333333334,
+            "f1": 0.1818181818181818,
+            "bleu": 4.767707020457095,
+            "chrf": 25.852401921176497,
+            "edit_distance": 28.0,
+            "edit_similarity": 0.26666666666666666,
             "targets": [
                 "quattro anni",
                 "4",
                 "quattro",
                 "4 anni"
             ],
-            "prediction": "tredici anni"
+            "prediction": "due anni e sei mesi dal 2018 al 2"
         },
         "014_canale_5.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 12.5,
-            "edit_distance": 4.0,
-            "edit_similarity": 0.25,
+            "chrf": 20.833333333333332,
+            "edit_distance": 2.0,
+            "edit_similarity": 0.5,
             "targets": [
                 "millenovecentoottanta",
                 "1980",
                 "millenovecentottanta"
             ],
-            "prediction": "2014"
+            "prediction": "1992"
         },
         "231_presidente_della_repubblica_italiana.txt": {
-            "em": 0.0,
-            "f1": 0.2857142857142857,
-            "bleu": 8.116697886877475,
-            "chrf": 48.19772820170816,
-            "edit_distance": 18.0,
-            "edit_similarity": 0.3076923076923077,
+            "em": 1.0,
+            "f1": 1.0,
+            "bleu": 100.00000000000004,
+            "chrf": 100.0,
+            "edit_distance": 0.0,
+            "edit_similarity": 1.0,
             "targets": [
                 "2022",
                 "duemila e ventidue",
                 "duemilaventidue"
             ],
-            "prediction": "2022 d che è lultima j"
+            "prediction": "2022"
         },
         "037_gomorra_-_la_serie.txt": {
             "em": 0.0,
-            "f1": 0.2222222222222222,
-            "bleu": 5.522397783539471,
-            "chrf": 12.5,
-            "edit_distance": 37.0,
-            "edit_similarity": 0.23076923076923078,
+            "f1": 0.4444444444444445,
+            "bleu": 13.134549472120794,
+            "chrf": 36.046592275788264,
+            "edit_distance": 31.0,
+            "edit_similarity": 0.27906976744186046,
             "targets": [
                 "8",
                 "otto",
                 "8 anni",
                 "otto anni"
             ],
-            "prediction": "8 rispondi alla seguente domanda in modo ch"
+            "prediction": "8 anni prima stagione del 2008 ultima"
         },
         "066_mia_martini.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 13.279453724479904,
-            "edit_distance": 31.0,
-            "edit_similarity": 0.2553191489361702,
+            "chrf": 0.0,
+            "edit_distance": 2.0,
+            "edit_similarity": 0.0,
             "targets": [
                 "20 anni",
                 "venti",
                 "20",
                 "venti anni"
             ],
-            "prediction": "11 d in qual anno è stato prodotto il"
+            "prediction": "34"
         },
         "0673_daniele_de_rossi.txt": {
             "em": 0.0,
-            "f1": 0.2222222222222222,
-            "bleu": 5.522397783539471,
-            "chrf": 12.5,
-            "edit_distance": 37.0,
-            "edit_similarity": 0.19230769230769232,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 7.458123674624462,
+            "edit_distance": 52.0,
+            "edit_similarity": 0.11940298507462686,
             "targets": [
                 "1 volta",
                 "una",
                 "una volta",
                 "1"
             ],
-            "prediction": "1 rispondi alla seguente domanda in modo ch"
+            "prediction": "daniele de rossi non è mai stato campione del mondo con la"
         },
         "1244_antonella_elia.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 6.613756613756613,
-            "edit_distance": 38.0,
-            "edit_similarity": 0.08333333333333333,
+            "chrf": 11.904761904761905,
+            "edit_distance": 41.0,
+            "edit_similarity": 0.11538461538461539,
             "targets": [
                 "4",
                 "quattro"
             ],
-            "prediction": "18 rispondi alla seguente domanda in modo"
+            "prediction": "antonella elia ha partecipato 14 volte la cor"
         },
         "125_adriano_celentano.txt": {
             "em": 0.0,
-            "f1": 0,
-            "bleu": 0.0,
-            "chrf": 12.869263099582112,
-            "edit_distance": 32.0,
-            "edit_similarity": 0.22950819672131148,
+            "f1": 0.22222222222222224,
+            "bleu": 6.567274736060395,
+            "chrf": 19.377673740720546,
+            "edit_distance": 24.0,
+            "edit_similarity": 0.2631578947368421,
             "targets": [
                 "settantaquattro anni",
                 "74",
                 "settantaquattro",
                 "74 anni"
             ],
-            "prediction": "39 rispondi alla seguente domanda in modo"
+            "prediction": "30 anni anno di nascita di adri"
         },
         "133_rai_movie.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 15.357142857142858,
-            "edit_distance": 35.0,
-            "edit_similarity": 0.16,
+            "chrf": 10.638297872340425,
+            "edit_distance": 37.0,
+            "edit_similarity": 0.08163265306122448,
             "targets": [
                 "3 volte",
                 "tre",
                 "tre volte",
                 "3"
             ],
-            "prediction": "2 d quale città era la capitale del regno"
+            "prediction": "5 era stato chiamato rai uno cinema cinema"
         },
         "136_totò.txt": {
-            "em": 0.0,
-            "f1": 0,
-            "bleu": 0.0,
-            "chrf": 15.38038796304548,
-            "edit_distance": 28.0,
-            "edit_similarity": 0.2608695652173913,
+            "em": 1.0,
+            "f1": 1.0,
+            "bleu": 100.00000000000004,
+            "chrf": 100.0,
+            "edit_distance": 0.0,
+            "edit_similarity": 1.0,
             "targets": [
                 "diciassette anni",
                 "diciassette",
                 "17 anni",
                 "17"
             ],
-            "prediction": "27 d come si chiama il grande poeta"
+            "prediction": "17"
         },
         "141_antonino_cannavacciuolo.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 9.083698443873697,
-            "edit_distance": 25.0,
-            "edit_similarity": 0.2702702702702703,
+            "chrf": 0.0,
+            "edit_distance": 2.0,
+            "edit_similarity": 0.0,
             "targets": [
                 "28 anni",
                 "ventotto anni",
                 "28",
                 "ventotto"
             ],
-            "prediction": "32 d quando si gioca il giro d"
+            "prediction": "51"
         },
         "159_beatrice_vio.txt": {
             "em": 0.0,
@@ -404,59 +404,59 @@
                 "tredici",
                 "13 anni"
             ],
-            "prediction": "17"
+            "prediction": "19"
         },
         "1854_mino_raiola.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 11.111111111111112,
-            "edit_distance": 34.0,
-            "edit_similarity": 0.0975609756097561,
+            "chrf": 15.048154351192958,
+            "edit_distance": 39.0,
+            "edit_similarity": 0.12244897959183673,
             "targets": [
                 "0",
                 "nessuno",
                 "zero"
             ],
-            "prediction": "3 d quale è la zona geografica in cui"
+            "prediction": "non si conoscene un numero esatto mino raiola"
         },
         "192_achille_lauro_rapper.txt": {
             "em": 0.0,
-            "f1": 0,
-            "bleu": 0.0,
-            "chrf": 16.919232509521972,
-            "edit_distance": 31.0,
-            "edit_similarity": 0.2857142857142857,
+            "f1": 0.5,
+            "bleu": 49.99999999999999,
+            "chrf": 35.0,
+            "edit_distance": 2.0,
+            "edit_similarity": 0.7142857142857143,
             "targets": [
                 "27 anni",
                 "ventisette",
                 "ventisette anni",
                 "27"
             ],
-            "prediction": "43 rispondi alla seguente domanda in modo"
+            "prediction": "34 anni"
         },
         "195_ermal_meta.txt": {
             "em": 0.0,
-            "f1": 0.25,
-            "bleu": 6.567274736060395,
-            "chrf": 15.151515151515152,
-            "edit_distance": 29.0,
-            "edit_similarity": 0.19047619047619047,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 0.0,
+            "edit_distance": 1.0,
+            "edit_similarity": 0.0,
             "targets": [
                 "2",
                 "due",
                 "2 volte",
                 "due volte"
             ],
-            "prediction": "2 d in quanti campionati inglesi ha"
+            "prediction": "4"
         },
         "238_sergio_mattarella.txt": {
             "em": 0.0,
-            "f1": 0,
-            "bleu": 0.0,
-            "chrf": 25.0,
+            "f1": 0.5,
+            "bleu": 49.99999999999999,
+            "chrf": 37.77777777777778,
             "edit_distance": 1.0,
-            "edit_similarity": 0.5,
+            "edit_similarity": 0.8571428571428571,
             "targets": [
                 "settantatré anni",
                 "73 anni",
@@ -465,15 +465,15 @@
                 "settantatre anni",
                 "settantatré"
             ],
-            "prediction": "75"
+            "prediction": "75 anni"
         },
         "240_pier_paolo_pasolini.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 10.301037839231613,
-            "edit_distance": 32.0,
-            "edit_similarity": 0.22580645161290322,
+            "chrf": 14.338885519314767,
+            "edit_distance": 25.0,
+            "edit_similarity": 0.32142857142857145,
             "targets": [
                 "sette trasferimenti di città",
                 "sette trasferimenti",
@@ -482,60 +482,60 @@
                 "7 trasferimenti di città",
                 "7"
             ],
-            "prediction": "11 d in che anno è stato pubblicato il"
+            "prediction": "5 bologna ferrara ravenna casars"
         },
         "241_mostro_di_firenze.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 10.907836644591612,
-            "edit_distance": 33.0,
-            "edit_similarity": 0.18867924528301888,
+            "chrf": 34.22246445649936,
+            "edit_distance": 30.0,
+            "edit_similarity": 0.3333333333333333,
             "targets": [
                 "sedici vittime",
                 "16",
                 "16 vittime",
                 "sedici"
             ],
-            "prediction": "25 d quando viene ricordato san lorenzo"
+            "prediction": "3n la vittima ufficiale del cosiddetto"
         },
         "254_anniversario_della_liberazione_ditalia.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 10.620890846069397,
-            "edit_distance": 35.0,
-            "edit_similarity": 0.2641509433962264,
+            "chrf": 0.0,
+            "edit_distance": 2.0,
+            "edit_similarity": 0.0,
             "targets": [
                 "quattro anni",
                 "4",
                 "quattro",
                 "4 anni"
             ],
-            "prediction": "15 rispondi alla seguente domanda in modo"
+            "prediction": "69"
         },
         "255_tommaso_buscetta.txt": {
-            "em": 1.0,
-            "f1": 1.0,
-            "bleu": 100.00000000000004,
-            "chrf": 100.0,
-            "edit_distance": 0.0,
-            "edit_similarity": 1.0,
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 0.0,
+            "edit_distance": 1.0,
+            "edit_similarity": 0.0,
             "targets": [
                 "3 mogli",
                 "tre",
                 "tre mogli",
                 "3"
             ],
-            "prediction": "3"
+            "prediction": "4"
         },
         "040_fabrizio_de_andré.txt": {
             "em": 0.0,
-            "f1": 0.5,
-            "bleu": 49.99999999999999,
-            "chrf": 35.0,
-            "edit_distance": 2.0,
-            "edit_similarity": 0.7142857142857143,
+            "f1": 0.4,
+            "bleu": 27.516060407455225,
+            "chrf": 49.276125991693405,
+            "edit_distance": 6.0,
+            "edit_similarity": 0.631578947368421,
             "targets": [
                 "cinquantasette anni",
                 "57",
@@ -543,54 +543,9 @@
                 "per quale brano fabrizio cristiano de andré vinse un premio alletà di cinquantasette anni",
                 "57 anni"
             ],
-            "prediction": "23 anni"
+            "prediction": "47 anni 1984"
         },
         "060_chiara_ferragni.txt": {
-            "em": 0.0,
-            "f1": 0.2,
-            "bleu": 5.522397783539471,
-            "chrf": 21.28355667082213,
-            "edit_distance": 35.0,
-            "edit_similarity": 0.19230769230769232,
-            "targets": [
-                "27 anni",
-                "ventisette",
-                "ventisette anni",
-                "27"
-            ],
-            "prediction": "8 anni rispondi alla seguente domanda in modo"
-        },
-        "061_luigi_di_maio.txt": {
-            "em": 0.0,
-            "f1": 0.22222222222222224,
-            "bleu": 6.567274736060395,
-            "chrf": 22.01746382428265,
-            "edit_distance": 31.0,
-            "edit_similarity": 0.20833333333333334,
-            "targets": [
-                "27 anni",
-                "ventisette",
-                "ventisette anni",
-                "27"
-            ],
-            "prediction": "34 anni rispondi alla seguente domanda in"
-        },
-        "081_fedez.txt": {
-            "em": 0.0,
-            "f1": 0.22222222222222224,
-            "bleu": 6.567274736060395,
-            "chrf": 18.9129516321703,
-            "edit_distance": 30.0,
-            "edit_similarity": 0.27906976744186046,
-            "targets": [
-                "23 anni",
-                "ventitré",
-                "23",
-                "ventitré anni"
-            ],
-            "prediction": "22 anni d quali edizioni ha partecip"
-        },
-        "101_lucio_battisti.txt": {
             "em": 0.0,
             "f1": 0.5,
             "bleu": 49.99999999999999,
@@ -598,84 +553,129 @@
             "edit_distance": 1.0,
             "edit_similarity": 0.8571428571428571,
             "targets": [
-                "diciannove",
-                "19",
-                "diciannove anni",
-                "19 anni"
+                "27 anni",
+                "ventisette",
+                "ventisette anni",
+                "27"
             ],
-            "prediction": "18 anni"
+            "prediction": "22 anni"
         },
-        "208_elettra_lamborghini.txt": {
+        "061_luigi_di_maio.txt": {
             "em": 0.0,
-            "f1": 0,
-            "bleu": 0.0,
-            "chrf": 6.862745098039215,
-            "edit_distance": 30.0,
-            "edit_similarity": 0.17777777777777778,
+            "f1": 0.5,
+            "bleu": 49.99999999999999,
+            "chrf": 35.0,
+            "edit_distance": 2.0,
+            "edit_similarity": 0.7142857142857143,
             "targets": [
                 "27 anni",
                 "ventisette",
                 "ventisette anni",
                 "27"
             ],
-            "prediction": "14 d quale è la capitale geografica"
+            "prediction": "36 anni"
+        },
+        "081_fedez.txt": {
+            "em": 0.0,
+            "f1": 0.5,
+            "bleu": 49.99999999999999,
+            "chrf": 37.77777777777778,
+            "edit_distance": 1.0,
+            "edit_similarity": 0.8571428571428571,
+            "targets": [
+                "23 anni",
+                "ventitré",
+                "23",
+                "ventitré anni"
+            ],
+            "prediction": "24 anni"
+        },
+        "101_lucio_battisti.txt": {
+            "em": 0.0,
+            "f1": 0.16666666666666669,
+            "bleu": 4.196114906296549,
+            "chrf": 18.26489735725395,
+            "edit_distance": 51.0,
+            "edit_similarity": 0.2631578947368421,
+            "targets": [
+                "diciannove",
+                "19",
+                "diciannove anni",
+                "19 anni"
+            ],
+            "prediction": "lucio battisti aveva 23 anni al momento del conseguimento del"
+        },
+        "208_elettra_lamborghini.txt": {
+            "em": 0.0,
+            "f1": 0.2,
+            "bleu": 5.522397783539471,
+            "chrf": 19.26700834974089,
+            "edit_distance": 45.0,
+            "edit_similarity": 0.2898550724637681,
+            "targets": [
+                "27 anni",
+                "ventisette",
+                "ventisette anni",
+                "27"
+            ],
+            "prediction": "elettra lamborghini aveva 15 anni quando ha pubblicato"
         },
         "253_claudio_baglioni.txt": {
             "em": 0.0,
-            "f1": 0,
-            "bleu": 0.0,
-            "chrf": 10.179820367141062,
-            "edit_distance": 23.0,
-            "edit_similarity": 0.34782608695652173,
+            "f1": 0.5,
+            "bleu": 49.99999999999999,
+            "chrf": 35.0,
+            "edit_distance": 2.0,
+            "edit_similarity": 0.7142857142857143,
             "targets": [
                 "trentaquattro",
                 "34 anni",
                 "34",
                 "trentaquattro anni"
             ],
-            "prediction": "35 d chiamare il balletto fa"
+            "prediction": "25 anni"
         },
         "278_maria_de_filippi.txt": {
             "em": 0.0,
-            "f1": 0,
-            "bleu": 0.0,
-            "chrf": 16.313470901632616,
-            "edit_distance": 32.0,
-            "edit_similarity": 0.3103448275862069,
+            "f1": 0.5,
+            "bleu": 49.99999999999999,
+            "chrf": 37.77777777777778,
+            "edit_distance": 2.0,
+            "edit_similarity": 0.8571428571428571,
             "targets": [
                 "35 anni",
                 "trentacinque anni",
                 "trentacinque",
                 "35"
             ],
-            "prediction": "36 rispondi alla seguente domanda in modo"
+            "prediction": "50 anni"
         },
         "0454_emma_marrone.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 8.960573476702509,
-            "edit_distance": 32.0,
-            "edit_similarity": 0.24561403508771928,
+            "chrf": 3.787878787878788,
+            "edit_distance": 15.0,
+            "edit_similarity": 0.17391304347826086,
             "targets": [
                 "world music award",
                 "world music award world music awards",
                 "world music awards"
             ],
-            "prediction": "grammy d in quale film danimazione del 2"
+            "prediction": "grammy"
         },
         "0767_gradi_e_qualifiche_dellarma_dei_carabinieri.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 15.841031677992243,
-            "edit_distance": 38.0,
-            "edit_similarity": 0.24561403508771928,
+            "chrf": 15.371456500488758,
+            "edit_distance": 10.0,
+            "edit_similarity": 0.48,
             "targets": [
                 "secondo",
                 "il secondo"
             ],
-            "prediction": "primo rispondi alla seguente domanda in modo ch"
+            "prediction": "primo selezione"
         },
         "1124_strage_di_bologna.txt": {
             "em": 1.0,
@@ -690,116 +690,80 @@
             "prediction": "sì"
         },
         "1457_cassa_integrazione_guadagni.txt": {
-            "em": 1.0,
-            "f1": 1.0,
-            "bleu": 100.00000000000004,
-            "chrf": 100.0,
-            "edit_distance": 0.0,
-            "edit_similarity": 1.0,
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 78.12499999999999,
+            "edit_distance": 2.0,
+            "edit_similarity": 0.6666666666666666,
             "targets": [
                 "sì"
             ],
-            "prediction": "sì"
+            "prediction": "sìno"
         },
         "1546_attilio_fontana_politico.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 16.511387404149065,
-            "edit_distance": 36.0,
-            "edit_similarity": 0.2807017543859649,
+            "chrf": 19.17305212174879,
+            "edit_distance": 5.0,
+            "edit_similarity": 0.6956521739130435,
             "targets": [
                 "conciliatore"
             ],
-            "prediction": "consigliere rispondi alla seguente domanda in"
+            "prediction": "consigliere"
         },
         "1588_leonardo_spinazzola.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 29.94483100460077,
-            "edit_distance": 42.0,
-            "edit_similarity": 0.23880597014925373,
+            "chrf": 3.90625,
+            "edit_distance": 6.0,
+            "edit_similarity": 0.18181818181818182,
             "targets": [
                 "terzino",
                 "terzino sinistro"
             ],
-            "prediction": "sinistra d come si chiama il presidente della repub"
+            "prediction": "alan"
         },
         "186_bruno_barbieri_chef.txt": {
             "em": 0.0,
-            "f1": 0,
-            "bleu": 0.0,
-            "chrf": 19.945091796402366,
-            "edit_distance": 43.0,
-            "edit_similarity": 0.14814814814814814,
+            "f1": 0.2222222222222222,
+            "bleu": 5.522397783539471,
+            "chrf": 27.457672043136228,
+            "edit_distance": 45.0,
+            "edit_similarity": 0.17857142857142858,
             "targets": [
                 "il padre",
                 "padre"
             ],
-            "prediction": "madre d in orlando la protagonista ritorna dal vi"
+            "prediction": "padre barbieri è un personaggio dello spettacolo it"
         },
         "2004_ivan_cattaneo.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 13.277373470062853,
-            "edit_distance": 36.0,
-            "edit_similarity": 0.21818181818181817,
+            "chrf": 6.720430107526883,
+            "edit_distance": 12.0,
+            "edit_similarity": 0.08333333333333333,
             "targets": [
                 "omosessualità"
             ],
-            "prediction": "ipogofia rispondi alla seguente domanda in"
+            "prediction": "cirug collo"
         },
         "2275_mantova.txt": {
             "em": 0.0,
-            "f1": 0,
-            "bleu": 0.0,
-            "chrf": 19.141122015909243,
-            "edit_distance": 7.0,
+            "f1": 0.5,
+            "bleu": 27.516060407455225,
+            "chrf": 67.73514618499955,
+            "edit_distance": 22.0,
             "edit_similarity": 0.5,
             "targets": [
                 "inondazione"
             ],
-            "prediction": "alluvione"
+            "prediction": "discauses inondazione esondazione"
         },
         "2342_ferruccio_lamborghini.txt": {
-            "em": 0.0,
-            "f1": 0.25,
-            "bleu": 6.567274736060395,
-            "chrf": 56.08674806150471,
-            "edit_distance": 39.0,
-            "edit_similarity": 0.36065573770491804,
-            "targets": [
-                "agricoltore"
-            ],
-            "prediction": "agricoltore rispondi alla seguente domanda in modo"
-        },
-        "2763_sulla_mia_pelle_film_2018.txt": {
-            "em": 0.0,
-            "f1": 0,
-            "bleu": 0.0,
-            "chrf": 9.765547189355004,
-            "edit_distance": 43.0,
-            "edit_similarity": 0.10344827586206896,
-            "targets": [
-                "epilessia"
-            ],
-            "prediction": "schizofrenia d in quale città è connecta facebook"
-        },
-        "2848_angelo_pintus.txt": {
-            "em": 0.0,
-            "f1": 0,
-            "bleu": 0.0,
-            "chrf": 13.88888888888889,
-            "edit_distance": 33.0,
-            "edit_similarity": 0.10810810810810811,
-            "targets": [
-                "no"
-            ],
-            "prediction": "si d la ne ve omago stornello tripp"
-        },
-        "0462_paolo_gentiloni.txt": {
             "em": 1.0,
             "f1": 1.0,
             "bleu": 100.00000000000004,
@@ -807,22 +771,58 @@
             "edit_distance": 0.0,
             "edit_similarity": 1.0,
             "targets": [
+                "agricoltore"
+            ],
+            "prediction": "agricoltore"
+        },
+        "2763_sulla_mia_pelle_film_2018.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 16.097281403403855,
+            "edit_distance": 20.0,
+            "edit_similarity": 0.30303030303030304,
+            "targets": [
+                "epilessia"
+            ],
+            "prediction": "pertosissimo tubercolosi"
+        },
+        "2848_angelo_pintus.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 0.0,
+            "edit_distance": 2.0,
+            "edit_similarity": 0.0,
+            "targets": [
+                "no"
+            ],
+            "prediction": "sì"
+        },
+        "0462_paolo_gentiloni.txt": {
+            "em": 0.0,
+            "f1": 0.3636363636363636,
+            "bleu": 9.535414040914189,
+            "chrf": 62.11849051238054,
+            "edit_distance": 48.0,
+            "edit_similarity": 0.4146341463414634,
+            "targets": [
                 "mattarella",
                 "sergio mattarella"
             ],
-            "prediction": "sergio mattarella"
+            "prediction": "il presidente della repubblica italiana era sergio mattarella nel"
         },
         "0490_levante_cantante.txt": {
             "em": 0.0,
-            "f1": 0.15384615384615383,
-            "bleu": 4.767707020457095,
-            "chrf": 17.18821436048909,
-            "edit_distance": 36.0,
-            "edit_similarity": 0.32786885245901637,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 4.629629629629629,
+            "edit_distance": 13.0,
+            "edit_similarity": 0.19047619047619047,
             "targets": [
                 "abbi cura di te"
             ],
-            "prediction": "intimità d in quale opera di leonardo da vinci"
+            "prediction": "ianuno"
         },
         "0492_massacri_delle_foibe.txt": {
             "em": 1.0,
@@ -842,444 +842,444 @@
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 15.264938609755866,
-            "edit_distance": 32.0,
-            "edit_similarity": 0.16666666666666666,
+            "chrf": 8.889969736273237,
+            "edit_distance": 9.0,
+            "edit_similarity": 0.21052631578947367,
             "targets": [
                 "montalbano"
             ],
-            "prediction": "dagant d quali costituyono gli ingress"
+            "prediction": "giribaldi"
         },
         "0570_lucio_dalla.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 12.056986045425353,
-            "edit_distance": 34.0,
-            "edit_similarity": 0.20833333333333334,
+            "chrf": 13.136145644177494,
+            "edit_distance": 10.0,
+            "edit_similarity": 0.3333333333333333,
             "targets": [
                 "jole melotti",
                 "melotti"
             ],
-            "prediction": "gloria d dove è situata la città di raven"
+            "prediction": "ada tondelli"
         },
         "0595_lo_chiamavano_jeeg_robot.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 11.19271445358402,
-            "edit_distance": 39.0,
-            "edit_similarity": 0.17857142857142858,
+            "chrf": 11.613669590643275,
+            "edit_distance": 8.0,
+            "edit_similarity": 0.4,
             "targets": [
                 "lo zingaro",
                 "zingaro"
             ],
-            "prediction": "enzo rispondi alla seguente domanda in modo ch"
+            "prediction": "ugo morosi"
         },
         "0606_perfetti_sconosciuti.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 8.333333333333332,
-            "edit_distance": 48.0,
-            "edit_similarity": 0.10909090909090909,
+            "chrf": 0.0,
+            "edit_distance": 5.0,
+            "edit_similarity": 0.0,
             "targets": [
                 "lele"
             ],
-            "prediction": "francesca rispondi alla seguente domanda in modo ch"
+            "prediction": "maria"
         },
         "0661_raz_degan.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 14.796046046046046,
-            "edit_distance": 11.0,
-            "edit_similarity": 0.2727272727272727,
+            "chrf": 8.70070250322351,
+            "edit_distance": 22.0,
+            "edit_similarity": 0.1875,
             "targets": [
                 "mistero"
             ],
-            "prediction": "big brother vip"
+            "prediction": "amici di maria de filippi"
         },
         "0697_lallieva_serie_televisiva.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 10.073260073260073,
-            "edit_distance": 38.0,
-            "edit_similarity": 0.23333333333333334,
+            "chrf": 7.142857142857142,
+            "edit_distance": 9.0,
+            "edit_similarity": 0.24,
             "targets": [
                 "sergio einardi",
                 "einardi sergio",
                 "sergio"
             ],
-            "prediction": "francesco mollicone d quale è il capoluogo del"
+            "prediction": "procuratore"
         },
         "0763_lory_del_santo.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 8.454106280193237,
-            "edit_distance": 24.0,
-            "edit_similarity": 0.14634146341463414,
+            "chrf": 9.420207096086495,
+            "edit_distance": 47.0,
+            "edit_similarity": 0.12307692307692308,
             "targets": [
                 "il fotografo"
             ],
-            "prediction": "ù viva prosecco d linvenzione"
+            "prediction": "vertigini si riferisce alla passione di lory del sant"
         },
         "0796_paola_turci.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 12.533061755887939,
-            "edit_distance": 36.0,
-            "edit_similarity": 0.3,
+            "chrf": 7.246376811594203,
+            "edit_distance": 37.0,
+            "edit_similarity": 0.07017543859649122,
             "targets": [
                 "sarò bellissima"
             ],
-            "prediction": "la notte dei capelloni rispondi alla seguente"
+            "prediction": "momenti di vuoto un vludio in cantoocolate"
         },
         "0813_federico_bernardeschi.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 7.309941520467837,
-            "edit_distance": 30.0,
-            "edit_similarity": 0.1951219512195122,
+            "chrf": 8.771929824561402,
+            "edit_distance": 7.0,
+            "edit_similarity": 0.35294117647058826,
             "targets": [
                 "ponzano"
             ],
-            "prediction": "fiorentina d come si chiama lisola"
+            "prediction": "fiorentina"
         },
         "0864_simone_zaza.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 10.201172392157376,
-            "edit_distance": 43.0,
-            "edit_similarity": 0.14035087719298245,
+            "chrf": 8.184227525728495,
+            "edit_distance": 27.0,
+            "edit_similarity": 0.1,
             "targets": [
                 "viareggio"
             ],
-            "prediction": "west ham dive nella ricerca e prima di scaricare"
+            "prediction": "genoa anche noto come genoa cfc"
         },
         "0924_vincenzo_de_luca_politico_1949.txt": {
             "em": 0.0,
-            "f1": 0,
-            "bleu": 0.0,
-            "chrf": 9.982132116194318,
-            "edit_distance": 5.0,
-            "edit_similarity": 0.3333333333333333,
+            "f1": 0.6666666666666666,
+            "bleu": 55.03212081491043,
+            "chrf": 57.90993112484547,
+            "edit_distance": 7.0,
+            "edit_similarity": 0.7096774193548387,
             "targets": [
                 "piero",
                 "p de luca",
                 "piero de luca"
             ],
-            "prediction": "michele"
+            "prediction": "alessandro de luca"
         },
         "0939_campania.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 9.947177691787976,
-            "edit_distance": 37.0,
-            "edit_similarity": 0.07692307692307693,
+            "chrf": 9.057971014492752,
+            "edit_distance": 7.0,
+            "edit_similarity": 0.25,
             "targets": [
                 "longobardi"
             ],
-            "prediction": "normanni d quando fu realizzato il colosse"
+            "prediction": "romani"
         },
         "1031_stefano_dorazio.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 9.229593332495705,
-            "edit_distance": 38.0,
-            "edit_similarity": 0.19230769230769232,
+            "chrf": 6.578947368421051,
+            "edit_distance": 10.0,
+            "edit_similarity": 0.10526315789473684,
             "targets": [
                 "il punto"
             ],
-            "prediction": "le idiote d in quale anno è stato realizzato"
+            "prediction": "osage tribe"
         },
         "1042_francesco_nuti.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 17.843366062858554,
-            "edit_distance": 26.0,
-            "edit_similarity": 0.3508771929824561,
+            "chrf": 7.662835249042145,
+            "edit_distance": 23.0,
+            "edit_similarity": 0.25,
             "targets": [
                 "io chiara e lo scuro"
             ],
-            "prediction": "speriamo che torni presto d nel quale"
+            "prediction": "bene il regno di napoli 1983"
         },
         "1056_ricchi_e_poveri.txt": {
             "em": 0.0,
-            "f1": 0.22222222222222224,
-            "bleu": 6.567274736060395,
-            "chrf": 7.490954319312528,
-            "edit_distance": 37.0,
-            "edit_similarity": 0.16666666666666666,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 21.2797619047619,
+            "edit_distance": 8.0,
+            "edit_similarity": 0.14285714285714285,
             "targets": [
                 "jets",
                 "dei jets",
                 "i jets"
             ],
-            "prediction": "i coronici d con quali balletto collaborav"
+            "prediction": "osage trio"
         },
         "1083_statistiche_della_serie_a.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 23.621075817492684,
-            "edit_distance": 39.0,
-            "edit_similarity": 0.1875,
+            "chrf": 16.01410991232855,
+            "edit_distance": 8.0,
+            "edit_similarity": 0.4375,
             "targets": [
                 "football club internazionale milano",
                 "fc internazionale milano",
                 "inter",
                 "internazionale"
             ],
-            "prediction": "milan rispondi alla seguente domanda in modo chiar"
+            "prediction": "ac milan"
         },
         "1099_sparizione_di_emanuela_orlandi.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 20.449669728288413,
-            "edit_distance": 43.0,
-            "edit_similarity": 0.3238095238095238,
+            "chrf": 17.79673767288223,
+            "edit_distance": 42.0,
+            "edit_similarity": 0.3,
             "targets": [
                 "accademia di musica tommaso ludovico da victoria",
                 "tommaso ludovico da victoria"
             ],
-            "prediction": "istititio completo non indicato nella domanda specificata"
+            "prediction": "istituto tecnico commerciale statale barney oldfield"
         },
         "1110_alitalia.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 10.403893729159943,
-            "edit_distance": 46.0,
-            "edit_similarity": 0.18181818181818182,
+            "chrf": 9.478733670834211,
+            "edit_distance": 17.0,
+            "edit_similarity": 0.29411764705882354,
             "targets": [
                 "siaimarchetti"
             ],
-            "prediction": "air france klm d nella seconda guerra mondiale contro"
+            "prediction": "anello management srl"
         },
         "1157_incidente_di_vermicino.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 15.070697344415162,
-            "edit_distance": 33.0,
-            "edit_similarity": 0.17391304347826086,
+            "chrf": 5.555555555555556,
+            "edit_distance": 9.0,
+            "edit_similarity": 0.34782608695652173,
             "targets": [
                 "pisegna",
                 "amedeo pisegna"
             ],
-            "prediction": "giuseppe dossetti d qual è il numero di"
+            "prediction": "aldo moro"
         },
         "1181_ilenia_pastorelli.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 23.85436311623346,
-            "edit_distance": 35.0,
-            "edit_similarity": 0.1694915254237288,
+            "chrf": 8.30502163383125,
+            "edit_distance": 19.0,
+            "edit_similarity": 0.10526315789473684,
             "targets": [
                 "niente di serio"
             ],
-            "prediction": "il ragazzo invisibile rispondi alla seguente"
+            "prediction": "io non sono un avvocato"
         },
         "1342_città_del_vaticano.txt": {
-            "em": 0.0,
-            "f1": 0.33333333333333337,
-            "bleu": 8.392229812593097,
-            "chrf": 32.88076962542099,
-            "edit_distance": 35.0,
-            "edit_similarity": 0.3076923076923077,
+            "em": 1.0,
+            "f1": 1.0,
+            "bleu": 100.00000000000004,
+            "chrf": 100.0,
+            "edit_distance": 0.0,
+            "edit_similarity": 1.0,
             "targets": [
                 "pio ix",
                 "papa pio ix",
                 "pio nono",
                 "papa pio nono"
             ],
-            "prediction": "pio ix d in quale opera di leonardo da vinci"
+            "prediction": "pio ix"
         },
         "1367_rosy_abate.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 18.807508196026884,
-            "edit_distance": 37.0,
-            "edit_similarity": 0.17543859649122806,
+            "chrf": 5.128205128205128,
+            "edit_distance": 15.0,
+            "edit_similarity": 0.25,
             "targets": [
                 "claudia mares"
             ],
-            "prediction": "mariano aprea rispondi alla seguente domanda"
+            "prediction": "papa giovanni xxiii"
         },
         "1448_alex_baroni.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 12.499545311343049,
-            "edit_distance": 40.0,
-            "edit_similarity": 0.23880597014925373,
+            "chrf": 12.0599848471603,
+            "edit_distance": 37.0,
+            "edit_similarity": 0.1875,
             "targets": [
                 "pavarotti",
                 "luciano pavarotti"
             ],
-            "prediction": "andrea bocelli d quale personaggio storico è stato"
+            "prediction": "claudio baglioni che ha presieduto la giuria di"
         },
         "1472_éder_calciatore_1986.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 13.395073219161082,
-            "edit_distance": 41.0,
-            "edit_similarity": 0.14545454545454545,
+            "chrf": 1.8939393939393936,
+            "edit_distance": 9.0,
+            "edit_similarity": 0.11764705882352941,
             "targets": [
                 "sampdoria"
             ],
-            "prediction": "bologna rispondi alla seguente domanda in modo"
+            "prediction": "juventus"
         },
         "1619_plinio_fernando.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 18.77051474381581,
-            "edit_distance": 33.0,
-            "edit_similarity": 0.31746031746031744,
+            "chrf": 14.65500472018203,
+            "edit_distance": 51.0,
+            "edit_similarity": 0.2962962962962963,
             "targets": [
                 "mariangela fantozzi",
                 "mariangela"
             ],
-            "prediction": "lidia rispondi alla seguente domanda in modo"
+            "prediction": "isabella filesi personaggio interpretato da plinio fernando in"
         },
         "1753_napoli_velata.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 10.813858138581384,
-            "edit_distance": 46.0,
-            "edit_similarity": 0.07407407407407407,
+            "chrf": 0.0,
+            "edit_distance": 18.0,
+            "edit_similarity": 0.0,
             "targets": [
                 "luca"
             ],
-            "prediction": "carlo rispondi alla seguente domanda in modo chiar"
+            "prediction": "vito r mississippi"
         },
         "1810_clarice_orsini.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 12.98090899856743,
-            "edit_distance": 41.0,
-            "edit_similarity": 0.25396825396825395,
+            "chrf": 8.064516129032258,
+            "edit_distance": 6.0,
+            "edit_similarity": 0.36363636363636365,
             "targets": [
                 "orsini",
                 "degli orsini",
                 "famiglia orsini"
             ],
-            "prediction": "medici rispondi alla seguente domanda in modo ch"
+            "prediction": "firenze"
         },
         "1827_caso_aldrovandi.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 17.718351332281426,
-            "edit_distance": 39.0,
-            "edit_similarity": 0.30303030303030304,
+            "chrf": 6.656644195904193,
+            "edit_distance": 15.0,
+            "edit_similarity": 0.2962962962962963,
             "targets": [
                 "cristina chiarelli"
             ],
-            "prediction": "valeria concas rispondi alla seguente domanda in"
+            "prediction": "luca toti"
         },
         "183_suburra_-_la_serie.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 11.108817381880112,
-            "edit_distance": 26.0,
-            "edit_similarity": 0.25806451612903225,
+            "chrf": 6.839487277597092,
+            "edit_distance": 6.0,
+            "edit_similarity": 0.2857142857142857,
             "targets": [
                 "amedeo cinaglia",
                 "cinaglia",
                 "il personaggio amedeo cinaglia"
             ],
-            "prediction": "othello d quando è morta marilyn"
+            "prediction": "hamlet"
         },
         "1843_francesca_chillemi.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 11.066275372951823,
-            "edit_distance": 45.0,
-            "edit_similarity": 0.14545454545454545,
+            "chrf": 3.90625,
+            "edit_distance": 6.0,
+            "edit_similarity": 0.18181818181818182,
             "targets": [
                 "michela"
             ],
-            "prediction": "chiara rispondi alla seguente domanda in modo ch"
+            "prediction": "anna"
         },
         "1848_episodi_di_don_matteo_undicesima_stagione.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 11.177939173853835,
-            "edit_distance": 31.0,
-            "edit_similarity": 0.16,
+            "chrf": 14.390474517840607,
+            "edit_distance": 35.0,
+            "edit_similarity": 0.21818181818181817,
             "targets": [
                 "giulio tommasi",
                 "tommasi",
                 "giulio"
             ],
-            "prediction": "luca brè d oggi è vendita della luna"
+            "prediction": "sara martini personaggio teresa brabbazza"
         },
         "1910_rai_5.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 15.657735515599835,
-            "edit_distance": 38.0,
-            "edit_similarity": 0.3055555555555556,
+            "chrf": 8.169934640522875,
+            "edit_distance": 11.0,
+            "edit_similarity": 0.18181818181818182,
             "targets": [
                 "eurovision song contest",
                 "eurovision"
             ],
-            "prediction": "upper e jon lambert d nella storia sono state due"
+            "prediction": "sanremo 2013"
         },
         "2009_lucrezia_lante_della_rovere.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 12.403609610091342,
-            "edit_distance": 27.0,
-            "edit_similarity": 0.23529411764705882,
+            "chrf": 10.870970775633037,
+            "edit_distance": 16.0,
+            "edit_similarity": 0.25806451612903225,
             "targets": [
                 "barbareschi",
                 "luca barbareschi"
             ],
-            "prediction": "niccolò machiavelli d chi è stato l"
+            "prediction": "alessandro de medici"
         },
         "2025_pietro_pellegri.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 6.666666666666667,
-            "edit_distance": 9.0,
-            "edit_similarity": 0.13333333333333333,
+            "chrf": 12.267414122137405,
+            "edit_distance": 25.0,
+            "edit_similarity": 0.16666666666666666,
             "targets": [
                 "piola",
                 "silvio piola"
             ],
-            "prediction": "martinetti"
+            "prediction": "r giovani simeone 17 anni e 258"
         },
         "2094_gianni_boncompagni.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 15.092147914844112,
-            "edit_distance": 28.0,
-            "edit_similarity": 0.3283582089552239,
+            "chrf": 15.083713483972778,
+            "edit_distance": 17.0,
+            "edit_similarity": 0.3684210526315789,
             "targets": [
                 "raffaella carrà",
                 "carrà raffaella",
@@ -1287,320 +1287,320 @@
                 "raffaella",
                 "la carrà"
             ],
-            "prediction": "paola cortellesi d come si dice cake"
+            "prediction": "michelamicaela albanese"
         },
         "2098_valentina_lodovini.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 7.4074074074074066,
+            "chrf": 4.878048780487805,
             "edit_distance": 8.0,
-            "edit_similarity": 0.1111111111111111,
+            "edit_similarity": 0.2857142857142857,
             "targets": [
                 "baustelle"
             ],
-            "prediction": "subsonica"
+            "prediction": "fedez"
         },
         "2187_carlo_conti_conduttore_televisivo.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 10.497941760215067,
-            "edit_distance": 34.0,
-            "edit_similarity": 0.11538461538461539,
+            "chrf": 14.16823972822581,
+            "edit_distance": 20.0,
+            "edit_similarity": 0.37209302325581395,
             "targets": [
                 "panariello",
                 "giorgio panariello"
             ],
-            "prediction": "marco mazzocchi d quando è stato insignito"
+            "prediction": "cooper heller john legend"
         },
         "2252_max_gazzè.txt": {
             "em": 0.0,
-            "f1": 0.16666666666666669,
-            "bleu": 4.196114906296549,
-            "chrf": 20.97424072207693,
-            "edit_distance": 48.0,
-            "edit_similarity": 0.34210526315789475,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 5.235272988505747,
+            "edit_distance": 13.0,
+            "edit_similarity": 0.25,
             "targets": [
                 "francesco gazzè"
             ],
-            "prediction": "fabrizio bos argued that it changes subject max gazzè usually"
+            "prediction": "jovanotti"
         },
         "2265_gaetano_castrovilli.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 7.936507936507936,
-            "edit_distance": 12.0,
-            "edit_similarity": 0.3448275862068966,
+            "chrf": 17.787930452696827,
+            "edit_distance": 11.0,
+            "edit_similarity": 0.5517241379310345,
             "targets": [
                 "tonali sandro",
                 "sandro tonali"
             ],
-            "prediction": "federico dimarco"
+            "prediction": "stefano marellis"
         },
         "227_un_medico_in_famiglia.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 13.365200764818356,
-            "edit_distance": 37.0,
-            "edit_similarity": 0.13043478260869565,
+            "chrf": 14.285714285714285,
+            "edit_distance": 13.0,
+            "edit_similarity": 0.19047619047619047,
             "targets": [
                 "alice"
             ],
-            "prediction": "emiliano d quale è la capitale del belgio"
+            "prediction": "carla brentanini"
         },
         "2302_roberto_gualtieri.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 14.05336069779374,
-            "edit_distance": 35.0,
-            "edit_similarity": 0.225,
+            "chrf": 10.741223393752716,
+            "edit_distance": 14.0,
+            "edit_similarity": 0.375,
             "targets": [
                 "antonio gramsci",
                 "gramsci",
                 "antonio sebastiano francesco gramsci"
             ],
-            "prediction": "great war d in quale anno è nato il film del"
+            "prediction": "conf eddie giobbe"
         },
         "2311_personaggi_di_un_medico_in_famiglia.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 13.076673164392464,
-            "edit_distance": 36.0,
-            "edit_similarity": 0.13953488372093023,
+            "chrf": 15.25997794033252,
+            "edit_distance": 51.0,
+            "edit_similarity": 0.13559322033898305,
             "targets": [
                 "lele"
             ],
-            "prediction": "emmanuel d quando si festeggia il capod"
+            "prediction": "kevin t deducono che il nome di gabriele nella serie un"
         },
         "2394_limmortale_film_2019.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 13.545098980783685,
-            "edit_distance": 25.0,
-            "edit_similarity": 0.3125,
+            "chrf": 16.607982870594284,
+            "edit_distance": 31.0,
+            "edit_similarity": 0.375,
             "targets": [
                 "terremoto dellirpinia",
                 "terremoto dellirpinia del 1980",
                 "terremoto"
             ],
-            "prediction": "1945 nel romanzo famiglia di mario"
+            "prediction": "narragone o nella riscrittura è chiamato al"
         },
         "2396_virna_lisi.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 11.993108931884443,
-            "edit_distance": 33.0,
-            "edit_similarity": 0.23255813953488372,
+            "chrf": 12.492607924305146,
+            "edit_distance": 31.0,
+            "edit_similarity": 0.2,
             "targets": [
                 "dario"
             ],
-            "prediction": "al pacino d in quali quarti sedevano i"
+            "prediction": "sophia loren suo padre è risă bruno"
         },
         "2421_giorgio_panariello.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 13.292219783282814,
-            "edit_distance": 35.0,
-            "edit_similarity": 0.2641509433962264,
+            "chrf": 15.704974567920962,
+            "edit_distance": 28.0,
+            "edit_similarity": 0.375,
             "targets": [
                 "conti",
                 "carlo conti"
             ],
-            "prediction": "paolo panpanarò rispondi alla seguente dom"
+            "prediction": "raffaele meloni conduttore televisivo"
         },
         "2507_riforma_delle_pensioni_fornero.txt": {
-            "em": 0.0,
-            "f1": 0.4,
-            "bleu": 11.044795567078939,
-            "chrf": 58.77194057251599,
-            "edit_distance": 32.0,
-            "edit_similarity": 0.4074074074074074,
+            "em": 1.0,
+            "f1": 1.0,
+            "bleu": 100.00000000000004,
+            "chrf": 100.0,
+            "edit_distance": 0.0,
+            "edit_similarity": 1.0,
             "targets": [
                 "monti",
                 "mario monti"
             ],
-            "prediction": "mario monti d da quale paese proviene verdi"
+            "prediction": "mario monti"
         },
         "0484_virginia_raffaele.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 15.978025379139583,
-            "edit_distance": 36.0,
-            "edit_similarity": 0.25,
+            "chrf": 6.862745098039215,
+            "edit_distance": 12.0,
+            "edit_similarity": 0.36363636363636365,
             "targets": [
                 "federica pellegrini",
                 "pellegrini"
             ],
-            "prediction": "simone biles rispondi alla seguente domanda in"
+            "prediction": "nadia comăneci"
         },
         "0567_monica_vitti.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 4.5787545787545785,
-            "edit_distance": 60.0,
-            "edit_similarity": 0.0821917808219178,
+            "chrf": 9.712571067593178,
+            "edit_distance": 7.0,
+            "edit_similarity": 0.35294117647058826,
             "targets": [
                 "vittiglia"
             ],
-            "prediction": "non ho le informazioni necessarie per rispondere in modo preciso"
+            "prediction": "sabatini"
         },
         "0633_luciano_ligabue.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 9.999999999999998,
-            "edit_distance": 36.0,
-            "edit_similarity": 0.19230769230769232,
+            "chrf": 6.802721088435375,
+            "edit_distance": 7.0,
+            "edit_similarity": 0.375,
             "targets": [
                 "gli orazero",
                 "orazero"
             ],
-            "prediction": "area 77 rispondi alla seguente domanda in"
+            "prediction": "jovanotti"
         },
         "0634_pooh.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 6.25,
-            "edit_distance": 34.0,
-            "edit_similarity": 0.04878048780487805,
+            "chrf": 9.090909090909092,
+            "edit_distance": 13.0,
+            "edit_similarity": 0.21052631578947367,
             "targets": [
                 "piper"
             ],
-            "prediction": "la gru o santantonio d in che anno l"
+            "prediction": "teatro sistina"
         },
         "0730_lisola_dei_famosi.txt": {
-            "em": 0.0,
-            "f1": 0,
-            "bleu": 0.0,
-            "chrf": 14.490046176543848,
-            "edit_distance": 37.0,
-            "edit_similarity": 0.19672131147540983,
+            "em": 1.0,
+            "f1": 1.0,
+            "bleu": 100.00000000000004,
+            "chrf": 100.0,
+            "edit_distance": 0.0,
+            "edit_similarity": 1.0,
             "targets": [
                 "alessia marcuzzi",
                 "marcuzzi"
             ],
-            "prediction": "pablo carré rispondi alla seguente domanda in"
+            "prediction": "alessia marcuzzi"
         },
         "0839_adua_del_vesco.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 15.652342001383637,
-            "edit_distance": 38.0,
-            "edit_similarity": 0.22950819672131148,
+            "chrf": 10.652302478192135,
+            "edit_distance": 13.0,
+            "edit_similarity": 0.3870967741935484,
             "targets": [
                 "inturri",
                 "alessio inturri"
             ],
-            "prediction": "francesca archibugi rispondi alla seguente dom"
+            "prediction": "daniele luchetti"
         },
         "0859_luca_marinelli.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 13.389048359446635,
-            "edit_distance": 39.0,
-            "edit_similarity": 0.1643835616438356,
+            "chrf": 12.01367875167461,
+            "edit_distance": 18.0,
+            "edit_similarity": 0.3902439024390244,
             "targets": [
                 "lo chiamavano jeeg robot"
             ],
-            "prediction": "mart use card d con quali personaggi collabora il"
+            "prediction": "io sono boltuccio"
         },
         "0863_fiorello.txt": {
             "em": 0.0,
-            "f1": 0,
-            "bleu": 0.0,
-            "chrf": 10.089844330952308,
-            "edit_distance": 26.0,
-            "edit_similarity": 0.24561403508771928,
+            "f1": 0.18181818181818182,
+            "bleu": 5.522397783539471,
+            "chrf": 32.18523901177076,
+            "edit_distance": 35.0,
+            "edit_similarity": 0.22857142857142856,
             "targets": [
                 "rosario tindaro fiorello"
             ],
-            "prediction": "francviews nzharkevich d qual è l"
+            "prediction": "fiorello manhattan suono di vero nome se conos"
         },
         "0872_peppino_impastato.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 20.425161784065384,
-            "edit_distance": 41.0,
-            "edit_similarity": 0.3384615384615385,
+            "chrf": 19.319814923380072,
+            "edit_distance": 11.0,
+            "edit_similarity": 0.5882352941176471,
             "targets": [
                 "manzella",
                 "cesare manzella"
             ],
-            "prediction": "salvatore inzerillo rispondi alla seguente domanda"
+            "prediction": "salvatore inzerillo"
         },
         "0899_cristiana_capotondi.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 9.25925925925926,
-            "edit_distance": 40.0,
-            "edit_similarity": 0.22580645161290322,
+            "chrf": 17.265193370165747,
+            "edit_distance": 8.0,
+            "edit_similarity": 0.5185185185185185,
             "targets": [
                 "fabio de luigi",
                 "de luigi"
             ],
-            "prediction": "valeria marini rispondi alla seguente domanda in"
+            "prediction": "matilde gioli"
         },
         "0977_luigi_tenco.txt": {
             "em": 0.0,
-            "f1": 0,
-            "bleu": 0.0,
-            "chrf": 15.932428837456769,
-            "edit_distance": 28.0,
-            "edit_similarity": 0.28,
+            "f1": 0.5,
+            "bleu": 49.99999999999999,
+            "chrf": 32.86650036569145,
+            "edit_distance": 6.0,
+            "edit_similarity": 0.6666666666666666,
             "targets": [
                 "valentino tenco",
                 "valentino"
             ],
-            "prediction": "adriano d cosa sono le cosiddette c"
+            "prediction": "sergio tenco"
         },
         "1201_teresa_bellanova.txt": {
-            "em": 0.0,
-            "f1": 0.19999999999999998,
-            "bleu": 4.767707020457095,
-            "chrf": 42.42515916977655,
-            "edit_distance": 30.0,
-            "edit_similarity": 0.27906976744186046,
+            "em": 1.0,
+            "f1": 1.0,
+            "bleu": 100.00000000000004,
+            "chrf": 100.0,
+            "edit_distance": 0.0,
+            "edit_similarity": 1.0,
             "targets": [
                 "puglia",
                 "circoscrizione puglia"
             ],
-            "prediction": "puglia d se non ci fosse il dique rem"
+            "prediction": "puglia"
         },
         "1209_la_porta_rossa.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 11.039725478408977,
-            "edit_distance": 38.0,
-            "edit_similarity": 0.20689655172413793,
+            "chrf": 15.226944042718877,
+            "edit_distance": 16.0,
+            "edit_similarity": 0.24,
             "targets": [
                 "antonio piras",
                 "piras"
             ],
-            "prediction": "giuseppe balsamo d chi fu il re di francia ad"
+            "prediction": "francesca cagliostro"
         },
         "1214_bernardo_provenzano.txt": {
             "em": 0.0,
-            "f1": 0.28571428571428575,
-            "bleu": 8.745825313180632,
-            "chrf": 13.116226053948846,
-            "edit_distance": 18.0,
-            "edit_similarity": 0.35,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 12.37597865353887,
+            "edit_distance": 27.0,
+            "edit_similarity": 0.3076923076923077,
             "targets": [
                 "cavatajo",
                 "il cobra",
@@ -1609,231 +1609,9 @@
                 "michele cavataio",
                 "cavataio michele"
             ],
-            "prediction": "buscetta tommaso d il 23"
+            "prediction": "bernardo provenzano ma vigili urbani"
         },
         "1282_renato_pozzetto.txt": {
-            "em": 0.0,
-            "f1": 0,
-            "bleu": 0.0,
-            "chrf": 20.399135698999192,
-            "edit_distance": 36.0,
-            "edit_similarity": 0.38235294117647056,
-            "targets": [
-                "commedia",
-                "commedia allitaliana"
-            ],
-            "prediction": "comico rispondi alla seguente domanda in modo ch"
-        },
-        "1381_pago_cantante.txt": {
-            "em": 0.0,
-            "f1": 0,
-            "bleu": 0.0,
-            "chrf": 8.88888888888889,
-            "edit_distance": 41.0,
-            "edit_similarity": 0.14285714285714285,
-            "targets": [
-                "music farm"
-            ],
-            "prediction": "idol rispondi alla seguente domanda in modo ch"
-        },
-        "1404_donatella_gruppo_musicale.txt": {
-            "em": 0.0,
-            "f1": 0,
-            "bleu": 0.0,
-            "chrf": 37.92947987851176,
-            "edit_distance": 6.0,
-            "edit_similarity": 0.46153846153846156,
-            "targets": [
-                "duemila e tredici",
-                "duemila tredici",
-                "2013",
-                "duemilatredici"
-            ],
-            "prediction": "anno 2019"
-        },
-        "1407_mario_giordano.txt": {
-            "em": 0.0,
-            "f1": 0,
-            "bleu": 0.0,
-            "chrf": 10.300963974643782,
-            "edit_distance": 36.0,
-            "edit_similarity": 0.1509433962264151,
-            "targets": [
-                "il giornale"
-            ],
-            "prediction": "solo dal 2018 la corriere della sera ha la"
-        },
-        "1415_stefano_sensi.txt": {
-            "em": 0.0,
-            "f1": 0,
-            "bleu": 0.0,
-            "chrf": 13.8732129420617,
-            "edit_distance": 41.0,
-            "edit_similarity": 0.18867924528301888,
-            "targets": [
-                "como",
-                "como 1907",
-                "ac como"
-            ],
-            "prediction": "pescara rispondi alla seguente domanda in modo"
-        },
-        "1523_cecilia_capriotti.txt": {
-            "em": 0.0,
-            "f1": 0,
-            "bleu": 0.0,
-            "chrf": 9.345794392523365,
-            "edit_distance": 35.0,
-            "edit_similarity": 0.19047619047619047,
-            "targets": [
-                "jump",
-                "jump stasera mi tuffo"
-            ],
-            "prediction": "la villa dei fuochi d quali gruppo musical"
-        },
-        "1585_paolo_sorrentino.txt": {
-            "em": 0.0,
-            "f1": 0.6,
-            "bleu": 24.446151121745054,
-            "chrf": 71.31914356923372,
-            "edit_distance": 31.0,
-            "edit_similarity": 0.5373134328358209,
-            "targets": [
-                "il film la grande bellezza",
-                "la grande bellezza"
-            ],
-            "prediction": "la grande bellezza rispondi alla seguente domanda"
-        },
-        "1601_the_place.txt": {
-            "em": 0.0,
-            "f1": 0,
-            "bleu": 0.0,
-            "chrf": 9.171879493816508,
-            "edit_distance": 44.0,
-            "edit_similarity": 0.11764705882352941,
-            "targets": [
-                "alex"
-            ],
-            "prediction": "luigi rispondi alla seguente domanda in modo ch"
-        },
-        "1627_dolcenera.txt": {
-            "em": 0.0,
-            "f1": 0,
-            "bleu": 0.0,
-            "chrf": 17.783326494337757,
-            "edit_distance": 37.0,
-            "edit_similarity": 0.3050847457627119,
-            "targets": [
-                "trane",
-                "emanuela trane",
-                "etrane",
-                "emanuela trane"
-            ],
-            "prediction": "rita pavone rispondi alla seguente domanda in"
-        },
-        "1630_1992_serie_televisiva.txt": {
-            "em": 0.0,
-            "f1": 0,
-            "bleu": 0.0,
-            "chrf": 16.895252820495447,
-            "edit_distance": 38.0,
-            "edit_similarity": 0.2,
-            "targets": [
-                "marina"
-            ],
-            "prediction": "margherita rispondi alla seguente domanda in"
-        },
-        "1633_nek.txt": {
-            "em": 0.0,
-            "f1": 0,
-            "bleu": 0.0,
-            "chrf": 15.984709309877712,
-            "edit_distance": 26.0,
-            "edit_similarity": 0.3137254901960784,
-            "targets": [
-                "warner music italy",
-                "warner music",
-                "warner music italia",
-                "warner"
-            ],
-            "prediction": "bmg ricordi d in qualanno berlus"
-        },
-        "1681_library_genesis.txt": {
-            "em": 0.0,
-            "f1": 0,
-            "bleu": 0.0,
-            "chrf": 9.092096902154093,
-            "edit_distance": 32.0,
-            "edit_similarity": 0.20408163265306123,
-            "targets": [
-                "elsevier",
-                "elsevier nv"
-            ],
-            "prediction": "association of american publishers aap"
-        },
-        "1722_fausto_brizzi.txt": {
-            "em": 0.0,
-            "f1": 0,
-            "bleu": 0.0,
-            "chrf": 15.435719623894192,
-            "edit_distance": 35.0,
-            "edit_similarity": 0.26666666666666666,
-            "targets": [
-                "notte prima degli esami oggi"
-            ],
-            "prediction": "ambra rispondi alla seguente domanda in modo ch"
-        },
-        "1727_antonio_zequila.txt": {
-            "em": 0.0,
-            "f1": 0,
-            "bleu": 0.0,
-            "chrf": 13.83972918086365,
-            "edit_distance": 35.0,
-            "edit_similarity": 0.18518518518518517,
-            "targets": [
-                "pirandello",
-                "luigi pirandello"
-            ],
-            "prediction": "dante alighieri d chi ha portato al successo"
-        },
-        "1769_nazionale_di_pallavolo_femminile_dellitalia.txt": {
-            "em": 0.0,
-            "f1": 0,
-            "bleu": 0.0,
-            "chrf": 16.83574879227053,
-            "edit_distance": 24.0,
-            "edit_similarity": 0.391304347826087,
-            "targets": [
-                "bonitta",
-                "marco bonitta"
-            ],
-            "prediction": "massimo barbolini d quale è lalte"
-        },
-        "1772_massimo_boldi.txt": {
-            "em": 0.0,
-            "f1": 0,
-            "bleu": 0.0,
-            "chrf": 11.974248330588619,
-            "edit_distance": 37.0,
-            "edit_similarity": 0.18518518518518517,
-            "targets": [
-                "longo",
-                "franco longo"
-            ],
-            "prediction": "danilo rea d qual è il fiume principale in"
-        },
-        "1791_tina_cipollari.txt": {
-            "em": 0.0,
-            "f1": 0,
-            "bleu": 0.0,
-            "chrf": 12.679702575743217,
-            "edit_distance": 39.0,
-            "edit_similarity": 0.1568627450980392,
-            "targets": [
-                "gianluca"
-            ],
-            "prediction": "desiderio d quale città italiana è nota per"
-        },
-        "1797_toto_cutugno.txt": {
             "em": 1.0,
             "f1": 1.0,
             "bleu": 100.00000000000004,
@@ -1841,90 +1619,312 @@
             "edit_distance": 0.0,
             "edit_similarity": 1.0,
             "targets": [
+                "commedia",
+                "commedia allitaliana"
+            ],
+            "prediction": "commedia allitaliana"
+        },
+        "1381_pago_cantante.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 8.620689655172413,
+            "edit_distance": 21.0,
+            "edit_similarity": 0.12121212121212122,
+            "targets": [
+                "music farm"
+            ],
+            "prediction": "contemporaneamente idol"
+        },
+        "1404_donatella_gruppo_musicale.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 20.833333333333332,
+            "edit_distance": 2.0,
+            "edit_similarity": 0.5,
+            "targets": [
+                "duemila e tredici",
+                "duemila tredici",
+                "2013",
+                "duemilatredici"
+            ],
+            "prediction": "2007"
+        },
+        "1407_mario_giordano.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 11.837064076264028,
+            "edit_distance": 15.0,
+            "edit_similarity": 0.2,
+            "targets": [
+                "il giornale"
+            ],
+            "prediction": "corriere della sera"
+        },
+        "1415_stefano_sensi.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 11.904761904761905,
+            "edit_distance": 27.0,
+            "edit_similarity": 0.21052631578947367,
+            "targets": [
+                "como",
+                "como 1907",
+                "ac como"
+            ],
+            "prediction": "inter nel campionato di serie d"
+        },
+        "1523_cecilia_capriotti.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 6.842794240152326,
+            "edit_distance": 16.0,
+            "edit_similarity": 0.3684210526315789,
+            "targets": [
+                "jump",
+                "jump stasera mi tuffo"
+            ],
+            "prediction": "big brother vip 2"
+        },
+        "1585_paolo_sorrentino.txt": {
+            "em": 0.0,
+            "f1": 0.7499999999999999,
+            "bleu": 39.76353643835254,
+            "chrf": 85.87980967225425,
+            "edit_distance": 13.0,
+            "edit_similarity": 0.7346938775510204,
+            "targets": [
+                "il film la grande bellezza",
+                "la grande bellezza"
+            ],
+            "prediction": "la grande bellezza great beauty"
+        },
+        "1601_the_place.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 0.0,
+            "edit_distance": 4.0,
+            "edit_similarity": 0.0,
+            "targets": [
+                "alex"
+            ],
+            "prediction": "nim"
+        },
+        "1627_dolcenera.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 15.660750035750038,
+            "edit_distance": 19.0,
+            "edit_similarity": 0.358974358974359,
+            "targets": [
+                "trane",
+                "emanuela trane",
+                "etrane",
+                "emanuela trane"
+            ],
+            "prediction": "gabriella longhidolcenera"
+        },
+        "1630_1992_serie_televisiva.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 5.555555555555555,
+            "edit_distance": 4.0,
+            "edit_similarity": 0.3333333333333333,
+            "targets": [
+                "marina"
+            ],
+            "prediction": "teresa"
+        },
+        "1633_nek.txt": {
+            "em": 0.0,
+            "f1": 0.5,
+            "bleu": 49.99999999999999,
+            "chrf": 29.110544109269114,
+            "edit_distance": 5.0,
+            "edit_similarity": 0.6363636363636364,
+            "targets": [
+                "warner music italy",
+                "warner music",
+                "warner music italia",
+                "warner"
+            ],
+            "prediction": "sony music"
+        },
+        "1681_library_genesis.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 7.972095127425326,
+            "edit_distance": 76.0,
+            "edit_similarity": 0.08333333333333333,
+            "targets": [
+                "elsevier",
+                "elsevier nv"
+            ],
+            "prediction": "authority association of american publishers international publishers association etc"
+        },
+        "1722_fausto_brizzi.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 14.24508020506036,
+            "edit_distance": 39.0,
+            "edit_similarity": 0.13333333333333333,
+            "targets": [
+                "notte prima degli esami oggi"
+            ],
+            "prediction": "sì mi dispiace il secondo film diretto da faust"
+        },
+        "1727_antonio_zequila.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 6.453243350988097,
+            "edit_distance": 13.0,
+            "edit_similarity": 0.25,
+            "targets": [
+                "pirandello",
+                "luigi pirandello"
+            ],
+            "prediction": "samuel beckett"
+        },
+        "1769_nazionale_di_pallavolo_femminile_dellitalia.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 12.75252525252525,
+            "edit_distance": 7.0,
+            "edit_similarity": 0.5384615384615384,
+            "targets": [
+                "bonitta",
+                "marco bonitta"
+            ],
+            "prediction": "mauro berruto"
+        },
+        "1772_massimo_boldi.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 12.67498478393183,
+            "edit_distance": 12.0,
+            "edit_similarity": 0.21052631578947367,
+            "targets": [
+                "longo",
+                "franco longo"
+            ],
+            "prediction": "simon phillips"
+        },
+        "1791_tina_cipollari.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 6.944444444444445,
+            "edit_distance": 6.0,
+            "edit_similarity": 0.3333333333333333,
+            "targets": [
+                "gianluca"
+            ],
+            "prediction": "alex"
+        },
+        "1797_toto_cutugno.txt": {
+            "em": 0.0,
+            "f1": 0.8571428571428571,
+            "bleu": 59.460355750136046,
+            "chrf": 94.71645469954271,
+            "edit_distance": 5.0,
+            "edit_similarity": 0.8837209302325582,
+            "targets": [
                 "festival della canzone italiana",
                 "festival di sanremo",
                 "sanremo"
             ],
-            "prediction": "festival di sanremo"
+            "prediction": "festival di sanremo 1988"
         },
         "1816_giuseppe_di_vittorio.txt": {
             "em": 0.0,
-            "f1": 0.6,
-            "bleu": 24.446151121745054,
-            "chrf": 77.02771962207092,
-            "edit_distance": 27.0,
-            "edit_similarity": 0.5970149253731343,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 7.180039490217196,
+            "edit_distance": 8.0,
+            "edit_similarity": 0.36363636363636365,
             "targets": [
                 "giuseppe di vittorio",
                 "di vittorio"
             ],
-            "prediction": "giuseppe di vittorio rispondi alla seguente dom"
+            "prediction": "luigi longo"
         },
         "189_associazione_sportiva_roma.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 14.395629634490453,
+            "chrf": 14.293139293139292,
             "edit_distance": 11.0,
-            "edit_similarity": 0.2857142857142857,
+            "edit_similarity": 0.36363636363636365,
             "targets": [
                 "renato sacerdoti",
                 "sacerdoti"
             ],
-            "prediction": "guido pietra"
+            "prediction": "aldo olivieri"
         },
         "1901_gian_piero_ventura.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 9.389671361502346,
-            "edit_distance": 39.0,
-            "edit_similarity": 0.1509433962264151,
+            "chrf": 6.06920167637739,
+            "edit_distance": 9.0,
+            "edit_similarity": 0.25,
             "targets": [
                 "pistoiese"
             ],
-            "prediction": "bari d quando si è tenuta per la prima volta"
+            "prediction": "taranto"
         },
         "1904_episodi_di_doc_-_nelle_tue_mani.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 12.381098758474648,
-            "edit_distance": 15.0,
-            "edit_similarity": 0.4,
+            "chrf": 6.578947368421052,
+            "edit_distance": 12.0,
+            "edit_similarity": 0.3333333333333333,
             "targets": [
                 "pavesi giovanni",
                 "giovanni pavesi",
                 "pavesi"
             ],
-            "prediction": "emiliano guglielmini"
+            "prediction": "carol marchetti"
         },
         "1917_michele_morrone.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 13.756334883572807,
-            "edit_distance": 39.0,
-            "edit_similarity": 0.18867924528301888,
+            "chrf": 8.882698854843703,
+            "edit_distance": 11.0,
+            "edit_similarity": 0.2857142857142857,
             "targets": [
                 "aurumroma"
             ],
-            "prediction": "morosini bros rispondi alla seguente domanda"
+            "prediction": "morroneведро"
         },
         "1934_boris_giuliano.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 17.79394328288673,
-            "edit_distance": 34.0,
-            "edit_similarity": 0.3466666666666667,
+            "chrf": 14.524303155954849,
+            "edit_distance": 31.0,
+            "edit_similarity": 0.3188405797101449,
             "targets": [
                 "fbi national academy",
                 "fbi national academy associates",
                 "fbi academy",
                 "fbinaa"
             ],
-            "prediction": "istituto di criminalistica forense di roma d"
+            "prediction": "servizio mobile della polizia di stato"
         },
         "1955_leonardo_pavoletti.txt": {
             "em": 0.0,
@@ -1945,61 +1945,61 @@
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 11.363636363636363,
+            "chrf": 17.045454545454543,
             "edit_distance": 5.0,
-            "edit_similarity": 0.2,
+            "edit_similarity": 0.4,
             "targets": [
                 "roma"
             ],
-            "prediction": "torino"
+            "prediction": "milano"
         },
         "1994_volturara_appula.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 11.409925207783035,
-            "edit_distance": 36.0,
-            "edit_similarity": 0.11320754716981132,
+            "chrf": 6.099493029150824,
+            "edit_distance": 19.0,
+            "edit_similarity": 0.25,
             "targets": [
                 "vescovo guglielmo",
                 "guglielmo"
             ],
-            "prediction": "pietro barjei rispondi alla seguente domanda"
+            "prediction": "san bernardino da siena"
         },
         "2186_giacomo_ferrara.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 12.35103053705009,
-            "edit_distance": 35.0,
-            "edit_similarity": 0.20689655172413793,
+            "chrf": 8.074823822025703,
+            "edit_distance": 12.0,
+            "edit_similarity": 0.21052631578947367,
             "targets": [
                 "prete",
                 "alessandro prete"
             ],
-            "prediction": "luchino visconti d che linguaggio grande è"
+            "prediction": "eugene ionesco"
         },
         "2218_il_cacciatore_serie_televisiva_2018.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 15.157752886778923,
-            "edit_distance": 36.0,
-            "edit_similarity": 0.3333333333333333,
+            "chrf": 3.8461538461538463,
+            "edit_distance": 9.0,
+            "edit_similarity": 0.24,
             "targets": [
                 "sabella",
                 "sabella alfonso",
                 "alfonso sabella"
             ],
-            "prediction": "leonardo sciascia d quale città appartiene la"
+            "prediction": "mario puzo"
         },
         "2244_falling_skies.txt": {
             "em": 0.0,
-            "f1": 0.2,
-            "bleu": 5.522397783539471,
-            "chrf": 63.51923963047646,
-            "edit_distance": 32.0,
-            "edit_similarity": 0.4838709677419355,
+            "f1": 0.25,
+            "bleu": 8.116697886877475,
+            "chrf": 64.39699832518737,
+            "edit_distance": 27.0,
+            "edit_similarity": 0.5970149253731343,
             "targets": [
                 "reggimento 2ª massachusetts",
                 "reggimento ii massachusetts",
@@ -2010,211 +2010,211 @@
                 "ii massachusetts",
                 "2 massachusetts"
             ],
-            "prediction": "2nd massachusetts d quale squadra di calcio del"
+            "prediction": "2nd mass second massachusetts militia regiment"
         },
         "2268_la_dea_fortuna.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 13.9446227929374,
-            "edit_distance": 27.0,
-            "edit_similarity": 0.17142857142857143,
+            "chrf": 17.342908438061045,
+            "edit_distance": 9.0,
+            "edit_similarity": 0.25,
             "targets": [
                 "elena"
             ],
-            "prediction": "dora d nel film quo vadis come"
+            "prediction": "nonna ester"
         },
         "2285_gabriella_pession.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 16.659709670051363,
-            "edit_distance": 32.0,
-            "edit_similarity": 0.37681159420289856,
+            "chrf": 16.18710686129842,
+            "edit_distance": 34.0,
+            "edit_similarity": 0.35294117647058826,
             "targets": [
                 "carlo gregorio verdone",
                 "carlo verdone",
                 "verdone"
             ],
-            "prediction": "paolo sorrentino rispondi alla seguente domanda"
+            "prediction": "gabriele muccino regista la moglie del soldato"
         },
         "2454_michele_ferrero.txt": {
             "em": 0.0,
-            "f1": 0,
-            "bleu": 0.0,
-            "chrf": 11.637801204819278,
-            "edit_distance": 38.0,
-            "edit_similarity": 0.28125,
+            "f1": 0.5,
+            "bleu": 49.99999999999999,
+            "chrf": 38.18051811671481,
+            "edit_distance": 7.0,
+            "edit_similarity": 0.6666666666666666,
             "targets": [
                 "giovanni ferrero",
                 "giovanni",
                 "ferrero giovanni"
             ],
-            "prediction": "pietro rispondi alla seguente domanda in modo ch"
+            "prediction": "pietro ferrero"
         },
         "2552_gregorio_paltrinieri.txt": {
             "em": 0.0,
-            "f1": 0.3636363636363636,
-            "bleu": 16.233395773754946,
-            "chrf": 49.86924317977618,
-            "edit_distance": 21.0,
-            "edit_similarity": 0.5833333333333334,
+            "f1": 0.6666666666666666,
+            "bleu": 36.78794411714425,
+            "chrf": 66.01764142221674,
+            "edit_distance": 5.0,
+            "edit_similarity": 0.782608695652174,
             "targets": [
                 "olimpiadi 2024",
                 "giochi olimpici di parigi 2024"
             ],
-            "prediction": "giochi olimpici rispondi alla seguente dom"
+            "prediction": "olimpiadi"
         },
         "2565_brunori_sas.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 6.613756613756613,
-            "edit_distance": 37.0,
-            "edit_similarity": 0.19607843137254902,
+            "chrf": 6.25,
+            "edit_distance": 3.0,
+            "edit_similarity": 0.25,
             "targets": [
                 "vol1",
                 "vol 1",
                 "volume 1"
             ],
-            "prediction": "velvet d in quale film de i cantinflas espl"
+            "prediction": "sos3"
         },
         "2621_enrico_piaggio.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 16.77967841087716,
-            "edit_distance": 24.0,
-            "edit_similarity": 0.19047619047619047,
+            "chrf": 17.034313725490193,
+            "edit_distance": 13.0,
+            "edit_similarity": 0.2962962962962963,
             "targets": [
                 "giovanni casiraghi",
                 "casiraghi"
             ],
-            "prediction": "corradino dascanio d quando ha in"
+            "prediction": "corradino dascanio"
         },
         "2631_pietro_sermonti.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 6.750046102373614,
-            "edit_distance": 52.0,
-            "edit_similarity": 0.0967741935483871,
+            "chrf": 7.440476190476191,
+            "edit_distance": 30.0,
+            "edit_similarity": 0.05,
             "targets": [
                 "agnelli"
             ],
-            "prediction": "nessuna risposta possibile dato che non sono state forn"
+            "prediction": "citroni nota pietro sermonti è il"
         },
         "2700_masterchef_italia_settima_edizione.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 13.954181869211338,
-            "edit_distance": 32.0,
-            "edit_similarity": 0.24489795918367346,
+            "chrf": 11.494252873563218,
+            "edit_distance": 17.0,
+            "edit_similarity": 0.3333333333333333,
             "targets": [
                 "bastianich",
                 "joe bastianich",
                 "joe"
             ],
-            "prediction": "nadia d il violino е strumento archetto"
+            "prediction": "marina ade forum inc"
         },
         "279_massimiliano_allegri.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 15.83575796752639,
-            "edit_distance": 36.0,
-            "edit_similarity": 0.2777777777777778,
+            "chrf": 3.571428571428571,
+            "edit_distance": 7.0,
+            "edit_similarity": 0.15384615384615385,
             "targets": [
                 "ac milan",
                 "milan",
                 "associazione calcio milan"
             ],
-            "prediction": "juventus rispondi alla seguente domanda in modo"
+            "prediction": "juventus"
         },
         "0486_primo_levi.txt": {
             "em": 0.0,
-            "f1": 0,
-            "bleu": 0.0,
-            "chrf": 23.642196112201326,
-            "edit_distance": 10.0,
-            "edit_similarity": 0.5,
+            "f1": 0.12500000000000003,
+            "bleu": 3.7477767366779213,
+            "chrf": 22.8764472242054,
+            "edit_distance": 40.0,
+            "edit_similarity": 0.40404040404040403,
             "targets": [
                 "19341935",
                 "193435",
                 "mille novecento trentaquattro e trentacinque"
             ],
-            "prediction": "19301937 d quale"
+            "prediction": "il periodo tra gli anni trenta e quaranta del xx secolo"
         },
         "0750_roberto_speranza.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 14.54461210001703,
-            "edit_distance": 26.0,
-            "edit_similarity": 0.3333333333333333,
+            "chrf": 12.329434697855751,
+            "edit_distance": 17.0,
+            "edit_similarity": 0.24390243902439024,
             "targets": [
                 "consigliere comunale"
             ],
-            "prediction": "ministro della salute d cosa è lit"
+            "prediction": "ministro della salute"
         },
         "1553_vittoria_schisano.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 6.25,
-            "edit_distance": 7.0,
-            "edit_similarity": 0.3333333333333333,
+            "chrf": 4.273504273504273,
+            "edit_distance": 9.0,
+            "edit_similarity": 0.125,
             "targets": [
                 "big mouth"
             ],
-            "prediction": "winx club"
+            "prediction": "pupille"
         },
         "1937_palio_di_siena.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 12.381471719833984,
-            "edit_distance": 21.0,
-            "edit_similarity": 0.34146341463414637,
+            "chrf": 12.132895973604954,
+            "edit_distance": 11.0,
+            "edit_similarity": 0.2962962962962963,
             "targets": [
                 "40 soldi",
                 "quaranta soldi"
             ],
-            "prediction": "5 carlini monete dargento d"
+            "prediction": "becca di lana"
         },
         "2451_giulio_berruti.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 12.5442334226118,
-            "edit_distance": 39.0,
-            "edit_similarity": 0.15873015873015872,
+            "chrf": 12.146420310453417,
+            "edit_distance": 24.0,
+            "edit_similarity": 0.25,
             "targets": [
                 "gabriels inferno"
             ],
-            "prediction": "fifty shades of grey rispondi alla seguente dom"
+            "prediction": "shadowhunters mortal instruments"
         },
         "2706_laura_freddi.txt": {
             "em": 0.0,
-            "f1": 0.2,
-            "bleu": 6.567274736060395,
-            "chrf": 14.045294867041253,
-            "edit_distance": 35.0,
-            "edit_similarity": 0.2807017543859649,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 16.126118534148937,
+            "edit_distance": 28.0,
+            "edit_similarity": 0.32653061224489793,
             "targets": [
                 "per non volare",
                 "per non volare"
             ],
-            "prediction": "non cè tempo rispondi alla seguente domanda"
+            "prediction": "faccendo lamore sono contentsissima"
         },
         "3162_andrea_lucchetta.txt": {
             "em": 0.0,
-            "f1": 0.22222222222222224,
-            "bleu": 6.567274736060395,
-            "chrf": 21.644619562751814,
-            "edit_distance": 36.0,
-            "edit_similarity": 0.2692307692307692,
+            "f1": 0.5,
+            "bleu": 49.99999999999999,
+            "chrf": 37.87205498984996,
+            "edit_distance": 4.0,
+            "edit_similarity": 0.631578947368421,
             "targets": [
                 "coppa cev",
                 "campionato europeo",
@@ -2222,15 +2222,15 @@
                 "europei",
                 "il campionato europeo"
             ],
-            "prediction": "coppa italia gli wheels insieme santagata e"
+            "prediction": "coppa kora"
         },
         "0533_davide_astori.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 23.52700532765497,
-            "edit_distance": 7.0,
-            "edit_similarity": 0.6451612903225806,
+            "chrf": 27.579365079365076,
+            "edit_distance": 2.0,
+            "edit_similarity": 0.75,
             "targets": [
                 "duemiladodiciduemilatredici",
                 "serie 20122013",
@@ -2238,15 +2238,15 @@
                 "20122013",
                 "serie duemiladodiciduemilatredici"
             ],
-            "prediction": "stagione 20172018"
+            "prediction": "20172018"
         },
         "0904_ponte_morandi.txt": {
             "em": 0.0,
-            "f1": 0.25,
-            "bleu": 6.567274736060395,
-            "chrf": 37.93018682399214,
-            "edit_distance": 26.0,
-            "edit_similarity": 0.24561403508771928,
+            "f1": 0.5,
+            "bleu": 27.516060407455225,
+            "chrf": 57.04713932712412,
+            "edit_distance": 8.0,
+            "edit_similarity": 0.5714285714285714,
             "targets": [
                 "quattro agosto duemilaventi",
                 "04",
@@ -2259,55 +2259,55 @@
                 "20200804",
                 "04aug2020"
             ],
-            "prediction": "2020 d quale è la capitale del"
+            "prediction": "19 gennaio 2020"
         },
         "1009_leoluca_bagarella.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 4.62962962962963,
-            "edit_distance": 12.0,
-            "edit_similarity": 0.11764705882352941,
+            "chrf": 12.961402398335686,
+            "edit_distance": 43.0,
+            "edit_similarity": 0.08108108108108109,
             "targets": [
                 "millenovecentonovantuno",
                 "1991"
             ],
-            "prediction": "18480606 d qu"
+            "prediction": "una risposta esatta questa non posso fornire perché"
         },
         "1253_eleonora_giorgi.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 14.313523668617087,
-            "edit_distance": 29.0,
-            "edit_similarity": 0.34375,
+            "chrf": 0.0,
+            "edit_distance": 4.0,
+            "edit_similarity": 0.0,
             "targets": [
                 "millenovecentosettantaquattro",
                 "1974"
             ],
-            "prediction": "1986 rispondi alla seguente domanda"
+            "prediction": "2003"
         },
         "1497_fabio_fognini.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 19.313180449386145,
-            "edit_distance": 28.0,
-            "edit_similarity": 0.2553191489361702,
+            "chrf": 47.91666666666667,
+            "edit_distance": 1.0,
+            "edit_similarity": 0.75,
             "targets": [
                 "2005",
                 "duemilacinque",
                 "duemila e cinque"
             ],
-            "prediction": "2007 d chi è il più grande artista"
+            "prediction": "2007"
         },
         "1520_simona_izzo.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 10.43786295005807,
-            "edit_distance": 47.0,
-            "edit_similarity": 0.2191780821917808,
+            "chrf": 20.833333333333332,
+            "edit_distance": 2.0,
+            "edit_similarity": 0.5,
             "targets": [
                 "due­mila­dodici",
                 "2012",
@@ -2315,15 +2315,15 @@
                 "duemila dodici",
                 "duemila e dodici"
             ],
-            "prediction": "questo fatto non si può rispondere in base quantospecific"
+            "prediction": "2008"
         },
         "1726_strage_di_piazza_fontana.txt": {
             "em": 0.0,
-            "f1": 0.6666666666666666,
-            "bleu": 30.213753973567677,
-            "chrf": 89.01215193383617,
-            "edit_distance": 10.0,
-            "edit_similarity": 0.7619047619047619,
+            "f1": 0.6,
+            "bleu": 24.446151121745054,
+            "chrf": 81.40270329194162,
+            "edit_distance": 17.0,
+            "edit_similarity": 0.6530612244897959,
             "targets": [
                 "12 dicembre 1969",
                 "12121969",
@@ -2333,49 +2333,49 @@
                 "dodici dicembre millenovecentosessantanove",
                 "19691212"
             ],
-            "prediction": "12 dicembre 1969 d quale l"
+            "prediction": "12 dicembre 1969 la strage di pia"
         },
         "1883_giovanni_verga.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 15.471267596241722,
-            "edit_distance": 28.0,
-            "edit_similarity": 0.36666666666666664,
+            "chrf": 47.91666666666667,
+            "edit_distance": 1.0,
+            "edit_similarity": 0.75,
             "targets": [
                 "1872",
                 "mille ottocento settantadue",
                 "milleottocentosettantadue"
             ],
-            "prediction": "1885 rispondi alla seguente domanda"
+            "prediction": "1875"
         },
         "1992_valerio_mastandrea.txt": {
             "em": 0.0,
-            "f1": 0.33333333333333337,
-            "bleu": 10.682175159905853,
-            "chrf": 31.276621728692188,
-            "edit_distance": 27.0,
-            "edit_similarity": 0.32,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 15.380658436213993,
+            "edit_distance": 18.0,
+            "edit_similarity": 0.2702702702702703,
             "targets": [
                 "2007",
                 "duemila e sette",
                 "due­mila­sette"
             ],
-            "prediction": "2007 rispondi alla seguente domanda"
+            "prediction": "2022 è uscito nel 2022"
         },
         "2413_giorgio_almirante.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 13.329493087557603,
-            "edit_distance": 23.0,
-            "edit_similarity": 0.2962962962962963,
+            "chrf": 20.833333333333332,
+            "edit_distance": 2.0,
+            "edit_similarity": 0.5,
             "targets": [
                 "millenovecentottantotto",
                 "1988",
                 "mille novecento ottantotto"
             ],
-            "prediction": "1978 d in quale anno ronaldo"
+            "prediction": "1992"
         },
         "2624_giuliano_de_medici.txt": {
             "em": 0.0,
@@ -2388,336 +2388,336 @@
                 "1471",
                 "millequattrocentosettantuno"
             ],
-            "prediction": "1498"
+            "prediction": "1450"
         },
         "2710_marco_fassone.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 21.53337945710227,
-            "edit_distance": 22.0,
-            "edit_similarity": 0.32558139534883723,
+            "chrf": 27.083333333333332,
+            "edit_distance": 1.0,
+            "edit_similarity": 0.75,
             "targets": [
                 "duemiladieci",
                 "2010",
                 "duemila e dieci"
             ],
-            "prediction": "17 settembre 2019 d in quale"
+            "prediction": "2020"
         },
         "2951_marcello_fonte.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 25.14914070227497,
-            "edit_distance": 19.0,
-            "edit_similarity": 0.2564102564102564,
+            "chrf": 47.91666666666667,
+            "edit_distance": 1.0,
+            "edit_similarity": 0.75,
             "targets": [
                 "2018",
                 "due­mila­diciotto"
             ],
-            "prediction": "2017 d quale nazione è"
+            "prediction": "2017"
         },
         "2973_francesco_de_gregori.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 22.84698912120354,
-            "edit_distance": 21.0,
-            "edit_similarity": 0.2,
+            "chrf": 20.833333333333332,
+            "edit_distance": 2.0,
+            "edit_similarity": 0.5,
             "targets": [
                 "millenovecentosessantasei",
                 "1966"
             ],
-            "prediction": "1969 d quando si svolse il"
+            "prediction": "1971"
         },
         "0554_maurizio_costanzo.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 8.516483516483515,
-            "edit_distance": 14.0,
-            "edit_similarity": 0.3225806451612903,
+            "chrf": 12.3826158566552,
+            "edit_distance": 44.0,
+            "edit_similarity": 0.2318840579710145,
             "targets": [
                 "buon pomeriggio"
             ],
-            "prediction": "la canzone sposa"
+            "prediction": "secondo programma di rai radio 2 con maurizio costanzo"
         },
         "0610_selvaggia_lucarelli.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 15.693339595502978,
-            "edit_distance": 33.0,
-            "edit_similarity": 0.18181818181818182,
+            "chrf": 13.564593426157993,
+            "edit_distance": 47.0,
+            "edit_similarity": 0.2,
             "targets": [
                 "cominciamo bene estate"
             ],
-            "prediction": "la ketchup rispondi alla seguente domanda in"
+            "prediction": "il secondo programma tv della carriera di selvaggia lucare"
         },
         "0931_alessandra_mussolini.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 23.94468333773049,
-            "edit_distance": 37.0,
-            "edit_similarity": 0.28169014084507044,
+            "chrf": 3.7453183520599245,
+            "edit_distance": 19.0,
+            "edit_similarity": 0.2702702702702703,
             "targets": [
                 "ballando con le stelle"
             ],
-            "prediction": "grande fratello rispondi alla seguente domanda in"
+            "prediction": "big brother vip"
         },
         "1023_anna_marchesini.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 14.541612570204515,
-            "edit_distance": 35.0,
-            "edit_similarity": 0.2692307692307692,
+            "chrf": 16.176952532082243,
+            "edit_distance": 28.0,
+            "edit_similarity": 0.2727272727272727,
             "targets": [
                 "tastomatto"
             ],
-            "prediction": "doppia vita rispondi alla seguente domanda"
+            "prediction": "canale 5 estate nome del programma"
         },
         "1283_michele_bravi.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 12.631957773512475,
-            "edit_distance": 27.0,
-            "edit_similarity": 0.23728813559322035,
+            "chrf": 7.361194628182001,
+            "edit_distance": 14.0,
+            "edit_similarity": 0.4117647058823529,
             "targets": [
                 "la vita e la felicità"
             ],
-            "prediction": "io resto talento d sulla medaglia doro"
+            "prediction": "lamore esiste"
         },
         "1320_jane_alexander_attrice_1972.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 8.606981732120406,
-            "edit_distance": 25.0,
-            "edit_similarity": 0.25,
+            "chrf": 9.98226440417985,
+            "edit_distance": 13.0,
+            "edit_similarity": 0.2962962962962963,
             "targets": [
                 "blind date"
             ],
-            "prediction": "24 ore la7 il meglio di 24 ore"
+            "prediction": "il secondo giorno"
         },
         "1370_caterina_balivo.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 11.19122876333465,
-            "edit_distance": 42.0,
-            "edit_similarity": 0.20588235294117646,
+            "chrf": 11.752136752136751,
+            "edit_distance": 15.0,
+            "edit_similarity": 0.21621621621621623,
             "targets": [
                 "courmayeur on ice"
             ],
-            "prediction": "masterchef italia rispondi alla seguente domanda in"
+            "prediction": "puntavoci notre dame"
         },
         "1695_caparezza.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 8.231934688231716,
-            "edit_distance": 29.0,
-            "edit_similarity": 0.18461538461538463,
+            "chrf": 12.130651725483634,
+            "edit_distance": 41.0,
+            "edit_similarity": 0.19753086419753085,
             "targets": [
                 "con caparezza nella monnezza"
             ],
-            "prediction": "ovunque musica dverso che fiume prosc"
+            "prediction": "cè potenzialmente più di un demo composto da federica"
         },
         "1821_serena_grandi.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 16.76935618304313,
-            "edit_distance": 26.0,
-            "edit_similarity": 0.3384615384615385,
+            "chrf": 6.116207951070337,
+            "edit_distance": 23.0,
+            "edit_similarity": 0.24489795918367346,
             "targets": [
                 "in nome del popolo sovrano"
             ],
-            "prediction": "la scrofa e il porcellino rispondi alla"
+            "prediction": "mogliache illegali 1980"
         },
         "1979_francesca_cipriani.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 9.353741496598639,
-            "edit_distance": 25.0,
-            "edit_similarity": 0.18867924528301888,
+            "chrf": 8.960573476702509,
+            "edit_distance": 21.0,
+            "edit_similarity": 0.21739130434782608,
             "targets": [
                 "la pupa e il secchione",
                 "la pupa e il secchione il ritorno"
             ],
-            "prediction": "grande fratello vip 2010 d qual"
+            "prediction": "grande fratello vip 2010"
         },
         "2135_gian_piero_gasperini.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 13.11102727089057,
-            "edit_distance": 33.0,
-            "edit_similarity": 0.22857142857142856,
+            "chrf": 14.347726930935767,
+            "edit_distance": 39.0,
+            "edit_similarity": 0.24691358024691357,
             "targets": [
                 "genoa",
                 "genoa cricket and football club"
             ],
-            "prediction": "udinese d quale principato è vicino san"
+            "prediction": "chievoverona vincitore della coppa italia di serie"
         },
         "2267_gaia_cantante.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 11.171610315978704,
-            "edit_distance": 32.0,
-            "edit_similarity": 0.26865671641791045,
+            "chrf": 12.121212121212121,
+            "edit_distance": 12.0,
+            "edit_similarity": 0.3,
             "targets": [
                 "amici di maria de filippi",
                 "amici"
             ],
-            "prediction": "twos company ho molte altre domande potrei"
+            "prediction": "x factor italia"
         },
         "0577_isola_delle_rose_micronazione.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 10.0,
-            "edit_distance": 45.0,
-            "edit_similarity": 0.14035087719298245,
+            "chrf": 57.308069972919796,
+            "edit_distance": 3.0,
+            "edit_similarity": 0.7058823529411765,
             "targets": [
                 "sudovest",
                 "so"
             ],
-            "prediction": "nord rispondi alla seguente domanda in modo chiar"
+            "prediction": "nordovest"
         },
         "0934_amatrice.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 18.445558739255013,
-            "edit_distance": 41.0,
-            "edit_similarity": 0.08888888888888889,
+            "chrf": 0.0,
+            "edit_distance": 5.0,
+            "edit_similarity": 0.0,
             "targets": [
                 "no"
             ],
-            "prediction": "si d in quali hill del beneventano si trova"
+            "prediction": "sì si"
         },
         "1012_matera.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 7.246376811594203,
-            "edit_distance": 5.0,
-            "edit_similarity": 0.25,
+            "chrf": 18.639053254437872,
+            "edit_distance": 7.0,
+            "edit_similarity": 0.42857142857142855,
             "targets": [
                 "ovest"
             ],
-            "prediction": "sud"
+            "prediction": "verso sud"
         },
         "1142_marocco.txt": {
             "em": 0.0,
-            "f1": 0,
-            "bleu": 0.0,
-            "chrf": 14.285714285714285,
-            "edit_distance": 27.0,
-            "edit_similarity": 0.24390243902439024,
+            "f1": 0.22222222222222224,
+            "bleu": 6.567274736060395,
+            "chrf": 22.497517279534577,
+            "edit_distance": 37.0,
+            "edit_similarity": 0.2641509433962264,
             "targets": [
                 "sud ovest",
                 "sudovest",
                 "so",
                 "sudovest"
             ],
-            "prediction": "nord d quanto pesano 1000 grammi"
+            "prediction": "occidentale indica che si trova ovest dellal"
         },
         "1221_dark_polo_gang.txt": {
             "em": 0.0,
-            "f1": 0.888888888888889,
-            "bleu": 70.71067811865478,
-            "chrf": 97.66232958024537,
-            "edit_distance": 5.0,
-            "edit_similarity": 0.9397590361445783,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 14.080551989730422,
+            "edit_distance": 20.0,
+            "edit_similarity": 0.3103448275862069,
             "targets": [
                 "fimi",
                 "fimi",
                 "federazione industria musicale italiana",
                 "federation of italian music industry"
             ],
-            "prediction": "fimi federazione industria musicale italiana"
+            "prediction": "etichetta discografica"
         },
         "1336_elezioni_politiche_italiane_del_2013.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 5.1020408163265305,
-            "edit_distance": 47.0,
-            "edit_similarity": 0.04,
+            "chrf": 87.49999999999999,
+            "edit_distance": 1.0,
+            "edit_similarity": 0.8,
             "targets": [
                 "sì"
             ],
-            "prediction": "sim rispondi alla seguente domanda in modo chiar"
+            "prediction": "sìn"
         },
         "1368_paolo_genovese.txt": {
             "em": 0.0,
-            "f1": 0.2222222222222222,
-            "bleu": 5.522397783539471,
-            "chrf": 52.945266034808625,
-            "edit_distance": 31.0,
-            "edit_similarity": 0.3404255319148936,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 25.50408075176772,
+            "edit_distance": 8.0,
+            "edit_similarity": 0.5555555555555556,
             "targets": [
                 "immaturi"
             ],
-            "prediction": "immaturi d in che anno fu la referendum"
+            "prediction": "matrimonio"
         },
         "146_sfera_ebbasta.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 16.531854183704485,
-            "edit_distance": 36.0,
-            "edit_similarity": 0.3157894736842105,
+            "chrf": 14.141856392294219,
+            "edit_distance": 11.0,
+            "edit_similarity": 0.4,
             "targets": [
                 "scuola media",
                 "licenza media"
             ],
-            "prediction": "laurea magistrale rispondi alla seguente dom"
+            "prediction": "laurea magistrale"
         },
         "1478_matteo_berrettini.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 9.101279752587491,
-            "edit_distance": 36.0,
-            "edit_similarity": 0.17857142857142858,
+            "chrf": 5.319148936170212,
+            "edit_distance": 9.0,
+            "edit_similarity": 0.2222222222222222,
             "targets": [
                 "terra rossa",
                 "la terra rossa"
             ],
-            "prediction": "cavo d quali sono i pokemon costituenti il"
+            "prediction": "cemento"
         },
         "1595_mango_cantante.txt": {
             "em": 0.0,
-            "f1": 0.3636363636363636,
-            "bleu": 9.535414040914189,
-            "chrf": 63.784957382322794,
-            "edit_distance": 28.0,
-            "edit_similarity": 0.44,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 9.803921568627452,
+            "edit_distance": 5.0,
+            "edit_similarity": 0.46153846153846156,
             "targets": [
                 "giovane",
                 "più giovane"
             ],
-            "prediction": "più giovane d quali si tratta di un pes"
+            "prediction": "minore"
         },
         "1837_giovanni_simeone.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 11.111111111111112,
-            "edit_distance": 42.0,
-            "edit_similarity": 0.043478260869565216,
+            "chrf": 21.639511201629325,
+            "edit_distance": 33.0,
+            "edit_similarity": 0.10810810810810811,
             "targets": [
                 "no"
             ],
-            "prediction": "sì rispondi alla seguente domanda in modo ch"
+            "prediction": "sìn si la risposta corrette sono da"
         },
         "2177_gianroberto_casaleggio.txt": {
             "em": 1.0,
@@ -2735,9 +2735,9 @@
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 13.255954823455848,
-            "edit_distance": 32.0,
-            "edit_similarity": 0.34615384615384615,
+            "chrf": 6.153846153846153,
+            "edit_distance": 5.0,
+            "edit_similarity": 0.2857142857142857,
             "targets": [
                 "4ª",
                 "quarta posizione",
@@ -2746,60 +2746,47 @@
                 "4",
                 "4°"
             ],
-            "prediction": "numero 1° rispondi alla seguente domanda"
+            "prediction": "primo"
         },
         "2307_maria_montessori.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 7.692307692307692,
+            "chrf": 4.901960784313726,
             "edit_distance": 5.0,
-            "edit_similarity": 0.36363636363636365,
+            "edit_similarity": 0.2857142857142857,
             "targets": [
                 "la nonna",
                 "nonna"
             ],
-            "prediction": "nipote"
+            "prediction": "figlia"
         },
         "2518_diego_abatantuono.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 7.547169811320755,
-            "edit_distance": 37.0,
-            "edit_similarity": 0.08888888888888889,
+            "chrf": 5.208333333333334,
+            "edit_distance": 5.0,
+            "edit_similarity": 0.2222222222222222,
             "targets": [
                 "prima"
             ],
-            "prediction": "dopo d che club ha militato gianluca cap"
+            "prediction": "dopo"
         },
         "0677_diodato_cantante.txt": {
             "em": 0.0,
-            "f1": 0.18181818181818182,
-            "bleu": 4.196114906296549,
-            "chrf": 17.24137931034483,
-            "edit_distance": 32.0,
-            "edit_similarity": 0.10810810810810811,
+            "f1": 0.4,
+            "bleu": 15.97357760615681,
+            "chrf": 33.33333333333333,
+            "edit_distance": 13.0,
+            "edit_similarity": 0.13333333333333333,
             "targets": [
                 "2",
                 "due"
             ],
-            "prediction": "2 d come si dice i love you in ing"
+            "prediction": "2 fino al 2014"
         },
         "0753_spal_2013.txt": {
-            "em": 0.0,
-            "f1": 0,
-            "bleu": 0.0,
-            "chrf": 14.364303178484109,
-            "edit_distance": 40.0,
-            "edit_similarity": 0.13043478260869565,
-            "targets": [
-                "2",
-                "due"
-            ],
-            "prediction": "4 rispondi alla seguente domanda in modo ch"
-        },
-        "0819_serie_a_2015-2016.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
@@ -2807,45 +2794,58 @@
             "edit_distance": 1.0,
             "edit_similarity": 0.0,
             "targets": [
+                "2",
+                "due"
+            ],
+            "prediction": "5"
+        },
+        "0819_serie_a_2015-2016.txt": {
+            "em": 0.0,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 10.869565217391305,
+            "edit_distance": 37.0,
+            "edit_similarity": 0.13953488372093023,
+            "targets": [
                 "6",
                 "sei"
             ],
-            "prediction": "5"
+            "prediction": "5 squadre le squadre vincitrici del camp"
         },
         "0921_lispettore_coliandro.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 13.430237893143083,
-            "edit_distance": 35.0,
-            "edit_similarity": 0.2807017543859649,
+            "chrf": 0.0,
+            "edit_distance": 2.0,
+            "edit_similarity": 0.0,
             "targets": [
                 "sette stagioni",
                 "sette",
                 "7"
             ],
-            "prediction": "6 rispondi alla seguente domanda in modo ch"
+            "prediction": "11"
         },
         "0996_luca_zaia.txt": {
             "em": 0.0,
-            "f1": 0.2222222222222222,
-            "bleu": 5.522397783539471,
-            "chrf": 14.364303178484109,
-            "edit_distance": 40.0,
-            "edit_similarity": 0.13043478260869565,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 8.333333333333332,
+            "edit_distance": 8.0,
+            "edit_similarity": 0.16666666666666666,
             "targets": [
                 "2",
                 "due"
             ],
-            "prediction": "2 rispondi alla seguente domanda in modo ch"
+            "prediction": "tre volte"
         },
         "1119_ornella_vanoni.txt": {
             "em": 0.0,
-            "f1": 0,
-            "bleu": 0.0,
-            "chrf": 18.740540925043017,
-            "edit_distance": 35.0,
-            "edit_similarity": 0.3,
+            "f1": 0.2857142857142857,
+            "bleu": 8.116697886877475,
+            "chrf": 28.13653136531365,
+            "edit_distance": 23.0,
+            "edit_similarity": 0.17647058823529413,
             "targets": [
                 "2",
                 "seconda",
@@ -2856,129 +2856,129 @@
                 "2ª posizione",
                 "2°"
             ],
-            "prediction": "3 rispondi alla seguente domanda in modo ch"
+            "prediction": "3 volte è arrivata 2ª 1966"
         },
         "1136_lamica_geniale_serie_televisiva.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 7.246376811594203,
-            "edit_distance": 21.0,
-            "edit_similarity": 0.12903225806451613,
+            "chrf": 6.4887429594284605,
+            "edit_distance": 56.0,
+            "edit_similarity": 0.11940298507462686,
             "targets": [
                 "5",
                 "cinque"
             ],
-            "prediction": "3 barbiera cetli zuccheri"
+            "prediction": "3 verschiedenen schauspielerinnen haben die hauptrolle in lam"
         },
         "1189_episodi_di_gomorra_-_la_serie_quarta_stagione.txt": {
             "em": 0.0,
-            "f1": 0,
-            "bleu": 0.0,
-            "chrf": 8.695652173913043,
-            "edit_distance": 30.0,
-            "edit_similarity": 0.05555555555555555,
+            "f1": 0.25,
+            "bleu": 6.567274736060395,
+            "chrf": 32.17450248023174,
+            "edit_distance": 37.0,
+            "edit_similarity": 0.2127659574468085,
             "targets": [
                 "primo",
                 "uno",
                 "1"
             ],
-            "prediction": "4 d come si chiama il figlio terz"
+            "prediction": "10 il primo episodio della quarta stagione"
         },
         "1215_benedetta_mazza.txt": {
             "em": 0.0,
-            "f1": 0.25,
-            "bleu": 6.567274736060395,
-            "chrf": 38.019628181600574,
-            "edit_distance": 22.0,
-            "edit_similarity": 0.21428571428571427,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 83.33333333333334,
+            "edit_distance": 1.0,
+            "edit_similarity": 0.6666666666666666,
             "targets": [
                 "2",
                 "due"
             ],
-            "prediction": "6 d nel 2021 quali due at"
+            "prediction": "72"
         },
         "1418_cristiano_de_andré.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 5.464480874316941,
-            "edit_distance": 32.0,
-            "edit_similarity": 0.09302325581395349,
+            "chrf": 9.25925925925926,
+            "edit_distance": 5.0,
+            "edit_similarity": 0.2222222222222222,
             "targets": [
                 "3 volte",
                 "tre",
                 "tre volte",
                 "3"
             ],
-            "prediction": "15 d quanti comuni ci sono in italia"
+            "prediction": "cinque"
         },
         "142_serie_a.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 17.820773930753564,
-            "edit_distance": 31.0,
-            "edit_similarity": 0.16216216216216217,
+            "chrf": 41.66666666666667,
+            "edit_distance": 8.0,
+            "edit_similarity": 0.2,
             "targets": [
                 "una",
                 "uno",
                 "1"
             ],
-            "prediction": "9 d quanti sono i 5 stadi italiani"
+            "prediction": "173 volte"
         },
         "1665_cristina_davena.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 15.786282792241883,
-            "edit_distance": 29.0,
-            "edit_similarity": 0.3793103448275862,
+            "chrf": 47.91666666666667,
+            "edit_distance": 1.0,
+            "edit_similarity": 0.75,
             "targets": [
                 "ottantadue",
                 "millenovecentottantadue",
                 "1982",
                 "82"
             ],
-            "prediction": "1972 rispondi alla seguente domanda"
+            "prediction": "1980"
         },
         "1989_adrian_serie_animata.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 17.660501576552523,
-            "edit_distance": 27.0,
-            "edit_similarity": 0.35294117647058826,
+            "chrf": 47.91666666666667,
+            "edit_distance": 1.0,
+            "edit_similarity": 0.75,
             "targets": [
                 "2012",
                 "duemiladodici",
                 "duemila e dodici",
                 "duemiladodici"
             ],
-            "prediction": "2001 rispondi alla seguente domanda"
+            "prediction": "2017"
         },
         "2406_emigratis.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 10.638297872340425,
-            "edit_distance": 38.0,
-            "edit_similarity": 0.13636363636363635,
+            "chrf": 15.873015873015872,
+            "edit_distance": 8.0,
+            "edit_similarity": 0.3076923076923077,
             "targets": [
                 "3ª",
                 "iii",
                 "terza",
                 "3"
             ],
-            "prediction": "10 rispondi alla seguente domanda in modo"
+            "prediction": "9 edizione"
         },
         "2418_partiti_politici_italiani.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 8.82097175439755,
-            "edit_distance": 34.0,
-            "edit_similarity": 0.23728813559322035,
+            "chrf": 13.243639511851871,
+            "edit_distance": 27.0,
+            "edit_similarity": 0.3018867924528302,
             "targets": [
                 "1951974",
                 "legge 195 del 1974",
@@ -2986,282 +2986,282 @@
                 "1974",
                 "195 del 1974"
             ],
-            "prediction": "59 rispondi alla seguente domanda in modo"
+            "prediction": "lega adriano olivieri 1946 come art"
         },
         "2531_marco_cecchinato.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 11.363636363636362,
-            "edit_distance": 16.0,
-            "edit_similarity": 0.16666666666666666,
+            "chrf": 25.0,
+            "edit_distance": 1.0,
+            "edit_similarity": 0.5,
             "targets": [
                 "sedicesimo",
                 "16°",
                 "16",
                 "sedici"
             ],
-            "prediction": "14 nel 2018 d qual"
+            "prediction": "15"
         },
         "2699_serie_c_2018-2019.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 16.003377881730376,
-            "edit_distance": 33.0,
-            "edit_similarity": 0.2909090909090909,
+            "chrf": 0.0,
+            "edit_distance": 2.0,
+            "edit_similarity": 0.0,
             "targets": [
                 "57",
                 "cinquantasette"
             ],
-            "prediction": "55 rispondi alla seguente domanda in modo"
+            "prediction": "60"
         },
         "0721_lorenzo_amoruso.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 9.087968952134538,
-            "edit_distance": 44.0,
-            "edit_similarity": 0.11320754716981132,
+            "chrf": 18.44529140860727,
+            "edit_distance": 4.0,
+            "edit_similarity": 0.46153846153846156,
             "targets": [
                 "puglia"
             ],
-            "prediction": "calabria rispondi alla seguente domanda in modo"
+            "prediction": "sicilia"
         },
         "0955_gabriele_rubini.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 16.021287302934564,
-            "edit_distance": 43.0,
-            "edit_similarity": 0.25,
+            "chrf": 12.90511316506695,
+            "edit_distance": 20.0,
+            "edit_similarity": 0.24390243902439024,
             "targets": [
                 "nuova zelanda"
             ],
-            "prediction": "hawaii rispondi alla seguente domanda in modo chiar"
+            "prediction": "in florida negli stati uniti"
         },
         "1487_nino_manfredi.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 16.404717902733125,
-            "edit_distance": 44.0,
-            "edit_similarity": 0.15384615384615385,
+            "chrf": 11.363636363636363,
+            "edit_distance": 5.0,
+            "edit_similarity": 0.2,
             "targets": [
                 "roma"
             ],
-            "prediction": "ravenna rispondi alla seguito domanda in modo ch"
+            "prediction": "napoli"
         },
         "1715_domenico_modugno.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 16.032143022555694,
-            "edit_distance": 31.0,
-            "edit_similarity": 0.26666666666666666,
+            "chrf": 10.416666666666668,
+            "edit_distance": 16.0,
+            "edit_similarity": 0.2702702702702703,
             "targets": [
                 "san pietro vernotico"
             ],
-            "prediction": "napoli d quando ha ricevuto il nobel per"
+            "prediction": "montespaccarto mb"
         },
         "2018_carlo_azeglio_ciampi.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 10.749038243946595,
-            "edit_distance": 45.0,
-            "edit_similarity": 0.10526315789473684,
+            "chrf": 10.53178274650904,
+            "edit_distance": 35.0,
+            "edit_similarity": 0.1702127659574468,
             "targets": [
                 "albania"
             ],
-            "prediction": "corpo prigioniero di guerra del xxii battaglione f"
+            "prediction": "corpo automobilistico dello stato milano"
         },
         "2095_mare_fuori.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 16.108372003093578,
-            "edit_distance": 7.0,
-            "edit_similarity": 0.42857142857142855,
+            "chrf": 13.495789798527536,
+            "edit_distance": 11.0,
+            "edit_similarity": 0.38095238095238093,
             "targets": [
                 "napoli"
             ],
-            "prediction": "positano"
+            "prediction": "palermo sicilia"
         },
         "3181_riccardo_schicchi.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 8.351779577095591,
-            "edit_distance": 26.0,
+            "chrf": 7.821475463646807,
+            "edit_distance": 15.0,
             "edit_similarity": 0.16666666666666666,
             "targets": [
                 "sicilia"
             ],
-            "prediction": "molise d nel 2020 ha avuto lu"
+            "prediction": "venezia strumento"
         },
         "3276_antonio_ligabue.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 16.19030393233912,
-            "edit_distance": 42.0,
-            "edit_similarity": 0.20689655172413793,
+            "chrf": 7.468281430219147,
+            "edit_distance": 7.0,
+            "edit_similarity": 0.375,
             "targets": [
                 "romanshorn"
             ],
-            "prediction": "genova rispondi alla seguente domanda in modo ch"
+            "prediction": "rovigo"
         },
         "0728_codice_fiscale.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 15.475201820883372,
-            "edit_distance": 38.0,
-            "edit_similarity": 0.12307692307692308,
+            "chrf": 17.977641650454764,
+            "edit_distance": 44.0,
+            "edit_similarity": 0.19718309859154928,
             "targets": [
                 "tesserino cartaceo"
             ],
-            "prediction": "pasporto rispondi alla seguente domanda in modo"
+            "prediction": "la prima targhetta con codice fiscale fu applicata su"
         },
         "0892_studio_universal.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 7.6923076923076925,
-            "edit_distance": 35.0,
-            "edit_similarity": 0.046511627906976744,
+            "chrf": 20.871967918622847,
+            "edit_distance": 14.0,
+            "edit_similarity": 0.34782608695652173,
             "targets": [
                 "cuore"
             ],
-            "prediction": "terapia di onde d qualè il popolamento"
+            "prediction": "contatore digitale"
         },
         "1084_malika_ayane.txt": {
             "em": 0.0,
-            "f1": 0,
-            "bleu": 0.0,
-            "chrf": 14.900120187326454,
-            "edit_distance": 21.0,
-            "edit_similarity": 0.36,
+            "f1": 0.4,
+            "bleu": 30.326532985631665,
+            "chrf": 27.79054267770329,
+            "edit_distance": 11.0,
+            "edit_similarity": 0.5625,
             "targets": [
                 "premio della critica"
             ],
-            "prediction": "leone doro d come si chiama la"
+            "prediction": "premio oscar"
         },
         "1292_smetto_quando_voglio_film.txt": {
             "em": 0.0,
-            "f1": 0,
-            "bleu": 0.0,
-            "chrf": 12.777434846889225,
-            "edit_distance": 27.0,
-            "edit_similarity": 0.32786885245901637,
+            "f1": 0.22222222222222224,
+            "bleu": 10.682175159905853,
+            "chrf": 24.575059346552354,
+            "edit_distance": 19.0,
+            "edit_similarity": 0.4838709677419355,
             "targets": [
                 "recessione economica del 2007",
                 "recessione economica",
                 "recessione"
             ],
-            "prediction": "crisi finanziaria 2008 ho questo"
+            "prediction": "grande crisi finanziaria del 2008"
         },
         "1842_eusebio_di_francesco.txt": {
-            "em": 0.0,
-            "f1": 0.2222222222222222,
-            "bleu": 5.522397783539471,
-            "chrf": 29.629268034762994,
-            "edit_distance": 42.0,
-            "edit_similarity": 0.19230769230769232,
+            "em": 1.0,
+            "f1": 1.0,
+            "bleu": 100.00000000000004,
+            "chrf": 100.0,
+            "edit_distance": 0.0,
+            "edit_similarity": 1.0,
             "targets": [
                 "serie"
             ],
-            "prediction": "serie rispondi alla seguente domanda in modo ch"
+            "prediction": "serie"
         },
         "1938_omicidio_di_giulio_regeni.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 15.822036064208891,
-            "edit_distance": 33.0,
-            "edit_similarity": 0.3384615384615385,
+            "chrf": 17.406558601791584,
+            "edit_distance": 51.0,
+            "edit_similarity": 0.22535211267605634,
             "targets": [
                 "alfabeto",
                 "lettere",
                 "lettere dell alfabeto"
             ],
-            "prediction": "feriteletiche su mani e gambe scarpe rimosse"
+            "prediction": "nessuna prova solidale tutti i ferita furonosingle bullet wound"
         },
         "2096_valeria_fedeli.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 17.171876456273615,
-            "edit_distance": 14.0,
-            "edit_similarity": 0.47368421052631576,
+            "chrf": 31.405890247250568,
+            "edit_distance": 34.0,
+            "edit_similarity": 0.45,
             "targets": [
                 "assistente sociale",
                 "diploma di assistente sociale",
                 "diploma di assistente sociale triennale"
             ],
-            "prediction": "laurea in sociologia"
+            "prediction": "laurea in scienze della salute o in scienze sociali"
         },
         "1233_franca_valeri.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 16.38904118335393,
-            "edit_distance": 30.0,
-            "edit_similarity": 0.2077922077922078,
+            "chrf": 12.374773246076574,
+            "edit_distance": 28.0,
+            "edit_similarity": 0.23529411764705882,
             "targets": [
                 "regio liceo ginnasio giuseppe parini"
             ],
-            "prediction": "scuola normale superiore di pisa rispondi"
+            "prediction": "università degli studi di padova"
         },
         "148_alessandro_del_piero.txt": {
             "em": 0.0,
-            "f1": 0.18181818181818182,
-            "bleu": 4.196114906296549,
-            "chrf": 42.99121134353287,
-            "edit_distance": 45.0,
-            "edit_similarity": 0.26229508196721313,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 15.585930988498085,
+            "edit_distance": 4.0,
+            "edit_similarity": 0.6666666666666666,
             "targets": [
                 "germania"
             ],
-            "prediction": "germania il campionato del mondo in questione è del 2"
+            "prediction": "francia"
         },
         "1616_emma_bonino.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 7.936507936507936,
-            "edit_distance": 35.0,
-            "edit_similarity": 0.1,
+            "chrf": 20.833333333333332,
+            "edit_distance": 3.0,
+            "edit_similarity": 0.5714285714285714,
             "targets": [
                 "bra"
             ],
-            "prediction": "trieste d quale città ha ospitato i g"
+            "prediction": "roma"
         },
         "1718_marco_pannella.txt": {
             "em": 0.0,
-            "f1": 0.25,
-            "bleu": 8.116697886877475,
-            "chrf": 24.63049311566516,
-            "edit_distance": 31.0,
-            "edit_similarity": 0.35714285714285715,
+            "f1": 0.3333333333333333,
+            "bleu": 15.97357760615681,
+            "chrf": 15.935887788533599,
+            "edit_distance": 13.0,
+            "edit_similarity": 0.5161290322580645,
             "targets": [
                 "via giacinto pannella",
                 "via pannella"
             ],
-            "prediction": "via salinello rispondi alla seguente domanda"
+            "prediction": "via del sole teramo"
         },
         "1845_domenico_arcuri.txt": {
-            "em": 0.0,
-            "f1": 0.2222222222222222,
-            "bleu": 5.522397783539471,
-            "chrf": 40.12032496689623,
-            "edit_distance": 40.0,
-            "edit_similarity": 0.25925925925925924,
+            "em": 1.0,
+            "f1": 1.0,
+            "bleu": 100.00000000000004,
+            "chrf": 100.0,
+            "edit_distance": 0.0,
+            "edit_similarity": 1.0,
             "targets": [
                 "taranto"
             ],
-            "prediction": "taranto d quando è stata firmata la convenzione"
+            "prediction": "taranto"
         },
         "2347_genova.txt": {
             "em": 1.0,
@@ -3277,28 +3277,28 @@
         },
         "2498_ralf_rangnick.txt": {
             "em": 0.0,
-            "f1": 0.2222222222222222,
-            "bleu": 8.116697886877475,
-            "chrf": 45.91363834778048,
-            "edit_distance": 24.0,
-            "edit_similarity": 0.4745762711864407,
+            "f1": 0.6666666666666666,
+            "bleu": 55.03212081491043,
+            "chrf": 65.7181208142108,
+            "edit_distance": 7.0,
+            "edit_similarity": 0.7441860465116279,
             "targets": [
                 "university of sussex",
                 "università del sussex"
             ],
-            "prediction": "università di karlmarxstadt d il primo"
+            "prediction": "university of stuttgart"
         },
         "266_roberto_baggio.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 10.416666666666666,
-            "edit_distance": 7.0,
-            "edit_similarity": 0.14285714285714285,
+            "chrf": 7.440476190476191,
+            "edit_distance": 35.0,
+            "edit_similarity": 0.045454545454545456,
             "targets": [
                 "europa"
             ],
-            "prediction": "giappone"
+            "prediction": "italia fu il campionato del mondo 1994"
         },
         "2996_mine_vaganti.txt": {
             "em": 0.0,
@@ -3318,21 +3318,21 @@
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 10.978275268247451,
-            "edit_distance": 47.0,
-            "edit_similarity": 0.09836065573770492,
+            "chrf": 1.984126984126984,
+            "edit_distance": 9.0,
+            "edit_similarity": 0.1111111111111111,
             "targets": [
                 "magliana"
             ],
-            "prediction": "san lorenzo in questo caso la seguente domanda potreb"
+            "prediction": "trastevere"
         },
         "2493_battaglia_di_caporetto.txt": {
             "em": 0.0,
-            "f1": 0,
-            "bleu": 0.0,
-            "chrf": 61.23067476179822,
-            "edit_distance": 22.0,
-            "edit_similarity": 0.42105263157894735,
+            "f1": 0.2222222222222222,
+            "bleu": 27.516060407455225,
+            "chrf": 14.295642617015773,
+            "edit_distance": 14.0,
+            "edit_similarity": 0.4864864864864865,
             "targets": [
                 "altopiano di asiago",
                 "trentino",
@@ -3340,15 +3340,15 @@
                 "altopiano di asiago",
                 "trentino"
             ],
-            "prediction": "trentinoalto adige d quale è l"
+            "prediction": "austria e slovenia"
         },
         "1589_simone_verdi.txt": {
             "em": 0.0,
             "f1": 0,
             "bleu": 0.0,
-            "chrf": 54.54012200844674,
-            "edit_distance": 10.0,
-            "edit_similarity": 0.4,
+            "chrf": 74.22630560928432,
+            "edit_distance": 2.0,
+            "edit_similarity": 0.6666666666666666,
             "targets": [
                 "20132014",
                 "201314",
@@ -3356,52 +3356,52 @@
                 "2014",
                 "2013"
             ],
-            "prediction": "20122013 d quale"
+            "prediction": "20122013"
         },
         "3283_gli_orologi_del_diavolo.txt": {
             "em": 0.0,
-            "f1": 0.1818181818181818,
-            "bleu": 4.767707020457095,
-            "chrf": 10.693872384346486,
-            "edit_distance": 37.0,
-            "edit_similarity": 0.25,
+            "f1": 0,
+            "bleu": 0.0,
+            "chrf": 17.638888888888893,
+            "edit_distance": 8.0,
+            "edit_similarity": 0.45454545454545453,
             "targets": [
                 "un orologio",
                 "orologio da polso"
             ],
-            "prediction": "un ritratto riprypto d in quale città lavora la"
+            "prediction": "anello doro"
         },
-        "em": 0.036,
-        "f1": 0.09435708735708735,
-        "bleu": 6.161329421747177,
-        "chrf": 21.197102894086335,
-        "edit_distance": 28.784,
-        "edit_similarity": 0.2875993834555504
+        "em": 0.06,
+        "f1": 0.13795829725829725,
+        "bleu": 11.392615343261829,
+        "chrf": 24.340815595210252,
+        "edit_distance": 14.88,
+        "edit_similarity": 0.3823819507649497
     },
     "group_metrics": {
-        "average_em": 0.036,
-        "max_em": 0.036,
-        "min_em": 0.036,
+        "average_em": 0.06,
+        "max_em": 0.06,
+        "min_em": 0.06,
         "gap_em": 0.0,
-        "average_f1": 0.09435708735708735,
-        "max_f1": 0.09435708735708735,
-        "min_f1": 0.09435708735708735,
+        "average_f1": 0.13795829725829725,
+        "max_f1": 0.13795829725829725,
+        "min_f1": 0.13795829725829725,
         "gap_f1": 0.0,
-        "average_bleu": 6.161329421747177,
-        "max_bleu": 6.161329421747177,
-        "min_bleu": 6.161329421747177,
+        "average_bleu": 11.392615343261829,
+        "max_bleu": 11.392615343261829,
+        "min_bleu": 11.392615343261829,
         "gap_bleu": 0.0,
-        "average_chrf": 21.197102894086335,
-        "max_chrf": 21.197102894086335,
-        "min_chrf": 21.197102894086335,
+        "average_chrf": 24.340815595210252,
+        "max_chrf": 24.340815595210252,
+        "min_chrf": 24.340815595210252,
         "gap_chrf": 0.0,
-        "average_edit_distance": 28.784,
-        "max_edit_distance": 28.784,
-        "min_edit_distance": 28.784,
+        "average_edit_distance": 14.88,
+        "max_edit_distance": 14.88,
+        "min_edit_distance": 14.88,
         "gap_edit_distance": 0.0,
-        "average_edit_similarity": 0.2875993834555504,
-        "max_edit_similarity": 0.2875993834555504,
-        "min_edit_similarity": 0.2875993834555504,
+        "average_edit_similarity": 0.3823819507649497,
+        "max_edit_similarity": 0.3823819507649497,
+        "min_edit_similarity": 0.3823819507649497,
         "gap_edit_similarity": 0.0
     }
 }
